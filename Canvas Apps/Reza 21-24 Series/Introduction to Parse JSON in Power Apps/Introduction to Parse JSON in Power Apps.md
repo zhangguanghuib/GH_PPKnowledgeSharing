@@ -27,4 +27,34 @@ Text(Index(Table((ParseJSON(Trim(TextInputCanvas2.Value)))),1).Value)
 Text(Index(Table((ParseJSON(Trim(TextInputCanvas2.Value)))),2).Value)
 Text(Index(Table((ParseJSON(Trim(TextInputCanvas2.Value)))),3).Value)
 ```
+3. Parse object JSON Array<br/>
+```
+[
+  {
+    "name": "Tom",
+    "email": "tom@tech.com",
+    "age": 23
+  },
+  {
+    "name": "John",
+    "email": "john@gmail.com",
+    "age": 28
+  },
+  {
+    "name": "Meghan",
+    "email": "meghan@msn.com",
+    "age": 33
+  },
+  {
+    "name": "Alice",
+    "email": "alice100@yahoo.com",
+    "age": 41
+  }
+]
+```
+```
+Text(Index(Table(ParseJSON(Trim((TextInputCanvas4.Value)))),2).Value.email)
+```
+<img width="1187" height="612" alt="image" src="https://github.com/user-attachments/assets/54b69610-811f-4a3b-8b84-a1c985daeee2" /><br/>
+
 
