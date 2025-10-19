@@ -23,6 +23,8 @@ Set the gallery data source(Items of gallery) as:
 ```
 Table(ParseJSON(SharePointResponse))
 ```
+<br/>
+<hr/>
 Set individual gallery field value:<br/>
 ```
 Text(ThisItem.Value.Title)
