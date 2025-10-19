@@ -19,7 +19,7 @@ Set(SharePointResponse, GetSharePointGroupMembers.Run(txtInputGroupName.Value).r
 ```
 <img width="1246" height="479" alt="image" src="https://github.com/user-attachments/assets/3ad1c278-a6f7-4cd4-a5c6-8b98c4c03e6d" />
 <br/>
-Set the gallery data source(Items of gallery) as: 
+Set the gallery data source(Items of gallery) as:<br/> 
 ```
 Table(ParseJSON(SharePointResponse))
 ```
