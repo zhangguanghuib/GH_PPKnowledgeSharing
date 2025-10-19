@@ -14,8 +14,15 @@ Select <br/>
 Return to Power Apss<br/>
 <img width="1601" height="735" alt="image" src="https://github.com/user-attachments/assets/c3b6c6b0-332d-4356-9daf-b8fd7b3f64b4" /><br/>
 2. In Power Apps, run the flow, get the group members, and then shows in the gallery<br/>
+```
+Set(SharePointResponse, GetSharePointGroupMembers.Run(txtInputGroupName.Value).response); Set(call, 1)
+```
 <img width="1246" height="479" alt="image" src="https://github.com/user-attachments/assets/3ad1c278-a6f7-4cd4-a5c6-8b98c4c03e6d" />
 <br/>
+Set the gallery data source(Items of gallery) as: 
+```
+Table(ParseJSON(SharePointResponse))
+```
 Set individual gallery field value:<br/>
 ```
 Text(ThisItem.Value.Title)
