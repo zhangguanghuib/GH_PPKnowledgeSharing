@@ -10,7 +10,9 @@ When uncheck the checkbox, remove it from collection:<br/>
 The galler's data source is:<br/>
 <img width="1354" height="671" alt="image" src="https://github.com/user-attachments/assets/3282ee37-d159-4a3d-b294-077ad9d1d865" />
 
-2. Click CheckAll button <br/>
+2. Click the below button <br/>
+<img width="976" height="539" alt="image" src="https://github.com/user-attachments/assets/fdf1eaf6-157d-4e9a-95dd-735702d5a39c" />
+<br/>
    <img width="1362" height="668" alt="image" src="https://github.com/user-attachments/assets/d39f9ff3-7d39-4ba0-be04-d1ecc498d8d4" /><br/>
    <img width="1696" height="566" alt="image" src="https://github.com/user-attachments/assets/bb2903f5-f637-4f36-b5ab-3e93a2c55381" /><br/>
    <img width="1522" height="510" alt="image" src="https://github.com/user-attachments/assets/968f7ae5-ba29-4f59-8127-abcbd6e9d3d8" />
