@@ -32,7 +32,21 @@ It takes 17 seconds to set all records with status complete<br/>
    <img width="1673" height="674" alt="image" src="https://github.com/user-attachments/assets/f3375e7b-55f0-431b-9a15-a49566869e8f" /><br/>
 <img width="1734" height="744" alt="image" src="https://github.com/user-attachments/assets/84710401-e658-4977-9ff6-b056f01a9227" /><br/>
 
-4. Remove the records<br/>
+5. Remove the records<br/>
    <img width="1678" height="743" alt="image" src="https://github.com/user-attachments/assets/74626b55-67f8-4e4c-90f8-13c034c9cd2a" /><br/>
+
+Scenario #2, SharePoint as Data Source<br/>
+1. That Screen looks like:<br/>
+   <img width="1556" height="864" alt="image" src="https://github.com/user-attachments/assets/8649b715-3344-4832-805c-aa95460a3b08" /><br/>
+ That is for the bulk update formula:<br/>
+ <img width="1321" height="625" alt="image" src="https://github.com/user-attachments/assets/89a66167-aadf-4cc6-85e7-0d86d15e4621" />
+<br/>
+<img width="1236" height="564" alt="image" src="https://github.com/user-attachments/assets/f4de2e4e-2d98-4b88-8d40-8294727953be" /><br/>
+
+2. Copy action<br/>
+   <img width="1692" height="613" alt="image" src="https://github.com/user-attachments/assets/1986b11d-2867-468f-aa06-6d6b778aee01" />
+
+3. Delete records<br/>
+   <img width="1670" height="818" alt="image" src="https://github.com/user-attachments/assets/27e64838-afba-434b-ac63-a13df2ed4886" />
 
 
