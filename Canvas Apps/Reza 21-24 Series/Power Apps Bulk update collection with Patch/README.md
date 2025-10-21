@@ -28,6 +28,11 @@ It takes 17 seconds to set all records with status complete<br/>
 
 4. Copy records <br/>
    <img width="1526" height="835" alt="image" src="https://github.com/user-attachments/assets/4e25170f-787d-4d55-99b1-1be7e13fa2af" /><br/>
-<img width="1673" height="674" alt="image" src="https://github.com/user-attachments/assets/f3375e7b-55f0-431b-9a15-a49566869e8f" /><br/>
+   Drop the primary key<br/>
+   <img width="1673" height="674" alt="image" src="https://github.com/user-attachments/assets/f3375e7b-55f0-431b-9a15-a49566869e8f" /><br/>
+<img width="1734" height="744" alt="image" src="https://github.com/user-attachments/assets/84710401-e658-4977-9ff6-b056f01a9227" /><br/>
+
+4. Remove the records<br/>
+   <img width="1678" height="743" alt="image" src="https://github.com/user-attachments/assets/74626b55-67f8-4e4c-90f8-13c034c9cd2a" /><br/>
 
 
