@@ -1,1 +1,1 @@
-# GH_PPKnowledgeSharing
+# Power Apps Bulk update collection with Patch
