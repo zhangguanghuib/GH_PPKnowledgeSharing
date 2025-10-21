@@ -1,4 +1,4 @@
-# Power Apps Bulk update collection with Patch
+<img width="1328" height="576" alt="image" src="https://github.com/user-attachments/assets/883c19f6-eb0f-4c3c-8826-a64d205f3f55" /># Power Apps Bulk update collection with Patch
 1. There is a DataVerse Table:<br/>
 <img width="1714" height="637" alt="image" src="https://github.com/user-attachments/assets/c640b4cb-9082-4cde-8717-cccb1511f914" />
 <br/>
@@ -19,4 +19,15 @@ Click this button:<br/>
 <img width="1526" height="858" alt="image" src="https://github.com/user-attachments/assets/d4fc8717-3445-422f-9ba7-00856b08f8f3" /><br/>
 It takes 17 seconds to set all records with status complete<br/>
 <img width="1510" height="810" alt="image" src="https://github.com/user-attachments/assets/25e153ec-ade4-4cb3-88a1-2e6d5182cf77" />
+
+3. More efficient way to do that <br/>
+   <img width="1715" height="811" alt="image" src="https://github.com/user-attachments/assets/b5dfdd0a-afe1-43e5-b1fc-9164656eff71" /><br/>
+   <img width="1328" height="576" alt="image" src="https://github.com/user-attachments/assets/52ed1464-053a-47b1-a5e6-7777a01c067b" /><br/>
+<img width="1696" height="539" alt="image" src="https://github.com/user-attachments/assets/53864d74-cc2c-459c-8663-dcc4d78ecd49" />
+<br/>
+
+4. Copy records <br/>
+   <img width="1526" height="835" alt="image" src="https://github.com/user-attachments/assets/4e25170f-787d-4d55-99b1-1be7e13fa2af" /><br/>
+<img width="1673" height="674" alt="image" src="https://github.com/user-attachments/assets/f3375e7b-55f0-431b-9a15-a49566869e8f" /><br/>
+
 
