@@ -40,4 +40,7 @@ How to filter with the ComboBox Control<br/>
 <br/>
  <img width="767" height="715" alt="image" src="https://github.com/user-attachments/assets/73589f66-0aaf-43dd-89cb-5e004ae7af50" /><br/>
 <img width="1590" height="909" alt="image" src="https://github.com/user-attachments/assets/aab15b4d-24a0-423f-b80f-bee1afd20f2b" /><br/>
-8.
+8.Adding work status Gallery<br/>
+  <img width="1363" height="686" alt="image" src="https://github.com/user-attachments/assets/377dcb2e-c817-4194-847a-9ad2d3c7a85a" /><br/>
+  <img width="1349" height="666" alt="image" src="https://github.com/user-attachments/assets/d27859f8-9e3b-467e-a194-d44c57fec6c5" /><br/>
+
