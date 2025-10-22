@@ -13,5 +13,18 @@ Category contains <br/>
    <img width="1329" height="663" alt="image" src="https://github.com/user-attachments/assets/8b4ed2ce-5b8f-41c0-98c4-bfc6bbf79be7" /><br/>
 <img width="1351" height="661" alt="image" src="https://github.com/user-attachments/assets/8e052697-20a3-498a-add0-05a24e2d2160" /><br/>
 
-
+3. Create Dropdown for filter Choice Column:<br/>
+   <img width="1765" height="779" alt="image" src="https://github.com/user-attachments/assets/fee5b1d4-c069-461d-b4b3-b56e8590e3f1" />
+<br/>
+  <img width="1386" height="711" alt="image" src="https://github.com/user-attachments/assets/110e21e6-c6ff-4920-a306-570011bee3bc" /><br/>
+  <img width="1392" height="646" alt="image" src="https://github.com/user-attachments/assets/9b4ddc64-c8e4-453b-89af-ab403530e8ec" /><br/>
+<img width="1621" height="950" alt="image" src="https://github.com/user-attachments/assets/6f319337-bc2e-441a-b259-1021db9ea539" /><br/>
+4. How to show all the tasks?<br/>
+   <img width="1332" height="661" alt="image" src="https://github.com/user-attachments/assets/4749dd69-0936-4b70-868b-9b0a316118f5" /><br/>
+<img width="1449" height="726" alt="image" src="https://github.com/user-attachments/assets/46ce6635-a322-4e36-897b-997e9143f941" /><br/>
+5. Create Priority Dropdown<br/>
+  <img width="1359" height="688" alt="image" src="https://github.com/user-attachments/assets/efe5eebe-765f-4681-9970-b7635c679aa6" /><br/>
+  <img width="1347" height="665" alt="image" src="https://github.com/user-attachments/assets/490be862-ffb4-4ff8-b071-62cf9de78a99" /><br/>
+  <img width="1377" height="788" alt="image" src="https://github.com/user-attachments/assets/1d66b60f-a4fc-4e35-b409-3db52c4943f2" /><br/>
+<img width="1583" height="408" alt="image" src="https://github.com/user-attachments/assets/c5ab8d53-a0cb-41b7-8567-d785bbea21ee" /><br/>
 
