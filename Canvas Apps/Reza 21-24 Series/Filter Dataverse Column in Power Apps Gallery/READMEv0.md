@@ -43,4 +43,8 @@ How to filter with the ComboBox Control<br/>
 8.Adding work status Gallery<br/>
   <img width="1363" height="686" alt="image" src="https://github.com/user-attachments/assets/377dcb2e-c817-4194-847a-9ad2d3c7a85a" /><br/>
   <img width="1349" height="666" alt="image" src="https://github.com/user-attachments/assets/d27859f8-9e3b-467e-a194-d44c57fec6c5" /><br/>
+  <img width="1353" height="670" alt="image" src="https://github.com/user-attachments/assets/fbbf41c4-c65b-4639-afcf-b98e2ef347bf" /><br/>
+  <img width="1354" height="668" alt="image" src="https://github.com/user-attachments/assets/6daca829-10ed-4353-84f6-041b34c31ed1" /><br/>
+  <img width="1575" height="815" alt="image" src="https://github.com/user-attachments/assets/808dd801-21ea-44cd-b0e3-8727099baeab" /><br/>
+  <img width="1360" height="665" alt="image" src="https://github.com/user-attachments/assets/3dafcec1-95f9-42e5-b344-6fc0c4184b9c" /><br/>
 
