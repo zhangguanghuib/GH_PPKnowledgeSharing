@@ -27,4 +27,16 @@ Category contains <br/>
   <img width="1347" height="665" alt="image" src="https://github.com/user-attachments/assets/490be862-ffb4-4ff8-b071-62cf9de78a99" /><br/>
   <img width="1377" height="788" alt="image" src="https://github.com/user-attachments/assets/1d66b60f-a4fc-4e35-b409-3db52c4943f2" /><br/>
 <img width="1583" height="408" alt="image" src="https://github.com/user-attachments/assets/c5ab8d53-a0cb-41b7-8567-d785bbea21ee" /><br/>
+6. Utilize Combox to multi-filter<br/>
+   <img width="1360" height="722" alt="image" src="https://github.com/user-attachments/assets/a785f831-d3bc-4767-b72e-1166e978e475" />
+   Reset the comboBox:<br/>
+   <img width="1342" height="662" alt="image" src="https://github.com/user-attachments/assets/fb82e9d1-1439-48d4-886a-e4a9c7a3244e" /><br/>
 
+How to filter with the ComboBox Control<br/>
+<img width="1155" height="659" alt="image" src="https://github.com/user-attachments/assets/c510a912-86f8-4469-908f-b54de136803e" /><br/>
+<img width="1711" height="792" alt="image" src="https://github.com/user-attachments/assets/d3a041fe-b70b-4118-baae-97f9552cbf12" /><br/>
+7. Adding color to work status <br/>
+  <img width="1653" height="845" alt="image" src="https://github.com/user-attachments/assets/3463b8f9-27f8-425b-8d83-a11a38752a27" />
+<br/>
+ <img width="767" height="715" alt="image" src="https://github.com/user-attachments/assets/73589f66-0aaf-43dd-89cb-5e004ae7af50" /><br/>
+<img width="1590" height="909" alt="image" src="https://github.com/user-attachments/assets/aab15b4d-24a0-423f-b80f-bee1afd20f2b" /><br/>
