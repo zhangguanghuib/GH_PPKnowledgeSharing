@@ -9,6 +9,9 @@ Finally the Dataverse Table like this<br/>
 <img width="1503" height="481" alt="image" src="https://github.com/user-attachments/assets/a5a9a420-d218-45c8-99f6-78df28552dfc" /><br/>
 Category contains <br/>
 <img width="1603" height="837" alt="image" src="https://github.com/user-attachments/assets/716e0d49-a4d4-48dd-b4f7-50bb7e296c87" /> <br/>
+2. Set the Gallery data source:<br/>
+   <img width="1329" height="663" alt="image" src="https://github.com/user-attachments/assets/8b4ed2ce-5b8f-41c0-98c4-bfc6bbf79be7" /><br/>
+<img width="1351" height="661" alt="image" src="https://github.com/user-attachments/assets/8e052697-20a3-498a-add0-05a24e2d2160" /><br/>
 
 
 
