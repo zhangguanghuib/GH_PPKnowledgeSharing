@@ -47,4 +47,18 @@ How to filter with the ComboBox Control<br/>
   <img width="1354" height="668" alt="image" src="https://github.com/user-attachments/assets/6daca829-10ed-4353-84f6-041b34c31ed1" /><br/>
   <img width="1575" height="815" alt="image" src="https://github.com/user-attachments/assets/808dd801-21ea-44cd-b0e3-8727099baeab" /><br/>
   <img width="1360" height="665" alt="image" src="https://github.com/user-attachments/assets/3dafcec1-95f9-42e5-b344-6fc0c4184b9c" /><br/>
+  <img width="1606" height="690" alt="image" src="https://github.com/user-attachments/assets/ea5e5e89-b5a9-4ca0-8b2e-3e29083c4e3e" /><br/>
+  <img width="1421" height="696" alt="image" src="https://github.com/user-attachments/assets/c779bf29-9621-43c8-a412-cdabbd5c60b8" /><br/>
+  <img width="1577" height="672" alt="image" src="https://github.com/user-attachments/assets/6fe6f707-e56c-4e98-8afb-8d9f64e5a553" /><br/>
+9. Add "All" <br/>
+   <img width="1076" height="648" alt="image" src="https://github.com/user-attachments/assets/cb17c5d7-324f-441c-88d2-d1dcb6968b9f" /> <br/>
+   <img width="898" height="835" alt="image" src="https://github.com/user-attachments/assets/aa0df007-6541-4fe5-bd11-6f8fb9c41fe2" /> <br/>
+   <img width="1243" height="660" alt="image" src="https://github.com/user-attachments/assets/3e16e217-d6d9-4545-8d64-1d3ab79a6fee" /><br/>
+   <img width="851" height="690" alt="image" src="https://github.com/user-attachments/assets/a72b91e2-8c4d-448a-882a-3a2e804bb42c" /><br/>
+   <img width="1159" height="675" alt="image" src="https://github.com/user-attachments/assets/428850ad-a8aa-49a5-829c-0cbb3d565e4b" /><br/>
+    <img width="1379" height="685" alt="image" src="https://github.com/user-attachments/assets/8a6e7287-b276-4068-99bc-ebd9712b0c5c" />
+    Choose "All": <br/>
+    <img width="1590" height="899" alt="image" src="https://github.com/user-attachments/assets/7c317e11-d488-42c4-adad-2308b6741758" />
+
+
 
