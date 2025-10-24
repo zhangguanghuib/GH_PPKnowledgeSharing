@@ -26,7 +26,9 @@ Office365Users.SearchUserV2({searchTerm: ThisItem.'Assigned to'.Email, top:1}).v
 ```
 <img width="1794" height="983" alt="image" src="https://github.com/user-attachments/assets/b2188889-0df9-424a-bd6e-5ec8f9499310" />
 Set its InputTextPlaceholder <br/>
+
 ```
 🔍Search for user
 ```
+
 <img width="2062" height="1095" alt="image" src="https://github.com/user-attachments/assets/c801e64d-6e64-4db6-b6a6-b16d999eb71d" />
