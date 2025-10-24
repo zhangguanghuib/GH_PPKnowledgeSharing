@@ -54,3 +54,13 @@ If(
 )
 ```
 <img width="1775" height="1026" alt="image" src="https://github.com/user-attachments/assets/5c5d4fa4-96d4-4ab4-823c-20e4c3dc56e4" />
+
+Step 6: set  the user profile image <br/>
+Insert image control<br/>
+<img width="1021" height="773" alt="image" src="https://github.com/user-attachments/assets/eab85cfd-e740-4c9b-bcff-1797d24b2e38" /><br/>
+Set its Image Property:<br/>
+<img width="1783" height="880" alt="image" src="https://github.com/user-attachments/assets/743ab032-92ad-48f2-a7d0-178e7f5fde9b" />
+
+```
+If(!IsBlank(DataCardValue41.Selected.Id), Office365Users.UserPhotoV2(DataCardValue41.Selected.Id))
+```
