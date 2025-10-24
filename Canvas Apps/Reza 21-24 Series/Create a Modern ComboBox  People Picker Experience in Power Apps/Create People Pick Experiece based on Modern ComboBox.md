@@ -32,3 +32,25 @@ Set its InputTextPlaceholder <br/>
 ```
 
 <img width="2062" height="1095" alt="image" src="https://github.com/user-attachments/assets/c801e64d-6e64-4db6-b6a6-b16d999eb71d" />
+
+Step 5, for the DataCard, set its update property:<br/>
+
+```
+If(
+    DataCardValue41.Selected.Mail = Blank(),
+    Blank(),
+    {
+        Claims: Concatenate(
+            "i:0#.f|membership|",
+            DataCardValue41.Selected.Mail// Person email
+        ),
+        Department: "",
+        DisplayName: DataCardValue41.Selected.DisplayName,
+        Email: DataCardValue41.Selected.Mail,
+        // Person email
+        JobTitle: "",
+        Picture: ""
+    }
+)
+```
+<img width="1775" height="1026" alt="image" src="https://github.com/user-attachments/assets/5c5d4fa4-96d4-4ab4-823c-20e4c3dc56e4" />
