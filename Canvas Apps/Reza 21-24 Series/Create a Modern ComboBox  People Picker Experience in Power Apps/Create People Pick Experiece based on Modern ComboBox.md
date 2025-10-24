@@ -1,4 +1,5 @@
 # Create a Modern ComboBox People Picker Experience in Power Apps
+Step 0:  Youtybe link: https://www.youtube.com/watch?v=m0HSaoDhYdg<br/>
 Step 1: Create a SharePoint List as below:<br/>
 <img width="2005" height="754" alt="image" src="https://github.com/user-attachments/assets/f35b71ba-6186-4f6b-a070-677a5a1a7099" /><br/>
 
