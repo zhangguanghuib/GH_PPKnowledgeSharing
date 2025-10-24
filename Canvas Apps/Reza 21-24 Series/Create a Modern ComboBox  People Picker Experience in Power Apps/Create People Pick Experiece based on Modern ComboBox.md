@@ -11,5 +11,12 @@ Adding a modern form control <br/>
 <img width="368" height="593" alt="image" src="https://github.com/user-attachments/assets/10fc54a2-eecc-4b96-9118-db059ea30a12" /><br/>
 
 Step 4: <br/>
-Unlock the data card for changing it <br/>
+Unlock the data card for changing it: <br/>
 <img width="1228" height="656" alt="image" src="https://github.com/user-attachments/assets/27a1b796-9850-4c83-a2c9-3c2b03fe22ae" />
+
+For the ComboBox, set its Items<br/>
+```
+Office365Users.SearchUserV2({searchTerm:Self.SearchText, isSearchTermRequired:false, top:999}).value
+```
+<img width="1816" height="991" alt="image" src="https://github.com/user-attachments/assets/6747a71e-de2f-4451-bd0d-52a254206979" /><br/>
+
