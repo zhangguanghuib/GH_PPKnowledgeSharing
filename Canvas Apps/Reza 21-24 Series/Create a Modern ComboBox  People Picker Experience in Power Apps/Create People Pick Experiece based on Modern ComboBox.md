@@ -20,3 +20,8 @@ Office365Users.SearchUserV2({searchTerm:Self.SearchText, isSearchTermRequired:fa
 ```
 <img width="1816" height="991" alt="image" src="https://github.com/user-attachments/assets/6747a71e-de2f-4451-bd0d-52a254206979" /><br/>
 
+Set its DefaultSelectedItems: <br/>
+```
+Office365Users.SearchUserV2({searchTerm: ThisItem.'Assigned to'.Email, top:1}).value
+```
+<img width="1794" height="983" alt="image" src="https://github.com/user-attachments/assets/b2188889-0df9-424a-bd6e-5ec8f9499310" />
