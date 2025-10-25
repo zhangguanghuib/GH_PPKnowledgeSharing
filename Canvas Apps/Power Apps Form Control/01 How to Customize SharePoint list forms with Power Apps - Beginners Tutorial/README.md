@@ -17,3 +17,6 @@ Point 3: Change the Theme:<br/>
 <img width="1720" height="1221" alt="image" src="https://github.com/user-attachments/assets/d353d26f-9de7-4184-9cd4-8b16a123f74f" /><br/>
 Point 4: Add a header, save and published to SharePoint <br/>
 <img width="1887" height="1341" alt="image" src="https://github.com/user-attachments/assets/c619295a-44d0-4ca4-a489-4363899eb269" /><br/>
+
+Step 4: On SharePoint List, click the title to edit it, it will open the Power Apps form <br/>
+<img width="1446" height="1257" alt="image" src="https://github.com/user-attachments/assets/3dea261d-62a7-4366-9c9d-0dbc0d76e1e8" /><br/>
