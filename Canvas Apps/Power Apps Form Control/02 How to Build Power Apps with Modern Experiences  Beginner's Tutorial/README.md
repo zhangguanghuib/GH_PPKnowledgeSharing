@@ -16,3 +16,12 @@ Add Table Control <br/>
 <img width="1241" height="824" alt="image" src="https://github.com/user-attachments/assets/160fb6ff-980e-4f82-b29e-ca2c308fe324" /><br/>
 <img width="1861" height="664" alt="image" src="https://github.com/user-attachments/assets/cf74735d-925e-47a1-bc0a-941299bf1242" /><br/>
 
+Step 4: Preview<br/>
+Preview it on Mobile Device <br/>
+<img width="648" height="1241" alt="image" src="https://github.com/user-attachments/assets/3ba0a635-6aee-4f15-a44e-8883b348b74b" /><br/>
+
+Reflow properties<br/>
+<img width="1849" height="678" alt="image" src="https://github.com/user-attachments/assets/a60db12c-719f-44f4-8746-7a0f3cd926b8" />
+
+
+
