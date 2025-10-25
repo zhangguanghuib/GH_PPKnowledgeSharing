@@ -36,3 +36,33 @@ Reorder the fields<br/>
 OnSuccess of the Form <br/>
 <img width="1892" height="1027" alt="image" src="https://github.com/user-attachments/assets/803751c6-60cb-4044-8dd9-d89d8f427339" />
 
+Step 6:  Main Screen <br/>
+<img width="1840" height="772" alt="image" src="https://github.com/user-attachments/assets/79a3a041-fefa-4c67-961c-acbb8289b709" />
+New Form <br/>
+<img width="1815" height="781" alt="image" src="https://github.com/user-attachments/assets/ff4a0e52-e810-4157-92f1-51471bbb917d" /><br/>
+Edit Form<br/>
+<img width="1876" height="923" alt="image" src="https://github.com/user-attachments/assets/f85d8e69-7b78-4442-a941-5c1baa147850" /><br/>
+
+Set form's Item <br/>
+<img width="1964" height="1037" alt="image" src="https://github.com/user-attachments/assets/aeb0c01f-b17a-44a0-acf4-4ff0455857c9" /><br/>
+<img width="1843" height="1008" alt="image" src="https://github.com/user-attachments/assets/f1ecb647-6a72-429b-b6c6-cf5b6d8d372b" />
+<br/>
+Set "Width to Fit" = On<br/>
+<img width="2408" height="977" alt="image" src="https://github.com/user-attachments/assets/6a88a358-f0d0-4bfd-a56c-9752e501f1b7" /><br/>
+
+Set the "Edit" button Visible :<br/>
+<img width="1868" height="814" alt="image" src="https://github.com/user-attachments/assets/bba7b494-d876-4046-9768-6bcd34998eac" />
+<br/>
+Set the Default of Traver's name: <br/>
+<img width="1678" height="881" alt="image" src="https://github.com/user-attachments/assets/6d6a1f8a-1129-4371-9c27-e5d825166094" />
+<br/>
+Step 7, Add a new container on the main screen, and then add a new Tab List<br/>
+<img width="1347" height="972" alt="image" src="https://github.com/user-attachments/assets/729bc33f-2438-414e-9def-c693c56b499e" /><br/>
+<img width="2458" height="1106" alt="image" src="https://github.com/user-attachments/assets/ff98000a-204e-4f22-819d-2cb9e42e9513" /><br/>
+
+Filter the Table by the Tab List's selected, that is Approval Status <Br/>
+<img width="1852" height="976" alt="image" src="https://github.com/user-attachments/assets/f5372873-6ddf-42f7-ad32-7d9e6512caf1" />
+
+Test:<br/>
+<img width="2416" height="810" alt="image" src="https://github.com/user-attachments/assets/97c9063b-6665-4c56-a714-89aea57eb581" />
+
