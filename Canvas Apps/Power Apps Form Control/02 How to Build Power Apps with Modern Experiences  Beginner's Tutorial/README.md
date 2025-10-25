@@ -23,5 +23,16 @@ Preview it on Mobile Device <br/>
 Reflow properties<br/>
 <img width="1849" height="678" alt="image" src="https://github.com/user-attachments/assets/a60db12c-719f-44f4-8746-7a0f3cd926b8" />
 
-
+Step 5: Add more buttons in the footer sections <br/>
+<img width="1237" height="919" alt="image" src="https://github.com/user-attachments/assets/7f985baa-7332-4843-b6b7-88531cf6ba5e" /><br/>
+Set the type as subtle<br/>
+<img width="1834" height="761" alt="image" src="https://github.com/user-attachments/assets/32aced92-1667-4918-8f6a-8d5705cc6724" /><br/>
+New screen with template "Header and footer" <br/>
+<img width="1725" height="805" alt="image" src="https://github.com/user-attachments/assets/89b8333c-2601-46a8-af42-a9f319eb7eee" /><br/>
+Add modern "Form" Control <br/>
+<img width="1489" height="1001" alt="image" src="https://github.com/user-attachments/assets/9af0e2b8-2fdc-485c-8027-42892bb354fe" />
+Reorder the fields<br/>
+<img width="1916" height="1116" alt="image" src="https://github.com/user-attachments/assets/d16d06b9-3438-46b6-a83f-35a30e8501bd" /><br/>
+OnSuccess of the Form <br/>
+<img width="1892" height="1027" alt="image" src="https://github.com/user-attachments/assets/803751c6-60cb-4044-8dd9-d89d8f427339" />
 
