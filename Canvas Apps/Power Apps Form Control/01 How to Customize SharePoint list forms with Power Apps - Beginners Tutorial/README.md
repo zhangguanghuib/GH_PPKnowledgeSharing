@@ -20,3 +20,21 @@ Point 4: Add a header, save and published to SharePoint <br/>
 
 Step 4: On SharePoint List, click the title to edit it, it will open the Power Apps form <br/>
 <img width="1446" height="1257" alt="image" src="https://github.com/user-attachments/assets/3dea261d-62a7-4366-9c9d-0dbc0d76e1e8" /><br/>
+
+Step 5:  The rectangle Fill color is :<br/>
+<img width="1778" height="1238" alt="image" src="https://github.com/user-attachments/assets/cedcbe2e-b162-4fee-b925-7119a3749d37" />
+<br/>
+
+Step 6: Check the application version: <br/>
+<img width="1143" height="154" alt="image" src="https://github.com/user-attachments/assets/8d7ba727-203c-4d4e-818e-ba48aca1b062" /><br/>
+<img width="1550" height="711" alt="image" src="https://github.com/user-attachments/assets/ae601d68-bab7-4758-881a-600c23f5a5aa" />
+
+Step 7, Check the version from Sharepoint:<br/>
+<img width="504" height="776" alt="image" src="https://github.com/user-attachments/assets/f0a6ee84-7406-40cc-b297-19915b9e89d3" />
+<br/>
+<img width="1389" height="783" alt="image" src="https://github.com/user-attachments/assets/c1297189-8dd6-4d68-a13e-50bc97f50cf2" /><br/>
+<img width="1160" height="536" alt="image" src="https://github.com/user-attachments/assets/d179944e-e710-4ca5-83d2-976aaa97edf5" /><br/>
+It will redirect to Power Apps:<br/>
+<img width="1643" height="982" alt="image" src="https://github.com/user-attachments/assets/aef9d636-daa0-485f-a305-25af84980bf2" />
+Click "delete custom form", it will delete the Power Apps <br/>
+<img width="1454" height="720" alt="image" src="https://github.com/user-attachments/assets/51ecbb43-9dc7-4ac2-9c57-e42f56bcb2c0" />
