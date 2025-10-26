@@ -26,6 +26,6 @@ Run it <br/>
 But it is unlucky this code shows errors in my code<br/>
 <img width="1647" height="855" alt="image" src="https://github.com/user-attachments/assets/a6ee1b42-1e2d-4df7-8c2e-babb0fc1c022" />
 
-Filter by department<br/>
+Filter by department, not work either in my environment<br/>
 <img width="1672" height="530" alt="image" src="https://github.com/user-attachments/assets/8bc9f839-b746-4c64-a54b-6f566882eba4" /><br/>
 
