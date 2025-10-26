@@ -1,4 +1,5 @@
 # How to build People Picker in Power Apps with Office 365 Users Search and more
+0. Youtube link: https://www.youtube.com/watch?v=y90lDTHOm3k
 1. People Template Screen Template in Power Apps:<br/>
 <img width="682" height="645" alt="image" src="https://github.com/user-attachments/assets/99c6ff7a-0b61-4c48-9857-ed2b7ea45459" /><br/>
 Check the connections<br/>
@@ -41,6 +42,11 @@ Filter by department, not work either in my environment<br/>
 
 6. Dataverse Datasource <br/>
 <img width="2462" height="395" alt="image" src="https://github.com/user-attachments/assets/90521622-9b78-49b0-a398-51febb8b1f37" />
+<br/>
+<img width="1800" height="792" alt="image" src="https://github.com/user-attachments/assets/2ca0ac93-7b47-4610-bcb1-0d7d5e4c5496" />
+<br/>
+<img width="2461" height="1114" alt="image" src="https://github.com/user-attachments/assets/4723d09f-acef-4f8a-9bc3-167379b6b978" />
+<br/>
 
-
+&. Creator Kit developed a People Picker Control,  will investigate it further.
 
