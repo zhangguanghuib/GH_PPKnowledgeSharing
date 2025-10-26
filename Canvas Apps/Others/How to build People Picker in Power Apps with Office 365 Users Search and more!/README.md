@@ -15,3 +15,17 @@ Only enabled user will be searchable <br/>
 <img width="689" height="635" alt="image" src="https://github.com/user-attachments/assets/a05e76ac-f8da-44b1-9818-1fe86f84146d" /><br/>
 <img width="1832" height="940" alt="image" src="https://github.com/user-attachments/assets/f5cd3d22-eadc-4779-95fc-ec5d24b2a0a7" /><br/
 <img width="2059" height="571" alt="image" src="https://github.com/user-attachments/assets/4bff74b0-3c74-45a7-9046-3771bb5eaaf1" />
+
+3. Build People Picker by Connector <br/>
+   Adding a modern ComboBox<br/>
+   <img width="1516" height="707" alt="image" src="https://github.com/user-attachments/assets/24766197-3a93-4f02-92a3-39239a8a8125" /><br/>
+<img width="2461" height="932" alt="image" src="https://github.com/user-attachments/assets/3d75c617-a2c2-444c-bcbd-0239365c3965" />
+Run it <br/>
+<img width="1131" height="461" alt="image" src="https://github.com/user-attachments/assets/c583dd40-c463-4613-9a51-82b27cd8a815" /><br/>
+
+But it is unlucky this code shows errors in my code<br/>
+<img width="1647" height="855" alt="image" src="https://github.com/user-attachments/assets/a6ee1b42-1e2d-4df7-8c2e-babb0fc1c022" />
+
+Filter by department<br/>
+<img width="1672" height="530" alt="image" src="https://github.com/user-attachments/assets/8bc9f839-b746-4c64-a54b-6f566882eba4" /><br/>
+
