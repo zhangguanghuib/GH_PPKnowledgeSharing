@@ -10,3 +10,8 @@ If don't want search external user, please add filter<br/>
 <img width="1226" height="788" alt="image" src="https://github.com/user-attachments/assets/13c431ef-71ef-453e-b50b-3142c9c23ba4" /><br/>
 Only enabled user will be searchable <br/>
 <img width="1404" height="670" alt="image" src="https://github.com/user-attachments/assets/de105b6d-20f3-46d3-ab14-2c6116108122" /><br/>
+
+2. Email Template in Power Apps <br/>
+<img width="689" height="635" alt="image" src="https://github.com/user-attachments/assets/a05e76ac-f8da-44b1-9818-1fe86f84146d" /><br/>
+<img width="1832" height="940" alt="image" src="https://github.com/user-attachments/assets/f5cd3d22-eadc-4779-95fc-ec5d24b2a0a7" /><br/
+<img width="2059" height="571" alt="image" src="https://github.com/user-attachments/assets/4bff74b0-3c74-45a7-9046-3771bb5eaaf1" />
