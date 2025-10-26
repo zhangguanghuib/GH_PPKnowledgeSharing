@@ -34,4 +34,13 @@ Filter by department, not work either in my environment<br/>
 <img width="2449" height="1059" alt="image" src="https://github.com/user-attachments/assets/971c652b-7e90-41bb-84d4-0b48143f59a8" /><br/>
 <img width="933" height="377" alt="image" src="https://github.com/user-attachments/assets/1d949a97-125f-4698-a0dc-33cf750d663d" /><br/>
 
+5. People Picker from Data Source <br/>
+   <img width="2447" height="1212" alt="image" src="https://github.com/user-attachments/assets/5d2b804b-9a78-4941-81bc-51e3ea0eeec4" /><br/>
+   <img width="2435" height="1164" alt="image" src="https://github.com/user-attachments/assets/ded58e1c-e8f0-4adc-9cfa-598217da7351" /><br/>
+<img width="1890" height="1049" alt="image" src="https://github.com/user-attachments/assets/5bee25db-c1a4-450a-b4ec-a8564c782515" />
+
+6. Dataverse Datasource <br/>
+<img width="2462" height="395" alt="image" src="https://github.com/user-attachments/assets/90521622-9b78-49b0-a398-51febb8b1f37" />
+
+
 
