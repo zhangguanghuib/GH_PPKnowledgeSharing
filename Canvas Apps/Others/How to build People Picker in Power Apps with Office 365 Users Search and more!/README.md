@@ -29,3 +29,9 @@ But it is unlucky this code shows errors in my code<br/>
 Filter by department, not work either in my environment<br/>
 <img width="1672" height="530" alt="image" src="https://github.com/user-attachments/assets/8bc9f839-b746-4c64-a54b-6f566882eba4" /><br/>
 
+4. Office 365 Groups Connector<br/>
+<img width="2452" height="916" alt="image" src="https://github.com/user-attachments/assets/6c8d8bbf-d05a-4ba0-9031-9de2fa10cfc5" /><br/>
+<img width="2449" height="1059" alt="image" src="https://github.com/user-attachments/assets/971c652b-7e90-41bb-84d4-0b48143f59a8" /><br/>
+<img width="933" height="377" alt="image" src="https://github.com/user-attachments/assets/1d949a97-125f-4698-a0dc-33cf750d663d" /><br/>
+
+
