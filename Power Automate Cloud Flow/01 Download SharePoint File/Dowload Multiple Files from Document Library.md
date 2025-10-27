@@ -19,8 +19,7 @@ Step 3: Test the flow <br/>
 
          See all the files in the document library got downloaded <br/>
 
-         <img width="2136" height="941" alt="image" src="https://github.com/user-attachments/assets/6827362f-dad4-4e9a-8982-3fd8ebf034ae" />
-         <br/>
+         <img width="2136" height="941" alt="image" src="https://github.com/user-attachments/assets/6827362f-dad4-4e9a-8982-3fd8ebf034ae" /><br/>
 
  Step 4: If you want to download the file to the local disk, the connection should be created via:<br/>        
         <img width="1821" height="716" alt="image" src="https://github.com/user-attachments/assets/1464dee2-2d21-4035-b374-fe5eda4bd6dd" /><br/>
