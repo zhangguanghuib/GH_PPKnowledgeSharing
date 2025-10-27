@@ -10,7 +10,6 @@ Step 2: In the Power Automate flow, download all the files from the document lib
         <img width="2684" height="1535" alt="image" src="https://github.com/user-attachments/assets/034d4a75-423c-49b2-b171-447784c6a022" /><br/>
         <hr/>
         <img width="2668" height="1483" alt="image" src="https://github.com/user-attachments/assets/757c9b3c-a83f-4f05-b755-cc192e4e6552" />br/>
-        <hr/>
         Save and publish the flow <br/>
 
 Step 3: Test the flow <br/>
