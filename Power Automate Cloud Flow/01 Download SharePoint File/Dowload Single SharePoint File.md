@@ -8,8 +8,10 @@
 
 2. Test the flow:<br\>
    Select a file and then click to run the Power Automate flow <br/>
-   <img width="3165" height="518" alt="image" src="https://github.com/user-attachments/assets/66ab3f74-2ac5-4a10-8433-adf5547986ea" /><br\>
+   <img width="3165" height="518" alt="image" src="https://github.com/user-attachments/assets/66ab3f74-2ac5-4a10-8433-adf5547986ea" /><br/>
 
-    <img width="2304" height="955" alt="image" src="https://github.com/user-attachments/assets/1fc4461d-27a3-4c39-ab66-8dd343c05f30" /><br\>
+   <img width="2304" height="955" alt="image" src="https://github.com/user-attachments/assets/1fc4461d-27a3-4c39-ab66-8dd343c05f30" /><br/>
+
+    
 
    
