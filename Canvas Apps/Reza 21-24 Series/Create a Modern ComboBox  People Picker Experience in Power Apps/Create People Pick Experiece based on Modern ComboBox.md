@@ -68,7 +68,7 @@ If(!IsBlank(DataCardValue41.Selected.Id), Office365Users.UserPhotoV2(DataCardVal
 
 Another steps need notice is, select the form, find the Fields and click add field and choose Display Name:
 
-<img width="3280" height="1534" alt="image" src="https://github.com/user-attachments/assets/9afab34c-a60d-49a1-b860-17c3d8a86f0a" />
+<img width="3288" height="1527" alt="image" src="https://github.com/user-attachments/assets/d0c0f6cc-2053-4be3-bd13-0723f232955d" />
 
 
 Step 7: Test it <br/>
