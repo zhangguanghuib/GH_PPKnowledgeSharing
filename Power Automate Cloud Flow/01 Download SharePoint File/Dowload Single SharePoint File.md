@@ -12,6 +12,13 @@
 
    <img width="2304" height="955" alt="image" src="https://github.com/user-attachments/assets/1fc4461d-27a3-4c39-ab66-8dd343c05f30" /><br/>
 
-    
+
+3. When create connection via On-Premise Gateway:<br/>    
+   <img width="659" height="669" alt="image" src="https://github.com/user-attachments/assets/5ff8c0b5-2f0b-4eba-97d9-b342be512bac" /><br/>
+
+   When download the file:<br/>  
+   <img width="2225" height="1194" alt="image" src="https://github.com/user-attachments/assets/c5659eaf-97ba-40b9-89e1-c0ff68a714d8" /><br/>
+
+
 
    
