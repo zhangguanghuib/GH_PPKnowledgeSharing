@@ -6,5 +6,10 @@
    <img width="2115" height="1253" alt="image" src="https://github.com/user-attachments/assets/dd545c7d-f50f-46e9-bc24-f528c76add72" /><br/>
    <img width="2089" height="1157" alt="image" src="https://github.com/user-attachments/assets/a1ac94df-f6ca-4faa-9628-6da2996b53e1" /><br/>
 
-2. Test the flow:
+2. Test the flow:<br\>
+   Select a file and then click to run the Power Automate flow <br/>
+   <img width="3165" height="518" alt="image" src="https://github.com/user-attachments/assets/66ab3f74-2ac5-4a10-8433-adf5547986ea" /><br\>
 
+    <img width="2304" height="955" alt="image" src="https://github.com/user-attachments/assets/1fc4461d-27a3-4c39-ab66-8dd343c05f30" /><br\>
+
+   
