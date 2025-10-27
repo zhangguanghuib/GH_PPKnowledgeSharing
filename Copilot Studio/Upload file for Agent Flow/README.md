@@ -12,4 +12,8 @@ Publish Agent Flow <br/>
 Check the status is ON:<br/>
 <img width="2355" height="863" alt="image" src="https://github.com/user-attachments/assets/70da2e86-e852-4327-8577-0692235e095a" />
 
+Step 2, Create Copilot Agent Topic<br/>
+<img width="1539" height="1121" alt="image" src="https://github.com/user-attachments/assets/0b2c35f8-4f67-475d-b01d-fce2fc58df71" /><br/><hr/>
+<img width="1546" height="1024" alt="image" src="https://github.com/user-attachments/assets/28bf847a-10df-4d6b-9073-73286ac7f2df" /><br/><hr/>
+<img width="1194" height="1218" alt="image" src="https://github.com/user-attachments/assets/f3b3670e-27ef-4891-bbcb-7ef92ef4502e" /><br/><hr/>
 
