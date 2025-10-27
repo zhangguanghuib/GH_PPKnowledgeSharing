@@ -6,3 +6,5 @@
    <img width="2115" height="1253" alt="image" src="https://github.com/user-attachments/assets/dd545c7d-f50f-46e9-bc24-f528c76add72" /><br/>
    <img width="2089" height="1157" alt="image" src="https://github.com/user-attachments/assets/3bf87b3f-4584-45c2-bd5c-649d8eb513dc" /><br/>
 
+2. Test the flow:
+
