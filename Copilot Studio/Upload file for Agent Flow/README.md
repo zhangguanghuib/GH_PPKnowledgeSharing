@@ -16,5 +16,10 @@ Step 2, Create Copilot Agent Topic<br/>
 <img width="1539" height="1121" alt="image" src="https://github.com/user-attachments/assets/0b2c35f8-4f67-475d-b01d-fce2fc58df71" /><br/><hr/>
 <img width="1546" height="1024" alt="image" src="https://github.com/user-attachments/assets/28bf847a-10df-4d6b-9073-73286ac7f2df" /><br/><hr/>
 <img width="1194" height="1218" alt="image" src="https://github.com/user-attachments/assets/f3b3670e-27ef-4891-bbcb-7ef92ef4502e" /><br/><hr/>
-<img width="1194" height="1218" alt="image" src="https://github.com/user-attachments/assets/0c498596-4456-4046-9450-a71db2590442" />
+<img width="1194" height="1218" alt="image" src="https://github.com/user-attachments/assets/0c498596-4456-4046-9450-a71db2590442" /><br/><hr/>
+<img width="1024" height="1055" alt="image" src="https://github.com/user-attachments/assets/560c09ce-2488-4164-a0bc-5be47dc88e8f" /><br/><hr/>
 
+Step 3: Test and confirm the image is uploaded to SharePoint <br/>
+<img width="2321" height="1229" alt="image" src="https://github.com/user-attachments/assets/b85b1f5d-0087-4617-94df-8235f075e213" />
+
+<br/><hr/>
