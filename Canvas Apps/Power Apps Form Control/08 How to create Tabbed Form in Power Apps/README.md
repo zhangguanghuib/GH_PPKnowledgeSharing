@@ -27,6 +27,8 @@ Step 6:  Set all data card's visible property <br/>
 <img width="1622" height="959" alt="image" src="https://github.com/user-attachments/assets/cdf883bb-24df-4692-a38e-e2199cb4d052" /><br/><hr/>
 <img width="1524" height="872" alt="image" src="https://github.com/user-attachments/assets/fc005c29-0c1e-4122-8dca-be994ea98b41" /><br/><hr/>
 <img width="1594" height="1143" alt="image" src="https://github.com/user-attachments/assets/cd9206ee-2ae8-401f-8e90-84d38955dc8e" /><br/><hr/>
+<img width="1684" height="1240" alt="image" src="https://github.com/user-attachments/assets/9116c476-cd69-4fa2-8806-5e9f4fc7b44d" /><br/><hr/>
+
 
 Step 7, Set the button's fill property <br/>
 <img width="1675" height="952" alt="image" src="https://github.com/user-attachments/assets/bc35da76-06c7-4e5d-bb9e-bead2c6afd24" /><br/><hr/>
