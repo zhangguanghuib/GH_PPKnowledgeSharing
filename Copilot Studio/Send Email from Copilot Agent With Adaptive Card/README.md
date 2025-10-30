@@ -48,4 +48,4 @@
     <img width="2484" height="1804" alt="image" src="https://github.com/user-attachments/assets/25e447fd-f1e6-4b9f-833f-900e6b4e389d" /><br/><hr/>
 
 5. When test this topic, I can receive my email as below <br/>
-   <img width="882" height="393" alt="image" src="https://github.com/user-attachments/assets/687a509e-fb24-433c-b30f-73411d6bc90d" /><br/><hr/>
+   <img width="763" height="396" alt="image" src="https://github.com/user-attachments/assets/6a6e6a04-a3ca-4138-8070-2cadb51c0294" /><br/><hr/>
