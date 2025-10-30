@@ -40,3 +40,7 @@
       ]
      } 
    ```
+
+3. Call the agent flow to send email:<br/>
+  <img width="896" height="1345" alt="image" src="https://github.com/user-attachments/assets/28c9dae2-cdae-4596-850b-49f9c7495220" /><br/><hr/>
+
