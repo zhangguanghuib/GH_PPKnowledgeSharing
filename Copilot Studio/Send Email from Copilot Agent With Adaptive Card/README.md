@@ -44,3 +44,8 @@
 3. Call the agent flow to send email:<br/>
   <img width="896" height="1345" alt="image" src="https://github.com/user-attachments/assets/28c9dae2-cdae-4596-850b-49f9c7495220" /><br/><hr/>
 
+4. The agent flow is as below: <br/>
+    <img width="2484" height="1804" alt="image" src="https://github.com/user-attachments/assets/25e447fd-f1e6-4b9f-833f-900e6b4e389d" /><br/><hr/>
+
+5. When test this topic, I can receive my email as below <br/>
+   <img width="882" height="393" alt="image" src="https://github.com/user-attachments/assets/687a509e-fb24-433c-b30f-73411d6bc90d" /><br/><hr/>
