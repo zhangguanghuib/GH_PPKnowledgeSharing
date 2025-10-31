@@ -50,3 +50,13 @@ Add Edit Form <br/>
 
 Set "Doc Id" value <br/>
 <img width="1820" height="1095" alt="image" src="https://github.com/user-attachments/assets/08872772-4210-4d51-b3c1-0ab2d16900e8" /><br/><hr/>
+
+Set the form's display mode as "New" <br/>
+<img width="1854" height="1106" alt="image" src="https://github.com/user-attachments/assets/0c1be939-f70f-4e45-9074-aeebbf83112a" /><br/><hr/>
+
+New Icon Code <br/>
+<img width="1251" height="1101" alt="image" src="https://github.com/user-attachments/assets/bcc72af9-0f89-4f19-8879-00219eb7c9c8" /><br/><hr/>
+
+Save Icon <br/>
+<img width="1245" height="1081" alt="image" src="https://github.com/user-attachments/assets/02f1b204-e024-4e70-88f0-34c71f044f3c" /><br/><hr/>
+
