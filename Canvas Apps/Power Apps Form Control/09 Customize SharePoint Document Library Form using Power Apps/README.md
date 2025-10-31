@@ -14,3 +14,10 @@ Create a Datetime Column called "Contract Date"  <br/>
 
 Finally the Document Library is like <br/>
 <img width="2040" height="655" alt="image" src="https://github.com/user-attachments/assets/83b198a0-6284-4dbd-a52e-9c676ed01f71" /><br/><hr/>
+
+Step 2:  Customize forms<br/>
+<img width="1967" height="440" alt="image" src="https://github.com/user-attachments/assets/4c216373-7c93-4b47-810b-fb0edb3dfb7f" /><br/><hr/>
+<img width="2475" height="1342" alt="image" src="https://github.com/user-attachments/assets/9a388770-199b-4c84-acf7-4549816e811f" /><br/><hr/>
+<img width="1423" height="926" alt="image" src="https://github.com/user-attachments/assets/95919d8d-dac6-4ae1-8489-9b4012291528" /><br/><hr/>
+<img width="2484" height="1376" alt="image" src="https://github.com/user-attachments/assets/9eff43b2-714b-40c7-9021-4a5e8d65e2cf" /><br/><hr/>
+<img width="1874" height="796" alt="image" src="https://github.com/user-attachments/assets/56c1e3f5-b043-465e-bdfd-7aef9558b790" /><br/><hr/>
