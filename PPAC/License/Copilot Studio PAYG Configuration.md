@@ -29,3 +29,9 @@ Step 6:  Edit the Billing Plan to add or remove environments<br/>
 
 Step 7:  Limit the capacity of each environment <br/>
 <img width="2728" height="1415" alt="image" src="https://github.com/user-attachments/assets/5c7512fe-0b47-4003-903e-160944e8efc9" /><br/><hr/>
+
+
+Step 8:  For more information, please check these below link <br/>
+
+https://learn.microsoft.com/en-us/power-platform/admin/pay-as-you-go-overview<br/><hr/>
+https://www.linkedin.com/pulse/set-up-copilot-studio-pay-as-you-go-power-platform-admin-zongyi-li-8ysuc/<br/><hr/>
