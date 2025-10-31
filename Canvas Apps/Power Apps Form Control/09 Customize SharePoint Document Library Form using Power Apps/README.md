@@ -60,3 +60,13 @@ New Icon Code <br/>
 Save Icon <br/>
 <img width="1245" height="1081" alt="image" src="https://github.com/user-attachments/assets/02f1b204-e024-4e70-88f0-34c71f044f3c" /><br/><hr/>
 
+
+Step 7: Adding Checklist Gallery Control <br/>
+<img width="1833" height="1080" alt="image" src="https://github.com/user-attachments/assets/7853d703-8686-4d41-ad35-25eef6679d08" /><br/><hr/>
+<img width="2437" height="1144" alt="image" src="https://github.com/user-attachments/assets/7eef71c1-a744-4e4b-9e38-30bc5020753b" /><br/><hr/>
+<img width="1883" height="1232" alt="image" src="https://github.com/user-attachments/assets/7495ab01-dd2d-426e-a383-3139f981ae62" /><br/><hr/>
+<img width="1901" height="1160" alt="image" src="https://github.com/user-attachments/assets/d95a777b-ed1a-40f8-9d93-408f1c10c64b" /><br/><hr/>
+<img width="1906" height="1141" alt="image" src="https://github.com/user-attachments/assets/e3b6ddbf-f925-49d5-8ba5-24c1db7f6566" /><br/><hr/>
+
+
+
