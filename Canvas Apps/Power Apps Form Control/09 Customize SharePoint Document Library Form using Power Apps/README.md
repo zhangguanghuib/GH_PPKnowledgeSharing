@@ -21,3 +21,13 @@ Step 2:  Customize forms<br/>
 <img width="1423" height="926" alt="image" src="https://github.com/user-attachments/assets/95919d8d-dac6-4ae1-8489-9b4012291528" /><br/><hr/>
 <img width="2484" height="1376" alt="image" src="https://github.com/user-attachments/assets/9eff43b2-714b-40c7-9021-4a5e8d65e2cf" /><br/><hr/>
 <img width="1874" height="796" alt="image" src="https://github.com/user-attachments/assets/56c1e3f5-b043-465e-bdfd-7aef9558b790" /><br/><hr/>
+Set the column as :<br/><hr/>
+<img width="1907" height="923" alt="image" src="https://github.com/user-attachments/assets/9065d785-4295-4cc5-997f-2fb0e4293527" /><br/><hr/>
+
+Step 3: Add "Properties" button, set RadiusTopLeft and RadiusTopRight = 20 <br/>
+<img width="1544" height="772" alt="image" src="https://github.com/user-attachments/assets/8cc18dd8-3322-4739-ae28-b4234f8233ce" /><br/><hr/>
+
+Step 4: Documemt Preview <br/>
+Add a button + Rectangle + Image <br/>
+<img width="1249" height="815" alt="image" src="https://github.com/user-attachments/assets/2a14d786-1544-4205-81f8-1f83e91b1e0f" /><br/><hr/>
+<img width="1857" height="1069" alt="image" src="https://github.com/user-attachments/assets/95039544-e3f2-42d3-ad2b-2b952911bd51" /><br/><hr/>
