@@ -1,4 +1,4 @@
-# Customize SharePoint Document Library Form using Power Apps
+<img width="1820" height="1095" alt="image" src="https://github.com/user-attachments/assets/135bc2c0-535e-441d-ad8b-3898f47e745b" /># Customize SharePoint Document Library Form using Power Apps
 Step 1:  Create document library "Contracts":<br/>
 <img width="1250" height="786" alt="image" src="https://github.com/user-attachments/assets/45bd64c4-c63e-4cba-b5ca-e1cb9dd46472" /><br/><hr/>
 
@@ -31,3 +31,22 @@ Step 4: Documemt Preview <br/>
 Add a button + Rectangle + Image <br/>
 <img width="1249" height="815" alt="image" src="https://github.com/user-attachments/assets/2a14d786-1544-4205-81f8-1f83e91b1e0f" /><br/><hr/>
 <img width="1857" height="1069" alt="image" src="https://github.com/user-attachments/assets/95039544-e3f2-42d3-ad2b-2b952911bd51" /><br/><hr/>
+
+Step 5: Add related task list <br/>
+Create a SharePoint Checklist <br/>
+<img width="1855" height="1182" alt="image" src="https://github.com/user-attachments/assets/8121b79d-c615-49c8-b264-3c20c6340317" /><br/><hr/>
+Create a Choice Column<br/>
+<img width="2165" height="1433" alt="image" src="https://github.com/user-attachments/assets/a7f371d6-fe0e-4245-80c4-30e4c644b767" /><br/><hr/>
+Create a "Doc ID" column <br/>
+<img width="2100" height="1398" alt="image" src="https://github.com/user-attachments/assets/80058c07-20d8-4a0b-bbb3-dbdfc2375afa" /><br/><hr/>
+Finally the list looks like <br/>
+<img width="1983" height="667" alt="image" src="https://github.com/user-attachments/assets/99acd610-e3ae-48bd-a514-4706a9932dd5" /><br/><hr/>
+
+Step 6: Power Apps, add data source for this Checklist <br/>
+<img width="424" height="458" alt="image" src="https://github.com/user-attachments/assets/38a76d0d-c961-4f54-8941-3dfcd5ac24d4" /><br/><hr/>
+<img width="1831" height="1082" alt="image" src="https://github.com/user-attachments/assets/089a72dc-70a6-4278-8def-9f6551d46812" /><br/><hr/>
+Add Edit Form <br/>
+<img width="1416" height="1009" alt="image" src="https://github.com/user-attachments/assets/97443f86-dd33-4689-939b-f018ef030511" /><br/><hr/>
+
+Set "Doc Id" value <br/>
+<img width="1820" height="1095" alt="image" src="https://github.com/user-attachments/assets/08872772-4210-4d51-b3c1-0ab2d16900e8" /><br/><hr/>
