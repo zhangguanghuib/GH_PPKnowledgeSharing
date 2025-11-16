@@ -43,13 +43,14 @@
       Emergency contact details <br/>
       <img width="1770" height="865" alt="image" src="https://github.com/user-attachments/assets/23785a9d-1dbd-4155-875f-d2fae49871f0" /><br/><hr/>
 
-     Manager Email <br/>
-     <img width="1785" height="857" alt="image" src="https://github.com/user-attachments/assets/27ca2fe5-a9ba-4c40-9786-38093e99d4bd" /><br/><hr/>
+      <br/>
+      Manager Email <br/>
+      <img width="1785" height="857" alt="image" src="https://github.com/user-attachments/assets/27ca2fe5-a9ba-4c40-9786-38093e99d4bd" /><br/><hr/>
 
-     Interview Start Date<br/>
-     <img width="1806" height="881" alt="image" src="https://github.com/user-attachments/assets/75de0165-d8b2-4137-9fe0-4936892a84e6" /><br/><hr/>
-     Interview End Date <br/>
+      Interview Start Date<br/>
+      <img width="1806" height="881" alt="image" src="https://github.com/user-attachments/assets/75de0165-d8b2-4137-9fe0-4936892a84e6" /><br/><hr/>
+      Interview End Date <br/>
 
-     Date of joining column <br/>
-     <img width="1782" height="879" alt="image" src="https://github.com/user-attachments/assets/b2493b55-79f0-4f4d-b0c0-48bc3a5b8cd0" /><br/><hr/>
+      Date of joining column <br/>
+      <img width="1782" height="879" alt="image" src="https://github.com/user-attachments/assets/b2493b55-79f0-4f4d-b0c0-48bc3a5b8cd0" /><br/><hr/>
 
