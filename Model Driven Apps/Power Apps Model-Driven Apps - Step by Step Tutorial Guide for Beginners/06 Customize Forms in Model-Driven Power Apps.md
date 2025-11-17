@@ -30,6 +30,17 @@
    <img width="1737" height="823" alt="image" src="https://github.com/user-attachments/assets/65fc3b66-6700-4d37-ac2b-1eb6a4a78e27" /><br/><hr/>
 
 4.  Add a one column tab <br/>
-     <img width="1716" height="840" alt="image" src="https://github.com/user-attachments/assets/17061630-84a8-4b94-9592-d28139db8f8c" />
+     <img width="1716" height="840" alt="image" src="https://github.com/user-attachments/assets/17061630-84a8-4b94-9592-d28139db8f8c" /><br/><hr/>
       That is IT Admin<br/>
-      <img width="1761" height="866" alt="image" src="https://github.com/user-attachments/assets/7f864ca0-c415-4f3f-86d2-d91b8e8538c5" /><br/>
+      <img width="1761" height="866" alt="image" src="https://github.com/user-attachments/assets/7f864ca0-c415-4f3f-86d2-d91b8e8538c5" /><br/><hr/>
+
+5. Add another Tab "Manager Task" <br/>
+   <img width="1754" height="851" alt="image" src="https://github.com/user-attachments/assets/a5c45580-75ca-4541-8221-a89f3849c1c7" /><br/><hr/>
+
+6. Add another Tab: "Day 1 activity" <br/>
+   <br/><hr/>
+   <img width="1503" height="664" alt="image" src="https://github.com/user-attachments/assets/40c5ce21-ccbd-4eac-92d2-4b615ebd2742" /><br/>
+
+7.  Save and publish the form, test it <br/>
+    <img width="1746" height="897" alt="image" src="https://github.com/user-attachments/assets/7ffb215b-32d7-4143-859f-9bf7a2e4d4d2" /><br/>
+ 
