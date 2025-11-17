@@ -28,3 +28,8 @@
    Adding a SubGrid <br/>
    <img width="1713" height="864" alt="image" src="https://github.com/user-attachments/assets/a64d43b4-6104-42a5-90ac-f1ff49dca916" /><br/><hr/>
    <img width="1737" height="823" alt="image" src="https://github.com/user-attachments/assets/65fc3b66-6700-4d37-ac2b-1eb6a4a78e27" /><br/><hr/>
+
+4.  Add a one column tab <br/>
+     <img width="1716" height="840" alt="image" src="https://github.com/user-attachments/assets/17061630-84a8-4b94-9592-d28139db8f8c" />
+      That is IT Admin<br/>
+      <img width="1761" height="866" alt="image" src="https://github.com/user-attachments/assets/7f864ca0-c415-4f3f-86d2-d91b8e8538c5" /><br/>
