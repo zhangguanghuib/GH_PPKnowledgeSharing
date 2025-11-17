@@ -51,6 +51,50 @@
       <img width="1806" height="881" alt="image" src="https://github.com/user-attachments/assets/75de0165-d8b2-4137-9fe0-4936892a84e6" /><br/><hr/>
       Interview End Date <br/>
 
-      Date of joining column <br/>
+      Date of joining column: calculation column: <br/>
       <img width="1782" height="879" alt="image" src="https://github.com/user-attachments/assets/b2493b55-79f0-4f4d-b0c0-48bc3a5b8cd0" /><br/><hr/>
+      <img width="1797" height="978" alt="image" src="https://github.com/user-attachments/assets/bd765540-cdfe-4f59-8794-3acf8b1d8c3d" /><br/><hr/>
+
+       Number of leave column <br/>
+       <img width="1775" height="857" alt="image" src="https://github.com/user-attachments/assets/1cda8842-bb02-4e60-81aa-26b163f21f00" /><br/><hr/>
+
+       <hr/>
+       Create Admin Columns<br/>
+
+       Is Account Created<br/>
+       <img width="1761" height="888" alt="image" src="https://github.com/user-attachments/assets/eeec9384-d688-4a4a-89af-23211ebefd8a" /><br/> <hr/>
+
+       Is VPN Allocated <br/>
+       <img width="1749" height="875" alt="image" src="https://github.com/user-attachments/assets/adef66e2-f18d-4e96-b1ce-2a275821f97c" /><br/> <hr/>
+
+       Is Device Setup<br/>
+       <img width="1765" height="874" alt="image" src="https://github.com/user-attachments/assets/47a55d33-de14-4488-a636-697e85465ae4" /><br/> <hr/>
+       Corporate Email <br/>
+       <img width="1741" height="867" alt="image" src="https://github.com/user-attachments/assets/564106f5-0763-40a8-b830-f60beb1a30a7" /><br/> <hr/>
+
+        Admin Notes<br/>
+        <img width="1776" height="884" alt="image" src="https://github.com/user-attachments/assets/75a59f29-5fa7-42dd-adec-f8bec5e31aba" /><br/> <hr/>
+
+
+        <hr/>
+        Manage colulmns<br/>
+        Business Unit Column<br/>
+        <img width="1738" height="858" alt="image" src="https://github.com/user-attachments/assets/ccdd0795-bde6-431f-bca6-64eafd8ff116" /><br/>
+
+         Project Information <br/>
+         <img width="1778" height="930" alt="image" src="https://github.com/user-attachments/assets/a1b80f0b-3cfd-44b3-9bd9-d764510fd782" /><br/>
+
+
+         Employee fields<br/>
+         Is Informatiom verified <br/>
+         <img width="1773" height="886" alt="image" src="https://github.com/user-attachments/assets/23924239-10e3-4e5b-b505-e27677d6b086" /><br/> <hr/>
+
+         Is Induction Complete <br/>
+         <img width="1749" height="865" alt="image" src="https://github.com/user-attachments/assets/a1977031-250d-4435-8acf-0474402080b6" /><br/> <hr/>
+
+         Is Leave BL Checked <br/>
+         <img width="1786" height="972" alt="image" src="https://github.com/user-attachments/assets/eaf07214-6cf0-4a85-afb4-e8216f4850de" /><br/> <hr/>
+
+          BioMatric Done <br/>
+           <img width="1785" height="864" alt="image" src="https://github.com/user-attachments/assets/79848da1-4b7d-47e2-a18c-a0bc08e4b6e3" /><br/> <hr/>
 
