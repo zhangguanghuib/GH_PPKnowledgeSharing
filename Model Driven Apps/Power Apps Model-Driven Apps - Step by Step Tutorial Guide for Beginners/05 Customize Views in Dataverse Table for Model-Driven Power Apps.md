@@ -21,3 +21,9 @@ Adding more filters<br/>
 <img width="1732" height="695" alt="image" src="https://github.com/user-attachments/assets/13741df3-9b6e-4af9-9af3-869f3132b303" /><br/><hr/>
 Go back to the Data, you can see the column is there:<br/>
 <img width="1661" height="548" alt="image" src="https://github.com/user-attachments/assets/66848e4f-cd27-40b7-ad23-85840f3b9c05" /><br/><hr/>
+
+
+4. Configure the employee onboarding table<br/>
+<img width="1340" height="476" alt="image" src="https://github.com/user-attachments/assets/72e9dc50-c1b9-4049-9dda-12e566a2d70e" /><br/><hr/>
+Add the Columns and Sort by Date of Joining <br/>
+<img width="1782" height="791" alt="image" src="https://github.com/user-attachments/assets/27071b1b-9910-4975-8358-a250e7177295" /><br/><hr/>
