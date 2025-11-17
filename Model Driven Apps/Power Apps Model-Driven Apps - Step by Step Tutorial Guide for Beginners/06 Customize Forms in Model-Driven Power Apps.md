@@ -11,5 +11,20 @@
     <img width="1739" height="779" alt="image" src="https://github.com/user-attachments/assets/8f231d5d-1aee-43a5-b005-c4434140d981" /><br/><hr/>
     Save and publish the form<br/><hr/>
 
-    And then click a new record <br/>
+    And then click a new record, you can see all columns are visible <br/>
     <img width="1327" height="648" alt="image" src="https://github.com/user-attachments/assets/cc7cdb3b-3c84-4075-9a33-ef60e52deff3" /><br/><hr/>
+    <img width="1281" height="483" alt="image" src="https://github.com/user-attachments/assets/e255a6b2-328c-4f3e-be37-f0a7db9a726f" /><br/><hr/>
+
+    Edit the existing rows<br/>
+    <img width="1767" height="543" alt="image" src="https://github.com/user-attachments/assets/79ee4791-b000-497e-ab0c-1b605d6c5860" /><br/><hr/>
+
+2. Customize the "Employee on-boarding form" <br/><hr/>
+   <img width="1526" height="503" alt="image" src="https://github.com/user-attachments/assets/d08246d9-d991-4a26-af7b-c6ab5e584658" /><br/><hr/>
+   Adding Employee Basic Information fields <br/>
+   <img width="1733" height="827" alt="image" src="https://github.com/user-attachments/assets/9b8ab3cd-294b-48fe-bb98-8f263e2f20ba" /><br/><hr/>
+
+3. Adding 2-column section=>Interview Details<br/>
+   <img width="1763" height="827" alt="image" src="https://github.com/user-attachments/assets/50b0a1c2-4f93-43e7-a648-f3340bdc096b" /><br/><hr/>
+   Adding a SubGrid <br/>
+   <img width="1713" height="864" alt="image" src="https://github.com/user-attachments/assets/a64d43b4-6104-42a5-90ac-f1ff49dca916" /><br/><hr/>
+   <img width="1737" height="823" alt="image" src="https://github.com/user-attachments/assets/65fc3b66-6700-4d37-ac2b-1eb6a4a78e27" /><br/><hr/>
