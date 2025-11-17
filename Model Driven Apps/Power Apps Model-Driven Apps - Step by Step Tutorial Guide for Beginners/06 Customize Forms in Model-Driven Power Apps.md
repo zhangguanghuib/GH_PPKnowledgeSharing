@@ -7,3 +7,6 @@
 
     Form Library<br/>
     <img width="1772" height="882" alt="image" src="https://github.com/user-attachments/assets/c4404ab7-b813-4f76-b663-833f96cd8c44" /><br/><hr/>
+    Add other fields<br/>
+    <img width="1739" height="779" alt="image" src="https://github.com/user-attachments/assets/8f231d5d-1aee-43a5-b005-c4434140d981" /><br/><hr/>
+    Save and publish the form<br/><hr/>
