@@ -10,3 +10,6 @@
     Add other fields<br/>
     <img width="1739" height="779" alt="image" src="https://github.com/user-attachments/assets/8f231d5d-1aee-43a5-b005-c4434140d981" /><br/><hr/>
     Save and publish the form<br/><hr/>
+
+    And then click a new record <br/>
+    <img width="1327" height="648" alt="image" src="https://github.com/user-attachments/assets/cc7cdb3b-3c84-4075-9a33-ef60e52deff3" /><br/><hr/>
