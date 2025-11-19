@@ -34,3 +34,5 @@ c2/tenants/50e627b2-****-****-a97f-a00e384850ca
 /a:1zILDx2T0pLWvzSInmwmC6g36x6DIoXNsloWIwmPSVwuTExTOpzojFdtL85TnY0ycUk0ZqWuipJxkvJrVVdSV3KwVaaS5e3cuge19R2Hzjw8LwR021VkN7YC_JgfEcEqI_175e67d0-a1bf-f011-bbd3-7c1e520bda35
 /user-connections
 ```
+It opened as below<br/>
+<img width="1934" height="446" alt="image" src="https://github.com/user-attachments/assets/ff7847a4-7c15-4cc5-991a-ca8922a06626" />
