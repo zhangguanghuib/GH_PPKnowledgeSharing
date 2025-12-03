@@ -31,3 +31,6 @@ https://modelcontextprotocol.io/specification/2025-06-18/server/resources#python
 
 
 https://www.youtube.com/watch?v=5xqFjh56AwM<br/>
+
+
+https://www.youtube.com/watch?v=EC7WM00U0J8<br/>
