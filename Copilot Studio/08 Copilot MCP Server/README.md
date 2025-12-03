@@ -27,4 +27,7 @@ Check if windows machine installed uv or not
 uv --version
 ```
 
-https://modelcontextprotocol.io/specification/2025-06-18/server/resources#python
+https://modelcontextprotocol.io/specification/2025-06-18/server/resources#python<br/>
+
+
+https://www.youtube.com/watch?v=5xqFjh56AwM<br/>
