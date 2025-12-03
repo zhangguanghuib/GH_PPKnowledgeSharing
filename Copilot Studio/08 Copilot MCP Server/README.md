@@ -17,9 +17,11 @@ https://github.com/modelcontextprotocol/python-sdk
 <br/>
 https://docs.astral.sh/uv/getting-started/installation/#scoop
 <br/>
+
 ```
 pip install uv
 ```
+
 Check if windows machine installed uv or not
 ```
 uv --version
