@@ -55,5 +55,9 @@ Adding  "Stake Holder"  Column<br/>
 It added the legacy Combobox Control instead of Modern Combobox Control:<br/>
 <img width="1795" height="854" alt="image" src="https://github.com/user-attachments/assets/f08135cf-ff31-4b5e-bd77-162b2a3930e3" /><br/>
 
+Set the items of the ComboBox: <br/>
+<img width="1758" height="860" alt="image" src="https://github.com/user-attachments/assets/a10c16d4-84e2-41fa-b441-ff8abfbaaa79" /><br/>
+
+
 
 
