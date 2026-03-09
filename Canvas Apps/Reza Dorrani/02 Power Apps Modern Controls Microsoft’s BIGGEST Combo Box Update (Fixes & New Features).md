@@ -57,6 +57,15 @@ It added the legacy Combobox Control instead of Modern Combobox Control:<br/>
 
 Set the items of the ComboBox: <br/>
 <img width="1758" height="860" alt="image" src="https://github.com/user-attachments/assets/a10c16d4-84e2-41fa-b441-ff8abfbaaa79" /><br/>
+<img width="1716" height="875" alt="image" src="https://github.com/user-attachments/assets/db2dd323-ddcf-48b7-8c63-5d2e3e857151" /><br/>
+
+Because it is multi-selection person control:<br/>
+<img width="1798" height="924" alt="image" src="https://github.com/user-attachments/assets/d745494b-5130-481f-908b-3c12d81c4919" /><br/>
+
+Data Card's update property:<br/>
+<img width="1779" height="950" alt="image" src="https://github.com/user-attachments/assets/2e4140e9-5007-4a5e-8025-17e44ca3ca36" />
+
+
 
 
 
