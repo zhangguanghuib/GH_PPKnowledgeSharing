@@ -63,7 +63,26 @@ Because it is multi-selection person control:<br/>
 <img width="1798" height="924" alt="image" src="https://github.com/user-attachments/assets/d745494b-5130-481f-908b-3c12d81c4919" /><br/>
 
 Data Card's update property:<br/>
-<img width="1779" height="950" alt="image" src="https://github.com/user-attachments/assets/2e4140e9-5007-4a5e-8025-17e44ca3ca36" />
+<img width="1779" height="950" alt="image" src="https://github.com/user-attachments/assets/2e4140e9-5007-4a5e-8025-17e44ca3ca36" /><br/>
+
+<img width="1704" height="909" alt="image" src="https://github.com/user-attachments/assets/bb5216ee-23a3-47cb-b9e0-ec55a51b80c4" /><br/>
+
+Fix a bug of ComboBox Search issue when the ComboBox in the Form Control, copy the ComboBox out of form control<br/>
+<img width="1756" height="825" alt="image" src="https://github.com/user-attachments/assets/0e839303-a306-4962-b92c-cc2b23bc1597" /><br/>
+
+Search works outside of form.
+<img width="1777" height="844" alt="image" src="https://github.com/user-attachments/assets/d1fa298c-79ee-47e5-b9d1-ed4dbc74c44f" /><br/>
+
+Hide the ComboBox in the form, and move the ComboBox outside the form control into the form control <br/>
+Set the datacard's update property <br/>
+<img width="1760" height="929" alt="image" src="https://github.com/user-attachments/assets/f1646110-f486-45a7-bbc1-f2a7ab6e4c03" />
+
+Reset the ComboBox when click "Edit" in the gallery <br/>
+<img width="1769" height="690" alt="image" src="https://github.com/user-attachments/assets/6c99f2c0-5e4e-4d26-be3b-df1858f286d2" /> <br/>
+
+Verify and confirm it works.
+
+
 
 
 
