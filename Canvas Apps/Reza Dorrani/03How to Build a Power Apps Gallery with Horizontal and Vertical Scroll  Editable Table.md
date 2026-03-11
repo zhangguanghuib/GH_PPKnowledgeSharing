@@ -143,5 +143,16 @@ Action Header:<br/>
 <img width="1789" height="800" alt="image" src="https://github.com/user-attachments/assets/8a067262-1e9b-49cc-91f5-d91d7c9295f0" /><br/>
 <img width="1831" height="805" alt="image" src="https://github.com/user-attachments/assets/56bc6f5a-a2ac-4a34-a2ba-807f6a6e9619" /><br/>
 
+Now it looks like :<br/>
+<img width="1809" height="864" alt="image" src="https://github.com/user-attachments/assets/22c93dd4-d763-46c5-89e2-d4094ebe8441" /><br/>
+<img width="1783" height="759" alt="image" src="https://github.com/user-attachments/assets/6b015e29-0370-49da-b1e2-a957f5301ff6" /><br/>
+For all editable control, set those Display Mode as: <br/>
+<img width="1790" height="841" alt="image" src="https://github.com/user-attachments/assets/3034b613-57c3-48a4-83c0-d3bef9722983" /><br/>
+<img width="1858" height="896" alt="image" src="https://github.com/user-attachments/assets/0b62b2cd-5230-4e49-a60c-ee75e12abf24" /><br/>
+<img width="1772" height="864" alt="image" src="https://github.com/user-attachments/assets/2f1deb2a-5ce9-4673-b310-7678781710ca" /><br/>
+Display Mode of the Action Button (Icon)<br/>
+<img width="1826" height="892" alt="image" src="https://github.com/user-attachments/assets/33938dae-fa31-4969-b2a0-71fce2143780" /><br/>
+
+
 
 
