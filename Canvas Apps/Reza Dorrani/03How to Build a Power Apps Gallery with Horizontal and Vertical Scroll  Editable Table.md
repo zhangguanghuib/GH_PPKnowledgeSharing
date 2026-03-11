@@ -24,6 +24,14 @@ Then set container's all padding = 0:<br/>
 Insert a horizontal container <br/>
 <img width="1834" height="942" alt="image" src="https://github.com/user-attachments/assets/3f1298a3-b01f-4c28-98f2-e74851bfd0ff" /><br/>
 Set X = 0/ Y=0 of the horizontal container:<br/>
-<img width="1570" height="805" alt="image" src="https://github.com/user-attachments/assets/b8107c69-e3b9-48f0-b5a8-1398ac261f7d" />
+<img width="1570" height="805" alt="image" src="https://github.com/user-attachments/assets/b8107c69-e3b9-48f0-b5a8-1398ac261f7d" /><br/>
+<img width="1775" height="914" alt="image" src="https://github.com/user-attachments/assets/b9a9a722-d391-411c-83d6-d4c9000a4bf0" /><br/>
+<img width="1854" height="912" alt="image" src="https://github.com/user-attachments/assets/3b53ce17-47cc-48d6-ba1a-13e5e94f76d4" /><br/>
+Set the container's padding all = 0: <br/>
+<img width="1790" height="853" alt="image" src="https://github.com/user-attachments/assets/421ab981-76a0-44b5-bfb1-4cdb03842078" /><br/>
+
+The below setting means every row showing in the galley with height 40 <br/>
+<img width="1819" height="975" alt="image" src="https://github.com/user-attachments/assets/84dbfb12-3372-45f3-bc48-3aac47d1f9b1" /> <br/>
+
 
 
