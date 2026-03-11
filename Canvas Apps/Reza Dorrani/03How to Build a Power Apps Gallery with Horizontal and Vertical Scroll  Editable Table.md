@@ -153,6 +153,21 @@ For all editable control, set those Display Mode as: <br/>
 Display Mode of the Action Button (Icon)<br/>
 <img width="1826" height="892" alt="image" src="https://github.com/user-attachments/assets/33938dae-fa31-4969-b2a0-71fce2143780" /><br/>
 
+Patch Table Update <br/>
+<img width="1804" height="985" alt="image" src="https://github.com/user-attachments/assets/72f7d973-410d-45e3-af35-1e6ef064047e" /><br/>
+<img width="1841" height="884" alt="image" src="https://github.com/user-attachments/assets/0575aebc-f4ed-43ae-b179-afc7a2316827" /><br/>
+<img width="1787" height="778" alt="image" src="https://github.com/user-attachments/assets/5f1f5f4f-35d6-4be7-9e7b-4e3e9c4bc7ea" /><br/>
+<img width="1788" height="935" alt="image" src="https://github.com/user-attachments/assets/c6d8ea6a-4a2f-4d23-9303-8eaa141f9911" /><br/>
+When select the current row,  it looks like this <br/>
+<img width="1801" height="907" alt="image" src="https://github.com/user-attachments/assets/f2a08c72-6f18-4980-9bed-e90aebea914e" /><br/>
+<img width="1788" height="888" alt="image" src="https://github.com/user-attachments/assets/edad82c3-3d8f-49af-a1df-13f92462df7e" /><br/>
 
+Add a new record to the data source=>Add new container and new button <br/>
+<img width="1780" height="775" alt="image" src="https://github.com/user-attachments/assets/2883b0ab-dcf1-4604-8a8b-44bafeeaa7ce" /><br/>
+<img width="1868" height="814" alt="image" src="https://github.com/user-attachments/assets/a1b5f3b2-08fa-4613-b383-2bc01bdc886a" /><br/>
+Click "New Item"<br/>
+<img width="1819" height="939" alt="image" src="https://github.com/user-attachments/assets/54095d02-34ad-4a23-8567-132e55bcd875" /><br/>
 
+Items of the gallery is set:<br/>
+<img width="1874" height="842" alt="image" src="https://github.com/user-attachments/assets/11c215f2-1b78-4ba6-9373-fa8d53befab4" />
 
