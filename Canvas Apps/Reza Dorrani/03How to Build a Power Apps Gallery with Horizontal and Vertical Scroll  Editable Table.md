@@ -126,6 +126,22 @@ For each header control <br/>
 <img width="1754" height="849" alt="image" src="https://github.com/user-attachments/assets/8a231263-653f-46ff-82e8-62bf6e991dc2" /><br/>
 <img width="1813" height="909" alt="image" src="https://github.com/user-attachments/assets/16c00527-e18d-4111-9ee6-96d2dcbdcc4d" /><br/>
 
+Header Container's property <br/>
+<img width="1802" height="816" alt="image" src="https://github.com/user-attachments/assets/a67ead22-0653-4ceb-9d61-bf42f8879872" /><br/>
+
+Editable Gallery <br/>
+<img width="1892" height="963" alt="image" src="https://github.com/user-attachments/assets/14953152-1e53-4c30-8562-69095fc51fc4" /><br/>
+
+Insert a button in the gallery container<br/>
+<img width="1805" height="945" alt="image" src="https://github.com/user-attachments/assets/a2c6fad9-8baa-478b-84dc-deb985f7c7d0" /><br/>
+
+Set Icon Only <br/>
+<img width="1566" height="810" alt="image" src="https://github.com/user-attachments/assets/ec62320f-bd6d-4e23-a306-b956a9663718" /><br/>
+
+Action Header:<br/>
+<img width="1798" height="791" alt="image" src="https://github.com/user-attachments/assets/429bbae7-b3b0-4a5c-9c96-1d2685344f93" /><br/>
+<img width="1789" height="800" alt="image" src="https://github.com/user-attachments/assets/8a067262-1e9b-49cc-91f5-d91d7c9295f0" /><br/>
+<img width="1831" height="805" alt="image" src="https://github.com/user-attachments/assets/56bc6f5a-a2ac-4a34-a2ba-807f6a6e9619" /><br/>
 
 
 
