@@ -9,4 +9,10 @@ Upload a logo <br/>
 The Data Source Comes from a Dataverse Table <br/>
 <img width="1804" height="932" alt="image" src="https://github.com/user-attachments/assets/6145fc32-e34f-49aa-b70d-8722583a92d2" /><br/>
 
+In Main Container, insert a Vertical gallery <br/>
+<img width="1403" height="826" alt="image" src="https://github.com/user-attachments/assets/5c924565-4faf-4789-ae5d-003dc4f6ad6c" /><br/>
+
+Layout of this gallery set it as "Blank" <br/>
+<img width="1872" height="901" alt="image" src="https://github.com/user-attachments/assets/f104b934-d567-4e9c-9c98-7d5d2c86d41a" />
+
 
