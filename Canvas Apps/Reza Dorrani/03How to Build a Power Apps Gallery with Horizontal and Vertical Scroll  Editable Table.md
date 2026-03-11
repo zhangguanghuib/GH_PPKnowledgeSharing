@@ -52,7 +52,33 @@ Category=>Choice Column, insert modern ComboBox control<br/>
 <img width="1561" height="913" alt="image" src="https://github.com/user-attachments/assets/367b4486-24a6-4e90-a5d0-3e531f5d7da5" /><br/>
 Adding all other controls:<br/>
 <img width="1775" height="884" alt="image" src="https://github.com/user-attachments/assets/3605ad14-c003-4ad8-b719-a4abe40a9bfe" /><br/>
+Outside the control<br/>
+<img width="1803" height="820" alt="image" src="https://github.com/user-attachments/assets/3b7dd795-11d7-410f-b358-0ed8d06b77c9" /><br/>
 
+Insert Number Input Control for Stock Qty/unit Cost <br/>
+<img width="1775" height="891" alt="image" src="https://github.com/user-attachments/assets/07b37759-e9a6-4a53-8d80-76d18c2653cb" /><br/>
+<img width="1791" height="926" alt="image" src="https://github.com/user-attachments/assets/de3865fd-bc9c-4e1b-ac33-388b296751d7" /><br/>
+Unit Cost:<br/>
+<img width="1816" height="908" alt="image" src="https://github.com/user-attachments/assets/3a53b7d1-8d21-4e0d-97b6-cdf3b8c8e960" /><br/>
+
+Total cost=>Text Control <br/>
+<img width="1792" height="921" alt="image" src="https://github.com/user-attachments/assets/de564266-5814-408f-8270-c983365fc397" /><br/>
+
+Stock Status => Choice Column<br/>
+<img width="1821" height="954" alt="image" src="https://github.com/user-attachments/assets/bb2d735b-dab4-4fb8-904a-f970de3f7849" /><br/>
+
+Set Container Gap = 10:<br/>
+<img width="1790" height="881" alt="image" src="https://github.com/user-attachments/assets/1afb4fda-19e0-48af-9e86-e44582edef1f" /><br/>
+<img width="1625" height="844" alt="image" src="https://github.com/user-attachments/assets/c1fffac2-6443-4312-88c6-73f351f63195" /><br/>
+
+Select all controls. set flexible width = True<br/>
+<img width="1806" height="1024" alt="image" src="https://github.com/user-attachments/assets/8e2aa061-a69c-4418-9be7-4e42bcd08e92" /><br/>
+Then it looks like this:<br/>
+<img width="1568" height="799" alt="image" src="https://github.com/user-attachments/assets/bb018415-7331-4d40-8863-eb32452fd953" /><br/>
+<img width="1773" height="844" alt="image" src="https://github.com/user-attachments/assets/ec5f54e6-4a58-45ae-8379-6fdc454919da" /><br/>
+
+Item Id Column Setting:<br/>
+<img width="1819" height="769" alt="image" src="https://github.com/user-attachments/assets/5e56dfad-b0f3-49c0-993c-4bad5864a7de" /><br/>
 
 
 
