@@ -33,5 +33,27 @@ Set the container's padding all = 0: <br/>
 The below setting means every row showing in the galley with height 40 <br/>
 <img width="1819" height="975" alt="image" src="https://github.com/user-attachments/assets/84dbfb12-3372-45f3-bc48-3aac47d1f9b1" /> <br/>
 
+Gallery TemplatePadding = 0 <br/>
+<img width="1825" height="883" alt="image" src="https://github.com/user-attachments/assets/2a797e3c-b82b-426b-b33e-61546b098c4a" /><br/>
+
+In the container, start insert controls <br/>
+<img width="1831" height="951" alt="image" src="https://github.com/user-attachments/assets/5b37d299-c6ef-44c5-9a7a-045edff9b015" /><br/>
+
+Insert Text Control for Item Id:<br/>
+<img width="1808" height="838" alt="image" src="https://github.com/user-attachments/assets/1f3a3562-df14-4b47-86e4-1cc3b8ca9d23" /><br/>
+
+Insert Text Input Control for "Item Name":<br/>
+<img width="1804" height="895" alt="image" src="https://github.com/user-attachments/assets/f47b3ec7-6064-442b-aebb-a7df6455fd81" /><br/>
+Value = ThisItem.'Item Name'
+<img width="1839" height="810" alt="image" src="https://github.com/user-attachments/assets/392c86b4-7d93-4c49-8708-b72ca7322568" /><br/>
+
+Category=>Choice Column, insert modern ComboBox control<br/>
+<img width="1776" height="816" alt="image" src="https://github.com/user-attachments/assets/f455884a-f11f-419a-b3fe-7caaa1b06029" /><br/>
+<img width="1561" height="913" alt="image" src="https://github.com/user-attachments/assets/367b4486-24a6-4e90-a5d0-3e531f5d7da5" /><br/>
+Adding all other controls:<br/>
+<img width="1775" height="884" alt="image" src="https://github.com/user-attachments/assets/3605ad14-c003-4ad8-b719-a4abe40a9bfe" /><br/>
+
+
+
 
 
