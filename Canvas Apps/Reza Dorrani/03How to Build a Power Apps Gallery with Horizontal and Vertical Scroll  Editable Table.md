@@ -83,5 +83,16 @@ Item Id Column Setting:<br/>
 For those columns that should always visible, set flexible width = false, and set its width with a fixed value<br/>
 <img width="1710" height="744" alt="image" src="https://github.com/user-attachments/assets/f638b8df-56a3-421e-a8d2-e6a294b44248" /><br/>
 
+Gallery's LayoutMinLayoutWidth = lastControl.x + lastControl.Width:<br/>
+<img width="1792" height="922" alt="image" src="https://github.com/user-attachments/assets/bb73cb32-f04a-4323-b061-346e45e1bde0" /><br/>
+
+Set the container's Horizontal Overflow <br/>
+<img width="1805" height="833" alt="image" src="https://github.com/user-attachments/assets/3632df95-c6c7-4f4e-8d5e-f78102572ead" /><br/>
+
+Then see the Horizontal Scroll Experience <br/>
+<img width="1369" height="937" alt="image" src="https://github.com/user-attachments/assets/3ff92859-af8e-4d90-9783-253b228ce643" /><br/>
+
+
+
 
 
