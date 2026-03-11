@@ -80,6 +80,8 @@ Then it looks like this:<br/>
 Item Id Column Setting:<br/>
 <img width="1819" height="769" alt="image" src="https://github.com/user-attachments/assets/5e56dfad-b0f3-49c0-993c-4bad5864a7de" /><br/>
 
+For those columns that should always visible, set flexible width = false, and set its width with a fixed value<br/>
+<img width="1710" height="744" alt="image" src="https://github.com/user-attachments/assets/f638b8df-56a3-421e-a8d2-e6a294b44248" /><br/>
 
 
 
