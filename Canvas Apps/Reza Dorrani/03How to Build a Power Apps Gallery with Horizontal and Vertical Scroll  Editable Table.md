@@ -13,6 +13,10 @@ In Main Container, insert a Vertical gallery <br/>
 <img width="1403" height="826" alt="image" src="https://github.com/user-attachments/assets/5c924565-4faf-4789-ae5d-003dc4f6ad6c" /><br/>
 
 Layout of this gallery set it as "Blank" <br/>
-<img width="1872" height="901" alt="image" src="https://github.com/user-attachments/assets/f104b934-d567-4e9c-9c98-7d5d2c86d41a" />
+<img width="1872" height="901" alt="image" src="https://github.com/user-attachments/assets/f104b934-d567-4e9c-9c98-7d5d2c86d41a" /><br/>
 
+Then set container's all padding = 0:<br/>
+
+<img width="1783" height="832" alt="image" src="https://github.com/user-attachments/assets/71715264-dc03-438a-aa16-61b5d990f491" /><br/>
+<img width="1826" height="910" alt="image" src="https://github.com/user-attachments/assets/b081410b-4ad3-4023-be98-d76e7bf5b24d" /><br/>
 
