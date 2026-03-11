@@ -92,6 +92,39 @@ Set the container's Horizontal Overflow <br/>
 Then see the Horizontal Scroll Experience <br/>
 <img width="1369" height="937" alt="image" src="https://github.com/user-attachments/assets/3ff92859-af8e-4d90-9783-253b228ce643" /><br/>
 
+Vertical Scroll <br/>
+<img width="1758" height="761" alt="image" src="https://github.com/user-attachments/assets/91b46236-ed8d-4184-9f59-68ea37a6f2f6" /><br/>
+
+Can only see the vertical scroll when scroll to the most right <br/>
+<img width="1732" height="777" alt="image" src="https://github.com/user-attachments/assets/c0b59a9a-f9dc-4db1-b4f3-86e3d35f1a08" /><br/>
+
+Turn off the show scroll of the gallery<br/>
+<img width="1764" height="781" alt="image" src="https://github.com/user-attachments/assets/e5e4ca2c-e73a-4237-a037-53c20cbff7b1" /><br/>
+<img width="1809" height="908" alt="image" src="https://github.com/user-attachments/assets/1b07b321-3b1e-4ba4-be1c-627a7f81c6a2" /><br/>
+
+Set the container's overflow <br/>
+<img width="1792" height="973" alt="image" src="https://github.com/user-attachments/assets/1c311dbe-8256-4b69-9e96-4e79f4607d66" /><br/>
+
+Then has horizontal scroll and vertical scroll <br/>
+<img width="1713" height="753" alt="image" src="https://github.com/user-attachments/assets/212a3d6d-41a8-48d9-9ffd-ca79db8830e4" /><br/>
+
+Add Headers<br/>
+Add Horizontal container, and move to top <br/>
+<img width="1831" height="864" alt="image" src="https://github.com/user-attachments/assets/4799a40b-ebfc-4786-9eb2-cf429e6ccf53" /><br/>
+Header Container with height = 40 <br/>
+<img width="1767" height="868" alt="image" src="https://github.com/user-attachments/assets/ef35a43f-f34b-495f-b8c7-d386237c35ab" /><br/>
+Added all headers for Text Control <br/>
+<img width="1806" height="875" alt="image" src="https://github.com/user-attachments/assets/981523ad-3b2b-4df9-b74e-baef2d13d76a" />
+Header container set padding = 0 <br/>
+<img width="1787" height="991" alt="image" src="https://github.com/user-attachments/assets/f93a112c-4b06-47c2-80a7-bdb7431a87b3" />
+<img width="1792" height="886" alt="image" src="https://github.com/user-attachments/assets/53724d5c-e275-4560-b284-442e345cf1e6" />
+
+For each header control <br/>
+<img width="1791" height="966" alt="image" src="https://github.com/user-attachments/assets/e37420dd-676a-4d06-a308-199a8b72d76b" /><br/>
+<img width="1792" height="867" alt="image" src="https://github.com/user-attachments/assets/e2a322cd-87a9-464f-85b1-89057d28c7c5" /><br/>
+<img width="1807" height="935" alt="image" src="https://github.com/user-attachments/assets/e36f1690-a629-4b2e-ad42-a69f20809b68" /><br/>
+<img width="1754" height="849" alt="image" src="https://github.com/user-attachments/assets/8a231263-653f-46ff-82e8-62bf6e991dc2" /><br/>
+<img width="1813" height="909" alt="image" src="https://github.com/user-attachments/assets/16c00527-e18d-4111-9ee6-96d2dcbdcc4d" /><br/>
 
 
 
