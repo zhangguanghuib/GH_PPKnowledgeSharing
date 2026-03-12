@@ -26,3 +26,8 @@ OnSelect of this button is<br/>
 
 For the ID Column:<br/>
 <img width="1722" height="790" alt="image" src="https://github.com/user-attachments/assets/c2dd313f-0c6a-40f9-a19f-670699513343" /><br/>
+
+Visual Indication to show the column is Ascending or Descending<br/>
+Icon property of the button <br/>
+<img width="1779" height="731" alt="image" src="https://github.com/user-attachments/assets/d3738948-194d-4c0e-a07a-0e93d5eda523" /><br/>
+<img width="1548" height="894" alt="image" src="https://github.com/user-attachments/assets/fe384538-11a1-4d9b-bb33-8ea3995e96ba" /><br/>
