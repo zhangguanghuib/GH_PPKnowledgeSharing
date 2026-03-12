@@ -31,3 +31,18 @@ Visual Indication to show the column is Ascending or Descending<br/>
 Icon property of the button <br/>
 <img width="1779" height="731" alt="image" src="https://github.com/user-attachments/assets/d3738948-194d-4c0e-a07a-0e93d5eda523" /><br/>
 <img width="1548" height="894" alt="image" src="https://github.com/user-attachments/assets/fe384538-11a1-4d9b-bb33-8ea3995e96ba" /><br/>
+
+Change the Icon formular for each button <br/>
+<img width="1816" height="647" alt="image" src="https://github.com/user-attachments/assets/b8e16ff5-01d0-4d2a-b759-06062d1a1cbb" /><br/>
+
+ID OnSelect Button <br/>
+<img width="1586" height="593" alt="image" src="https://github.com/user-attachments/assets/c02d5250-4d25-4cb2-8fef-7fd06ef29416" /><br/>
+
+This is no delegable <br/>
+<img width="1813" height="1035" alt="image" src="https://github.com/user-attachments/assets/db17da9b-108b-4b18-9475-1cf5931e7854" /><br/>
+
+Then we use switch <br/>
+<img width="1782" height="868" alt="image" src="https://github.com/user-attachments/assets/e0809519-b95e-4b09-aa48-d23c25065f96" /><br/>
+<img width="1753" height="923" alt="image" src="https://github.com/user-attachments/assets/67b61941-527e-436c-8af3-169ef3edd5d5" /><br/>
+<img width="1750" height="728" alt="image" src="https://github.com/user-attachments/assets/bbe072f0-34a8-4822-a414-a4fd16286a54" /><br/>
+
