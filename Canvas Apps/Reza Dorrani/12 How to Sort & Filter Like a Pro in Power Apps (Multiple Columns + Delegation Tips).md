@@ -46,3 +46,7 @@ Then we use switch <br/>
 <img width="1753" height="923" alt="image" src="https://github.com/user-attachments/assets/67b61941-527e-436c-8af3-169ef3edd5d5" /><br/>
 <img width="1750" height="728" alt="image" src="https://github.com/user-attachments/assets/bbe072f0-34a8-4822-a414-a4fd16286a54" /><br/>
 
+Complex columns like Choice/Person can not sort on them <br/>
+<hr/>
+
+
