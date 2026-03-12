@@ -15,4 +15,14 @@ The below is not delegable(delegation warning) <br/>
 SortByColumns formular can sort multiple columns <br/>
 <img width="1774" height="628" alt="image" src="https://github.com/user-attachments/assets/b23e0ab3-165c-464a-88ff-57447fcc86c8" /><br/>
 
+Set the header of column ID as "Button" <br/>
+<img width="1793" height="699" alt="image" src="https://github.com/user-attachments/assets/25d40cce-6b6b-4ca4-a566-47a6efcd1021" /><br/>
 
+Set Icon before of the button <br/>
+<img width="1808" height="950" alt="image" src="https://github.com/user-attachments/assets/163312f3-a95f-4105-ba43-071156bc45d2" /><br/>
+
+OnSelect of this button is<br/>
+<img width="1679" height="632" alt="image" src="https://github.com/user-attachments/assets/3248d14f-63ea-4146-8bd8-272bc75db6a9" /><br/>
+
+For the ID Column:<br/>
+<img width="1722" height="790" alt="image" src="https://github.com/user-attachments/assets/c2dd313f-0c6a-40f9-a19f-670699513343" /><br/>
