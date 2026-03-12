@@ -48,5 +48,32 @@ Then we use switch <br/>
 
 Complex columns like Choice/Person can not sort on them <br/>
 <hr/>
+Filter on multiple columns<br/>
+<img width="1669" height="936" alt="image" src="https://github.com/user-attachments/assets/84a42543-26ab-4758-99d9-4370e37b4448" /><br/>
+Insert a container <br/>
+<img width="1403" height="790" alt="image" src="https://github.com/user-attachments/assets/46141f29-f49c-422b-8285-3226289887dd" /><br/>
+<img width="1765" height="916" alt="image" src="https://github.com/user-attachments/assets/dce5c1a0-4d6b-4b04-8574-b43dcb8a5a5a" /><br/>
+Insert a Text and Text Input Control<br/>
+<img width="1529" height="799" alt="image" src="https://github.com/user-attachments/assets/63e14e88-0513-4622-bd48-3a032c554523" /><br/>
+<img width="1812" height="711" alt="image" src="https://github.com/user-attachments/assets/91409b69-668d-41f9-ae85-8d7b1a8a7ef6" /><br/>
+<img width="1847" height="913" alt="image" src="https://github.com/user-attachments/assets/8ecd50e3-ffe3-4c12-92f4-3dc39178e508" /><br/>
+<img width="1777" height="851" alt="image" src="https://github.com/user-attachments/assets/74a1c1a4-26de-4bf5-a9d8-96deced6f177" /><br/>
+<img width="1842" height="1034" alt="image" src="https://github.com/user-attachments/assets/770804d8-8554-4477-aa84-998e85b1894b" /><br/>
+<img width="1797" height="919" alt="image" src="https://github.com/user-attachments/assets/8b16ed76-9061-473d-a507-d4e7babe0c8b" /><br/>
+<img width="1820" height="918" alt="image" src="https://github.com/user-attachments/assets/1a0a80b6-f3ce-4419-8a90-d436f8979aed" /><br/>
+<img width="1790" height="841" alt="image" src="https://github.com/user-attachments/assets/b4aa5812-3c3b-4e12-93db-b5b06e50a578" /><br/>
+<img width="1767" height="704" alt="image" src="https://github.com/user-attachments/assets/7e819453-5dd9-427d-a575-d809db1fdfb7" /><br/>
+
+Adding a filter indicator <br/>
+<img width="1703" height="622" alt="image" src="https://github.com/user-attachments/assets/4ebbdd5a-df45-411c-99f8-836b1cfe82f9" /><br/>
+
+Adding two more filters<br/>
+Priority of ComboBox control <br/>
+<img width="1802" height="660" alt="image" src="https://github.com/user-attachments/assets/6764937e-9bc9-40fb-9fc8-f11774c5bb88" /><br/>
+
+Status ComboBox<br/>
+<img width="1821" height="677" alt="image" src="https://github.com/user-attachments/assets/d0c428c4-55bc-4762-87f3-8bf7f6f4bcb7" /><br/>
+<img width="1672" height="618" alt="image" src="https://github.com/user-attachments/assets/4e043b9c-802b-4b03-b5fa-3b431c2d42aa" /><br/>
+<img width="1673" height="914" alt="image" src="https://github.com/user-attachments/assets/cd9d3b92-64bc-4c0c-b41d-664c62c34c96" /><br/>
 
 
