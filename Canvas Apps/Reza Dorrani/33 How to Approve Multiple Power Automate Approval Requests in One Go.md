@@ -33,3 +33,17 @@ Adding a new connection<br/>
 <img width="1146" height="965" alt="image" src="https://github.com/user-attachments/assets/274f7cbe-3fbb-4b14-8174-90ac2785b4a8" /><br/>
 <img width="1476" height="967" alt="image" src="https://github.com/user-attachments/assets/59c43cd9-b41b-442f-ac09-6a8dfa82c004" /><br/>
 <img width="1113" height="814" alt="image" src="https://github.com/user-attachments/assets/082d1720-fc60-41e6-9fdb-c8f2060c148f" /><br/>
+
+That is the flow overview<br/>
+<img width="1297" height="908" alt="image" src="https://github.com/user-attachments/assets/2f282d68-5662-4c21-9020-cf2fe3594b61" /><br/>
+
+Table's Items = <br/>
+<img width="1809" height="846" alt="image" src="https://github.com/user-attachments/assets/28c6655b-c348-45b9-a8b1-389ab4358ff6" /><br/>
+
+<img width="1832" height="992" alt="image" src="https://github.com/user-attachments/assets/a80c7be7-9632-406e-827c-3fcfe9a1496a" /><br/>
+
+<img width="1803" height="799" alt="image" src="https://github.com/user-attachments/assets/1a3eb428-fbec-454e-8407-781ab91537a7" /><br/>
+
+<img width="1762" height="927" alt="image" src="https://github.com/user-attachments/assets/4b155eaf-1ce4-4747-97a2-638577b26412" /><br/>
+
+<img width="1802" height="915" alt="image" src="https://github.com/user-attachments/assets/dfd81a7c-74a7-4c22-9ef6-3099d9146fc6" /><br/>
