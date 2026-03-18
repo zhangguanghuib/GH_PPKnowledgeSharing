@@ -15,3 +15,5 @@ Click Confirm<br/>
 <img width="1773" height="965" alt="image" src="https://github.com/user-attachments/assets/e6b01326-44e1-4b85-a65a-88716748fe8d" /><br/>
 
 <img width="1790" height="928" alt="image" src="https://github.com/user-attachments/assets/9213fb94-737e-406f-a138-4fc275cccd84" /><br/>
+Create Approval's output<br/>
+<img width="1780" height="969" alt="image" src="https://github.com/user-attachments/assets/9a881a6a-0248-479d-8009-14a511a59d82" /><br/>
