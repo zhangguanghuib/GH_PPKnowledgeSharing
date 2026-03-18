@@ -17,3 +17,36 @@ Click Confirm<br/>
 <img width="1790" height="928" alt="image" src="https://github.com/user-attachments/assets/9213fb94-737e-406f-a138-4fc275cccd84" /><br/>
 Create Approval's output<br/>
 <img width="1780" height="969" alt="image" src="https://github.com/user-attachments/assets/9a881a6a-0248-479d-8009-14a511a59d82" /><br/>
+
+Test <br/>
+<img width="1814" height="955" alt="image" src="https://github.com/user-attachments/assets/1b6dc812-4f20-46ea-b1ba-5a8adf86265d" /><br/>
+<img width="1800" height="974" alt="image" src="https://github.com/user-attachments/assets/3a11a0d9-f266-437a-8ea2-84189f7f090f" /><br/>
+<img width="1288" height="923" alt="image" src="https://github.com/user-attachments/assets/432dbb23-bc94-44ce-aabc-1947b87f0829" /><br/>
+
+Create a new connection <br/>
+<img width="1127" height="894" alt="image" src="https://github.com/user-attachments/assets/222c03c9-9ae7-47b7-9526-134955b2e4a8" /><br/>
+
+Run the flow<br/>
+<img width="1829" height="765" alt="image" src="https://github.com/user-attachments/assets/f79215c4-3ecf-4153-8908-e61d709c1cc5" /><br/>
+And then you can see the "Wait for an approval" got approved<br/>
+<img width="1789" height="959" alt="image" src="https://github.com/user-attachments/assets/38962776-7c03-4d9d-82a6-89579e295c36" /><br/>
+
+Two flows in the Power Apps <br/>
+<img width="1797" height="865" alt="image" src="https://github.com/user-attachments/assets/14aae184-9b08-49a6-a446-759fcda7e6b0" /><br/>
+Update the Data Source <br/>
+<img width="822" height="871" alt="image" src="https://github.com/user-attachments/assets/aea6faa0-b43e-4553-bfcd-433b005e1a2b" /><br/>
+
+Sharepoint list has a column approval id <br/>
+<img width="1888" height="897" alt="image" src="https://github.com/user-attachments/assets/5ce3f981-9c50-4ab1-91dc-22542dbbd467" /><br/>
+<img width="1777" height="898" alt="image" src="https://github.com/user-attachments/assets/1bfdf5e1-e4c2-4ec5-935c-b31f33c64fbe" /><br/>
+<img width="1733" height="899" alt="image" src="https://github.com/user-attachments/assets/450c93f6-5325-421d-804f-a6db28a54a13" /><br/>
+
+Another flow:<br/>
+<img width="987" height="890" alt="image" src="https://github.com/user-attachments/assets/1d84fbc7-70b5-49fb-9fe3-f8d318770f92" /><br/>
+
+Create a leaving request<br/>
+<img width="1745" height="888" alt="image" src="https://github.com/user-attachments/assets/16fdc5fe-8bcb-4431-823b-5e99b48be76b" /><br/>
+<img width="1095" height="851" alt="image" src="https://github.com/user-attachments/assets/58b63b1f-7091-4d86-a3d2-4a2c9cd7b494" /><br/>
+
+
+
