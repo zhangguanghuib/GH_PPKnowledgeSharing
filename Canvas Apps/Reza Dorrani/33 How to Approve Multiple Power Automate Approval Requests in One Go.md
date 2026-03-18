@@ -2,7 +2,7 @@ Bulk Approval in one Go <br/>
 https://www.youtube.com/watch?v=H4uP-0G3Q54&list=PLTyFh-qDKAiEIVlidnhELx5BusnzlDzkR&index=33<br/>
 <img width="1208" height="660" alt="image" src="https://github.com/user-attachments/assets/6a9f0e06-f332-4eb3-ba85-6874f33e2aa4" /><br/>
 
-Enable Multi-Select<br/>
+Enable Multi-Select for the table<br/>
 <img width="1868" height="930" alt="image" src="https://github.com/user-attachments/assets/c95b91f3-fedf-4f47-b5d4-96b9a45faed9" /><br/>
 
 Set the container's visible <br/>
