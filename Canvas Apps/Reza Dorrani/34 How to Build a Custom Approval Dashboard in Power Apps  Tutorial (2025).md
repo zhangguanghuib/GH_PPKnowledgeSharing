@@ -40,4 +40,10 @@ Full Approval Dashboard experience <br/>
 In the screen's OnVisible formular <br/>
 <img width="1807" height="882" alt="image" src="https://github.com/user-attachments/assets/8cc0754e-2df5-4a34-8307-bee867a0e701" /><br/>
 <img width="1819" height="883" alt="image" src="https://github.com/user-attachments/assets/800669e6-8dcb-4ab7-bd80-c2e2a4138d08" /><br/>
+<img width="1801" height="936" alt="image" src="https://github.com/user-attachments/assets/3b3002df-b339-4b05-ad7d-b59c4f7570b0" /><br/>
+<img width="1825" height="899" alt="image" src="https://github.com/user-attachments/assets/98b1c04e-800f-48a7-88ad-e405ef28bfb0" /><br/>
+<img width="1810" height="814" alt="image" src="https://github.com/user-attachments/assets/4840dd7b-039f-494a-ad08-dc687fcc55c3" /><br/>
+The filter function <br/>
+<img width="1795" height="828" alt="image" src="https://github.com/user-attachments/assets/41612853-3b0b-4c62-b496-d292d059cbd0" />
 
+<br/>
