@@ -46,3 +46,7 @@ When click Submit button, set variable = true <br/>
 <img width="1784" height="807" alt="image" src="https://github.com/user-attachments/assets/459c62f0-782f-4ee3-ad29-ad6ee1f03492" /><br/>
 When click "Cancel" button<br/>
 <img width="1790" height="858" alt="image" src="https://github.com/user-attachments/assets/f746990a-3db8-4b85-b23e-1c14d372b90c" /><br/>
+
+Validation State of the Text Input Control:<br/>
+<img width="1780" height="870" alt="image" src="https://github.com/user-attachments/assets/05e83c23-408a-40fb-ba08-972723f646c8" /><br/>
+
