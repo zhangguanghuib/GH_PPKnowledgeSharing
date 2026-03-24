@@ -112,4 +112,29 @@ Error message control's visible <br/>
 Text of Error message<br/>
 <img width="1766" height="1003" alt="image" src="https://github.com/user-attachments/assets/d315e994-d42f-49e6-8657-fb50074a3ae5" /><br/>
 
+Submit form if validations completed<br/>
+<img width="1793" height="1011" alt="image" src="https://github.com/user-attachments/assets/68ad9207-bd2c-4376-a45f-df1754f45640" /><br/>
+
+App=>Formular<br/>
+<img width="1806" height="926" alt="image" src="https://github.com/user-attachments/assets/81af6af7-3f67-4568-9695-3c77557c0d7a" /><br/>
+
+<img width="1814" height="878" alt="image" src="https://github.com/user-attachments/assets/4d66d982-79d3-428c-a0b3-ce7ffbb89812" />
+<br/>
+
+Adding a Text Control to verify the formular value:<br/>
+<img width="1772" height="993" alt="image" src="https://github.com/user-attachments/assets/6b47a6b7-6c21-42a9-8c6c-b43f37e0451c" /><br/>
+
+Insert a Timer Control<br/>
+<img width="1807" height="879" alt="image" src="https://github.com/user-attachments/assets/a68cad15-8348-4b66-9386-2472020e14d1" /><br/>
+
+<img width="1800" height="946" alt="image" src="https://github.com/user-attachments/assets/58a65211-25e7-49fe-b6f4-bdf99eeef916" /><br/>
+<img width="1794" height="962" alt="image" src="https://github.com/user-attachments/assets/26395dd7-4c2e-4d5b-8930-30307e0803d0" /><br/>
+<img width="1831" height="906" alt="image" src="https://github.com/user-attachments/assets/43a4f79b-c6d4-4455-8a63-6d0bba136a37" />
+
+Set the timer visible = false <br/>
+<img width="1809" height="876" alt="image" src="https://github.com/user-attachments/assets/f75f08c4-90b5-46ae-9a1c-dd443065036f" />
+
+Screen's onHidden<br/>
+<img width="1773" height="908" alt="image" src="https://github.com/user-attachments/assets/7bf6616b-e479-4d20-b7be-37ed66a64df3" /><br/>
+<img width="1811" height="934" alt="image" src="https://github.com/user-attachments/assets/f334d607-7936-4ab4-8d63-11e2ddcf73af" /><br/>
 
