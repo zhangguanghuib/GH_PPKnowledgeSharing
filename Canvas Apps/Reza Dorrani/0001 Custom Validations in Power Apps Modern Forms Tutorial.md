@@ -50,3 +50,32 @@ When click "Cancel" button<br/>
 Validation State of the Text Input Control:<br/>
 <img width="1780" height="870" alt="image" src="https://github.com/user-attachments/assets/05e83c23-408a-40fb-ba08-972723f646c8" /><br/>
 
+Single Select ComboBox validation <br/>
+<img width="1816" height="940" alt="image" src="https://github.com/user-attachments/assets/8dd822f6-ffa9-46a3-9700-26e1f7eb2686" /><br/>
+
+Unlock the Data Card like before<br/>
+<img width="1800" height="963" alt="image" src="https://github.com/user-attachments/assets/d6bd2f73-a3e7-4865-87cb-af8e11a8aa14" /><br/>
+<img width="1797" height="890" alt="image" src="https://github.com/user-attachments/assets/9a667bbb-6b62-477d-9d8a-0da940b4cf8b" /><br/>
+
+Validation State of the ComboBox Control<br/>
+<img width="1855" height="974" alt="image" src="https://github.com/user-attachments/assets/803c6400-80f2-430c-899f-9080e734678d" /><br/>
+<img width="1776" height="889" alt="image" src="https://github.com/user-attachments/assets/98542ac5-9f33-48c0-b242-4b01efd8a24e" /><br/>
+Visible<br/>
+<img width="1777" height="860" alt="image" src="https://github.com/user-attachments/assets/e054c58d-033e-4115-acc1-607c3bc7be18" /><br/>
+
+
+Multi Select ComboBox Validation<br/>
+<img width="1784" height="967" alt="image" src="https://github.com/user-attachments/assets/6a1fe0e1-b6ed-45f1-baad-36d98d7c7f65" /><br/>
+
+Validation State is:<br/>
+<img width="1791" height="885" alt="image" src="https://github.com/user-attachments/assets/382cb875-1606-447b-a0ab-d4c21bfb1396" /><br/>
+The error message is<br/>
+<img width="1769" height="877" alt="image" src="https://github.com/user-attachments/assets/e7f125df-5f2c-4916-a020-eedb8337e3ac" /><br/>
+Visible of the Error message :<br/>
+<img width="1774" height="896" alt="image" src="https://github.com/user-attachments/assets/0250e230-f37c-4363-8d22-55b310fbda9f" /><br/>
+<img width="1781" height="908" alt="image" src="https://github.com/user-attachments/assets/dacb021d-8789-4b47-8add-449c997f083f" /><br/>
+
+
+Date Column Validation <br/>
+<img width="1797" height="969" alt="image" src="https://github.com/user-attachments/assets/e10aee8c-a61e-4f99-8ac0-6b21345c957f" /><br/>
+
