@@ -79,3 +79,37 @@ Visible of the Error message :<br/>
 Date Column Validation <br/>
 <img width="1797" height="969" alt="image" src="https://github.com/user-attachments/assets/e10aee8c-a61e-4f99-8ac0-6b21345c957f" /><br/>
 
+Start Date of the Modern Date Control<br/>
+<img width="1793" height="947" alt="image" src="https://github.com/user-attachments/assets/212c9e5d-6ca6-4253-9f88-96e3c1a7cf40" /><br/>
+
+EndDate property<br/>
+<img width="1791" height="939" alt="image" src="https://github.com/user-attachments/assets/53416866-b8c6-4e07-879c-feffc35adf14" /><br/>
+
+The date user can choose only between the StartDate and EndDate<br/>
+
+Lookup Column Validation=>Assign to <br/>
+<img width="1793" height="861" alt="image" src="https://github.com/user-attachments/assets/01df7ba3-99dc-4dd8-8401-1bdae2bb73a9" /><br/>
+
+Not allow to assign to itself, user this connector<br/>
+<img width="1787" height="893" alt="image" src="https://github.com/user-attachments/assets/89ecc9de-3cca-4af8-a4d9-507a276bef2d" /><br/>
+
+Assign to ComboBox Validation State:<br/>
+<img width="1809" height="892" alt="image" src="https://github.com/user-attachments/assets/9c23cf83-d47c-4cd1-987f-bead9119e134" /><br/>
+
+Error message control's Text<br/>
+<img width="1828" height="933" alt="image" src="https://github.com/user-attachments/assets/a9998c5f-844b-4a37-ac4b-23dd150dbdf5" /><br/>
+Visible of Error Message Control<br/>
+<img width="1808" height="949" alt="image" src="https://github.com/user-attachments/assets/ae10f6e6-7ac5-4021-98ff-7cae779e10e8" /><br/>
+
+Issue Data Card Validation Update:<br/>
+<img width="1801" height="934" alt="image" src="https://github.com/user-attachments/assets/48b7e45e-29ea-49f1-b11a-3c9ce59315d1" /><br/>
+
+<img width="1838" height="891" alt="image" src="https://github.com/user-attachments/assets/03c23bc6-8c4d-4de6-aadf-6537b14f2d1e" /><br/>
+
+Error message control's visible <br/>
+<img width="1784" height="886" alt="image" src="https://github.com/user-attachments/assets/2fe7e85d-423d-4359-b476-4cb7bcee94f0" /><br/>
+
+Text of Error message<br/>
+<img width="1766" height="1003" alt="image" src="https://github.com/user-attachments/assets/d315e994-d42f-49e6-8657-fb50074a3ae5" /><br/>
+
+
