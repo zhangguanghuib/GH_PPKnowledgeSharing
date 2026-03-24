@@ -27,3 +27,22 @@ Make the below changes <br/>
 
 Text input Validation<br/>
 <img width="1776" height="929" alt="image" src="https://github.com/user-attachments/assets/67957fc2-8326-435d-a033-4ded8e98387d" /><br/>
+
+Color of the Error Message<br/>
+<img width="1722" height="890" alt="image" src="https://github.com/user-attachments/assets/66f93dd7-00d7-41a6-8675-863e3364bc6d" /><br/>
+
+Unblock the data card<br/>
+<img width="1803" height="891" alt="image" src="https://github.com/user-attachments/assets/97c2d5cf-c982-44d8-bb47-32fc54420997" /><br/>
+<img width="1796" height="943" alt="image" src="https://github.com/user-attachments/assets/4e5655ab-e794-4ec3-b4d2-55fe528f95c7" /><br/>
+Set the Error Message Text as: <br/>
+<img width="1773" height="881" alt="image" src="https://github.com/user-attachments/assets/b5124b4f-fa09-4ed9-b4be-681cd50ecd5c" /><br/>
+<img width="1768" height="879" alt="image" src="https://github.com/user-attachments/assets/c0b68b7b-2409-4083-bba9-6a661aaeb80b" /><br/>
+
+
+Trigger validations on Submit, only when click "Submit" button, show the error message: <br/>
+<img width="1807" height="948" alt="image" src="https://github.com/user-attachments/assets/50e07e90-c35a-4f66-96d0-d1638dd880e8" /><br/>
+
+When click Submit button, set variable = true <br/>
+<img width="1784" height="807" alt="image" src="https://github.com/user-attachments/assets/459c62f0-782f-4ee3-ad29-ad6ee1f03492" /><br/>
+When click "Cancel" button<br/>
+<img width="1790" height="858" alt="image" src="https://github.com/user-attachments/assets/f746990a-3db8-4b85-b23e-1c14d372b90c" /><br/>
