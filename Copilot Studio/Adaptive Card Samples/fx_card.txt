@@ -1,0 +1,129 @@
+{
+  '$schema': "http://adaptivecards.io/schemas/adaptive-card.json",
+  type: "AdaptiveCard",
+  version: "1.3",
+  body: [
+    {
+      type: "TextBlock",
+      text: "How may I assist you with your inquiry regarding US taxes? We have chosen the 6 frequently asked questions below as an example. You can also type your question into the message box below.",
+      wrap: true
+    },
+    {
+      type: "ColumnSet",
+      columns: [
+        {
+          type: "Column",
+          items: [
+            {
+              type: "ActionSet",
+              actions: [
+                {
+                  type: "Action.Submit",
+                  data: {
+                    query: "What is this US tax filing actually?"
+                  },
+                  title: "What is this US tax filing actually?",
+                  card: {
+                    type: "AdaptiveCard",
+                    body: [
+                      {
+                        type: "TextBlock",
+                        text: "What is this US tax filing actually?",
+                        wrap: true
+                      }
+                    ]
+                  }
+                },
+                {
+                  type: "Action.Submit",
+                  data: {
+                    query: "I have operated to the US / have duty travels to the US in this year, what should I do now?"
+                  },
+                  title: "I have operated to the US / have duty travels to the US in this year, what should I do now?",
+                  card: {
+                    type: "AdaptiveCard",
+                    body: [
+                      {
+                        type: "TextBlock",
+                        text: "I have operated to the US / have duty travels to the US in this year, what should I do now?",
+                        wrap: true
+                      }
+                    ]
+                  }
+                },
+                {
+                  type: "Action.Submit",
+                  data: {
+                    query: "What is the filing procedure?"
+                  },
+                  title: "What is the filing procedure?",
+                  card: {
+                    type: "AdaptiveCard",
+                    body: [
+                      {
+                        type: "TextBlock",
+                        text: "What is the filing procedure?",
+                        wrap: true
+                      }
+                    ]
+                  }
+                },
+                {
+                  type: "Action.Submit",
+                  data: {
+                    query: "Do I need to pay the US tax by myself?"
+                  },
+                  title: "Do I need to pay the US tax by myself?",
+                  card: {
+                    type: "AdaptiveCard",
+                    body: [
+                      {
+                        type: "TextBlock",
+                        text: "Do I need to pay the US tax by myself?",
+                        wrap: true
+                      }
+                    ]
+                  }
+                },
+                {
+                  type: "Action.Submit",
+                  data: {
+                    query: "My address shown on Form W-2 is not correct, what should I do?"
+                  },
+                  title: "My address shown on Form W-2 is not correct, what should I do?",
+                  card: {
+                    type: "AdaptiveCard",
+                    body: [
+                      {
+                        type: "TextBlock",
+                        text: "My address shown on Form W-2 is not correct, what should I do?",
+                        wrap: true
+                      }
+                    ]
+                  }
+                },
+                {
+                  type: "Action.Submit",
+                  data: {
+                    query: "Where is my Form W-2?"
+                  },
+                  title: "Where is my Form W-2?",
+                  card: {
+                    type: "AdaptiveCard",
+                    body: [
+                      {
+                        type: "TextBlock",
+                        text: "Where is my Form W-2?",
+                        wrap: true
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
