@@ -7,4 +7,6 @@
 <img width="423" height="654" alt="image" src="https://github.com/user-attachments/assets/0ffab4b9-214f-4bfd-bd84-a763ecf5f1de" /><br/>
 
 
+Create a SharePoint List from Excel<br/>
 
+<img width="876" height="599" alt="image" src="https://github.com/user-attachments/assets/fcc9925e-9aa9-4f66-87b3-132b8695d564" /><br/>
