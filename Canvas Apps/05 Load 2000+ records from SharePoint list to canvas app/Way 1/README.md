@@ -45,3 +45,27 @@ Using ID will give delegation warning,  but IndexId will not <br/>
 Now see 4000 rows got loaded<br/>
 <img width="1013" height="498" alt="image" src="https://github.com/user-attachments/assets/89f5886e-4f8a-454e-bdc5-6f7cb93deda3" /><br/>
 
+<img width="1465" height="549" alt="image" src="https://github.com/user-attachments/assets/48465803-1a09-4f12-b733-03db6f3c5e70" /><br/>
+<img width="1430" height="476" alt="image" src="https://github.com/user-attachments/assets/09bd1d34-e60b-40a8-91bc-34a6c18f8672" /><br/>
+<img width="1403" height="522" alt="image" src="https://github.com/user-attachments/assets/44e0ef50-fa5b-40ec-be73-0973c4b21357" /><br/>
+<img width="1418" height="737" alt="image" src="https://github.com/user-attachments/assets/cbf40bae-9950-4945-8bfc-2440ec073935" /><br/>
+
+Get the iterations<br/>
+<img width="1115" height="476" alt="image" src="https://github.com/user-attachments/assets/9b244844-a335-4165-b2fe-ca2184aaa170" /><br/>
+
+Update this code<br/>
+<img width="1446" height="456" alt="image" src="https://github.com/user-attachments/assets/1648dc04-2b5e-4839-9919-194330ea43db" /><br/>
+
+<img width="1738" height="525" alt="image" src="https://github.com/user-attachments/assets/1de688dc-07be-447f-9d05-f02316f8efe1" /><br/>
+
+<img width="1409" height="687" alt="image" src="https://github.com/user-attachments/assets/1a6dfc42-811e-45b2-a812-aa43c39a2129" /><br/>
+
+```
+Clear(colBook);
+ForAll(Sequence(Round(First(Sort(Book1,Index_ID,SortOrder.Descending)).Index_ID / 2000, 0),1,1),
+    With({_firstID: (ThisRecord.Value-1)*2000, _lastID: ThisRecord.Value * 2000},
+        Collect(colBook,Filter(Book1,Index_ID> _firstID &&Index_ID<= _lastID))
+    )
+)
+```
+
