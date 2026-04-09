@@ -16,3 +16,5 @@
    <img width="2268" height="469" alt="image" src="https://github.com/user-attachments/assets/3d0b59f8-3067-44c8-91c7-01810278b443" /><br/>
 
 
+4. Create DataVerse Connection, it can be shared with the Service Principal<br/>
+   <img width="1602" height="841" alt="image" src="https://github.com/user-attachments/assets/f9b179bc-d78d-4367-9866-efd7ff61940d" /><br/>
