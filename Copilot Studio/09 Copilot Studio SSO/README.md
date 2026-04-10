@@ -66,6 +66,11 @@ Click Setting button<br/>
 <img width="1764" height="901" alt="image" src="https://github.com/user-attachments/assets/06c3ddf1-5b8e-45fe-877b-060b3d40fa49" /><br/>
 Click Pages->Visit Site<br/>
 <img width="2039" height="1223" alt="image" src="https://github.com/user-attachments/assets/cbdc4159-13c3-4d64-9dc5-66a37ef7cdf3" /><br/>
+Open the webpage: <br/>
+<img width="1317" height="1529" alt="image" src="https://github.com/user-attachments/assets/2efe073c-9d8d-4bc3-8c6f-32dce3c4390a" /><br/>
+Copy the code<br/>
+<img width="930" height="352" alt="image" src="https://github.com/user-attachments/assets/e5f83442-73da-42b9-ba36-72dcdef47c98" /><br/>
+<img width="1103" height="1540" alt="image" src="https://github.com/user-attachments/assets/1160e29c-cd31-43e6-a6e3-05167bf0c477" /><br/>
 
 
 
