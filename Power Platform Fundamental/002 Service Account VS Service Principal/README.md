@@ -25,5 +25,16 @@ Adding Application User<br/>
 Leverage the Application User in Power Automate<br/>
 <img width="1554" height="504" alt="image" src="https://github.com/user-attachments/assets/ef94f462-999f-4ad8-a094-bafe913a1027" /><br/>
 
-Adding a new Dataverse Connection <br/>
+Adding a new Dataverse Connection with Service Principal <br/>
 <img width="1589" height="560" alt="image" src="https://github.com/user-attachments/assets/c1f50fae-10bc-458d-b2f1-3d72b1dfccc0" /><br/>
+<img width="531" height="276" alt="image" src="https://github.com/user-attachments/assets/cd48ecdb-800e-498c-85ec-a79898b7e8d5" /><br/>
+<img width="630" height="450" alt="image" src="https://github.com/user-attachments/assets/5220f891-481e-4a5d-9258-857555e4ebda" /><br/>
+<img width="770" height="454" alt="image" src="https://github.com/user-attachments/assets/055b95c2-d948-443a-89e1-46ab545fde36" /><br/>
+
+<hr/>
+Insert a new row to Dataverse table via Service Principal Connection<br/>
+<img width="570" height="688" alt="image" src="https://github.com/user-attachments/assets/5db50900-f03d-4d6a-afd3-343669348044" /><br/>
+
+Run the flow<br/>
+<img width="1256" height="749" alt="image" src="https://github.com/user-attachments/assets/da209887-1699-4397-aee1-c7c98f7b09a8" /><br/>
+<img width="1375" height="539" alt="image" src="https://github.com/user-attachments/assets/bbe43fe4-1fa8-48c7-b43c-bd7d457e4845" /><br/>
