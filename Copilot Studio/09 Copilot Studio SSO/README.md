@@ -46,6 +46,13 @@ Authorized client applications<br/>
 <img width="2405" height="1086" alt="image" src="https://github.com/user-attachments/assets/2e775de1-c88c-4772-89f6-6352957f56e0" /><br/>
 
 Adding Redirect URI:<br/>
+<img width="1128" height="246" alt="image" src="https://github.com/user-attachments/assets/4794b6c0-7e71-4240-abcc-d6dd15bb0655" /><br/>
+
+<img width="2459" height="1097" alt="image" src="https://github.com/user-attachments/assets/db5d2645-c975-42e5-bf35-5fa13ab26313" /><br/>
+
+<img width="2387" height="1146" alt="image" src="https://github.com/user-attachments/assets/79e3da1a-c3df-4eef-9f4d-4343aaae3757" /><br/>
+
+
 <img width="2493" height="1416" alt="image" src="https://github.com/user-attachments/assets/61f62566-a4ac-4228-9176-f9e05cbe5538" /><br/>
 
 <img width="2366" height="1187" alt="image" src="https://github.com/user-attachments/assets/deafaebf-96fb-4a6d-ab51-11eeb8504a75" /><br/>
