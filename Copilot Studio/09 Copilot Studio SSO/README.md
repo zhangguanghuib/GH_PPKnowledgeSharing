@@ -1,4 +1,6 @@
 # GH_PPKnowledgeSharing
+
+<h1>Setp 01: Create App Registration for Authentication:</h1>
 <img width="915" height="629" alt="image" src="https://github.com/user-attachments/assets/b1e01da9-c35b-49a0-9e0a-94db36614b67" /><br/>
 <img width="1665" height="1356" alt="image" src="https://github.com/user-attachments/assets/177b51ab-96b5-4a61-9cec-60a2faecbfd9" /><br/>
 <img width="1509" height="958" alt="image" src="https://github.com/user-attachments/assets/289162d7-badb-42b3-a5aa-0d42738b6957" /><br/>
@@ -33,3 +35,11 @@ Authorized client applications<br/>
 
 Adding Redirect URI:<br/>
 <img width="2493" height="1416" alt="image" src="https://github.com/user-attachments/assets/61f62566-a4ac-4228-9176-f9e05cbe5538" /><br/>
+
+<img width="2366" height="1187" alt="image" src="https://github.com/user-attachments/assets/deafaebf-96fb-4a6d-ab51-11eeb8504a75" /><br/>
+
+
+3. Github Code <br/>
+
+https://github.com/microsoft/CopilotStudioSamples/tree/main/sso/entra-id<br/>
+<img width="1441" height="960" alt="image" src="https://github.com/user-attachments/assets/28562752-8cf5-49b6-8ff0-b31fb3bb6255" /><br/>
