@@ -16,6 +16,13 @@ Click "Register"<br/>
 Input the client id and then click "Save"<br/>
 <img width="1954" height="1432" alt="image" src="https://github.com/user-attachments/assets/eac841ad-a599-4970-a7c7-a732a3bb64c1" /><br/>
 <img width="1609" height="1201" alt="image" src="https://github.com/user-attachments/assets/0f2e5837-3e27-464c-96f8-40d5a264526d" /><br/>
+
+Adding Federated credentials<br/>
+<img width="2065" height="960" alt="image" src="https://github.com/user-attachments/assets/0a6c1962-b77e-4de5-bb88-65a34bde954d" /><br/>
+<img width="1416" height="1175" alt="image" src="https://github.com/user-attachments/assets/399922d2-0f54-4fe3-8cd8-129fd07f13e4" /><br/>
+<img width="2078" height="932" alt="image" src="https://github.com/user-attachments/assets/59eab919-e19a-472d-9137-dfab4d41a196" />
+<hr/>
+
 Add a permission: <br/>
 <img width="2116" height="1429" alt="image" src="https://github.com/user-attachments/assets/560c9dd3-e70a-492b-9fcc-17f4ee0e6f84" /><br/>
 Click "Add permission"<br/>
