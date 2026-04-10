@@ -21,3 +21,10 @@ Adding a scope<br/>
 <img width="1634" height="1245" alt="image" src="https://github.com/user-attachments/assets/54232413-ff93-4fb0-99b1-4a06b58d7fd2" /><br/>
 
 Create App Registration for your website<br/>
+<img width="1576" height="891" alt="image" src="https://github.com/user-attachments/assets/25482d10-1dbd-4aad-9791-531ce84d676b" /><br/>
+
+Adding a scope<br/>
+<img width="2395" height="1147" alt="image" src="https://github.com/user-attachments/assets/6940e583-8fcc-44a8-bbe9-82936ad308cf" /><br/>
+
+Authorized client applications<br/>
+<img width="2378" height="1135" alt="image" src="https://github.com/user-attachments/assets/193ea7b1-c653-41e8-81b7-52092a13651e" /><br/>
