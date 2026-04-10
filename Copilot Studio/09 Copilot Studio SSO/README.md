@@ -57,6 +57,17 @@ Adding Redirect URI:<br/>
 
 <img width="2366" height="1187" alt="image" src="https://github.com/user-attachments/assets/deafaebf-96fb-4a6d-ab51-11eeb8504a75" /><br/>
 
+<hr/>
+How to test it?<br/>
+
+Create a new empty Github Repository, and only put the index.html in it:<br/>
+<img width="2186" height="993" alt="image" src="https://github.com/user-attachments/assets/649f5a94-6610-4995-bca6-8170382efa22" /><br/>
+Click Setting button<br/>
+<img width="1764" height="901" alt="image" src="https://github.com/user-attachments/assets/06c3ddf1-5b8e-45fe-877b-060b3d40fa49" /><br/>
+Click Pages->Visit Site<br/>
+<img width="2039" height="1223" alt="image" src="https://github.com/user-attachments/assets/cbdc4159-13c3-4d64-9dc5-66a37ef7cdf3" /><br/>
+
+
 
 <h1>3. Github Code <br/><h1>
 
