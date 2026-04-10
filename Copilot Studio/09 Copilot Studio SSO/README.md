@@ -19,3 +19,5 @@ Adding a scope<br/>
 
 <img width="1955" height="1091" alt="image" src="https://github.com/user-attachments/assets/5974b023-a64f-4144-abd5-db0bc20cd626" /><br/>
 <img width="1634" height="1245" alt="image" src="https://github.com/user-attachments/assets/54232413-ff93-4fb0-99b1-4a06b58d7fd2" /><br/>
+
+Create App Registration for your website<br/>
