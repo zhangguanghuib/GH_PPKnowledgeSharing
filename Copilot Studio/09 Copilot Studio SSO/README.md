@@ -1,8 +1,9 @@
 # GH_PPKnowledgeSharing
 
-The below steps comes from these document:
-https://learn.microsoft.com/en-us/microsoft-copilot-studio/configure-sso?tabs=webApp
-https://learn.microsoft.com/en-us/microsoft-copilot-studio/configure-sso?tabs=webApp
+The below steps comes from these document:<br/>
+https://learn.microsoft.com/en-us/microsoft-copilot-studio/configure-sso?tabs=webApp<br/>
+https://learn.microsoft.com/en-us/microsoft-copilot-studio/configuration-authentication-azure-ad?tabs=fic-auth<br/>
+https://github.com/microsoft/CopilotStudioSamples/tree/main/sso/entra-id<br/>
 
 <h1>Setp 01: Create App Registration for Authentication:</h1>
 <img width="915" height="629" alt="image" src="https://github.com/user-attachments/assets/b1e01da9-c35b-49a0-9e0a-94db36614b67" /><br/>
