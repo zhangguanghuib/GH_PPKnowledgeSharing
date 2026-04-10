@@ -64,7 +64,7 @@ https://github.com/microsoft/CopilotStudioSamples/tree/main/sso/entra-id<br/>
 <img width="1441" height="960" alt="image" src="https://github.com/user-attachments/assets/28562752-8cf5-49b6-8ff0-b31fb3bb6255" /><br/>
 
 <hr/>  
-<h1>Setp 05: How to test it?<br/></h1>h1>
+<h1>Setp 05: How to test it?<br/></h1>
 
 Step 01, make sure you publish the Copilot Agent, otherwise you will see error.<br/>
 <img width="2421" height="1242" alt="image" src="https://github.com/user-attachments/assets/c83f792c-e71c-4712-89c4-cd97cfb93b42" /><br/>
