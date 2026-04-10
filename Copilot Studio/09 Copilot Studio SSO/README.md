@@ -28,3 +28,8 @@ Adding a scope<br/>
 
 Authorized client applications<br/>
 <img width="2378" height="1135" alt="image" src="https://github.com/user-attachments/assets/193ea7b1-c653-41e8-81b7-52092a13651e" /><br/>
+<br/>
+<img width="2405" height="1086" alt="image" src="https://github.com/user-attachments/assets/2e775de1-c88c-4772-89f6-6352957f56e0" /><br/>
+
+Adding Redirect URI:<br/>
+<img width="2493" height="1416" alt="image" src="https://github.com/user-attachments/assets/61f62566-a4ac-4228-9176-f9e05cbe5538" /><br/>
