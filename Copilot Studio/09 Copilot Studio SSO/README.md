@@ -58,8 +58,17 @@ Adding Redirect URI:<br/>
 <img width="2366" height="1187" alt="image" src="https://github.com/user-attachments/assets/deafaebf-96fb-4a6d-ab51-11eeb8504a75" /><br/>
 
 <hr/>
+<h1>3. Github Code <br/><h1>
+https://github.com/microsoft/CopilotStudioSamples/tree/main/sso/entra-id<br/>
+<img width="1441" height="960" alt="image" src="https://github.com/user-attachments/assets/28562752-8cf5-49b6-8ff0-b31fb3bb6255" /><br/>
+<hr/>
+  
 How to test it?<br/>
 
+Step 01, make sure you publish the Copilot Agent, otherwise you will see error.<br/>
+<img width="2421" height="1242" alt="image" src="https://github.com/user-attachments/assets/c83f792c-e71c-4712-89c4-cd97cfb93b42" /><br/>
+
+Step 02:<br/>
 Create a new empty Github Repository, and only put the index.html in it:<br/>
 <img width="2186" height="993" alt="image" src="https://github.com/user-attachments/assets/649f5a94-6610-4995-bca6-8170382efa22" /><br/>
 Click Setting button<br/>
@@ -72,9 +81,5 @@ Copy the code<br/>
 <img width="930" height="352" alt="image" src="https://github.com/user-attachments/assets/e5f83442-73da-42b9-ba36-72dcdef47c98" /><br/>
 <img width="1103" height="1540" alt="image" src="https://github.com/user-attachments/assets/1160e29c-cd31-43e6-a6e3-05167bf0c477" /><br/>
 
-
-
-<h1>3. Github Code <br/><h1>
-
-https://github.com/microsoft/CopilotStudioSamples/tree/main/sso/entra-id<br/>
-<img width="1441" height="960" alt="image" src="https://github.com/user-attachments/assets/28562752-8cf5-49b6-8ff0-b31fb3bb6255" /><br/>
+You can see the bot is working fine<br/>
+<img width="2495" height="1346" alt="image" src="https://github.com/user-attachments/assets/ae236486-3af6-4ba5-adbf-ac81a3db3e09" />
