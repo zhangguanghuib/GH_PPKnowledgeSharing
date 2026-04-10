@@ -38,3 +38,4 @@ Insert a new row to Dataverse table via Service Principal Connection<br/>
 Run the flow<br/>
 <img width="1256" height="749" alt="image" src="https://github.com/user-attachments/assets/da209887-1699-4397-aee1-c7c98f7b09a8" /><br/>
 <img width="1375" height="539" alt="image" src="https://github.com/user-attachments/assets/bbe43fe4-1fa8-48c7-b43c-bd7d457e4845" /><br/>
+<img width="1598" height="579" alt="image" src="https://github.com/user-attachments/assets/454c6d1c-f72e-4c86-932a-bd1a653ed669" /><br/>
