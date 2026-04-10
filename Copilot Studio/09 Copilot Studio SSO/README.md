@@ -1,5 +1,9 @@
 # GH_PPKnowledgeSharing
 
+The below steps comes from these document:
+https://learn.microsoft.com/en-us/microsoft-copilot-studio/configure-sso?tabs=webApp
+https://learn.microsoft.com/en-us/microsoft-copilot-studio/configure-sso?tabs=webApp
+
 <h1>Setp 01: Create App Registration for Authentication:</h1>
 <img width="915" height="629" alt="image" src="https://github.com/user-attachments/assets/b1e01da9-c35b-49a0-9e0a-94db36614b67" /><br/>
 <img width="1665" height="1356" alt="image" src="https://github.com/user-attachments/assets/177b51ab-96b5-4a61-9cec-60a2faecbfd9" /><br/>
