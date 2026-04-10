@@ -4,7 +4,7 @@ The below steps comes from these document:<br/>
 https://learn.microsoft.com/en-us/microsoft-copilot-studio/configure-sso?tabs=webApp<br/>
 https://learn.microsoft.com/en-us/microsoft-copilot-studio/configuration-authentication-azure-ad?tabs=fic-auth<br/>
 https://github.com/microsoft/CopilotStudioSamples/tree/main/sso/entra-id<br/>
-
+<hr/>
 <h1>Setp 01: Create App Registration for Authentication:</h1>
 <img width="915" height="629" alt="image" src="https://github.com/user-attachments/assets/b1e01da9-c35b-49a0-9e0a-94db36614b67" /><br/>
 <img width="1665" height="1356" alt="image" src="https://github.com/user-attachments/assets/177b51ab-96b5-4a61-9cec-60a2faecbfd9" /><br/>
@@ -33,7 +33,7 @@ Adding a scope<br/>
 
 <img width="1955" height="1091" alt="image" src="https://github.com/user-attachments/assets/5974b023-a64f-4144-abd5-db0bc20cd626" /><br/>
 <img width="1634" height="1245" alt="image" src="https://github.com/user-attachments/assets/54232413-ff93-4fb0-99b1-4a06b58d7fd2" /><br/>
-
+<hr/>
 <h1>Step 2: Create App Registration for your website<br/></h1>
 <img width="1576" height="891" alt="image" src="https://github.com/user-attachments/assets/25482d10-1dbd-4aad-9791-531ce84d676b" /><br/>
 
@@ -61,8 +61,8 @@ Adding Redirect URI:<br/>
 <h1>3. Github Code <br/><h1>
 https://github.com/microsoft/CopilotStudioSamples/tree/main/sso/entra-id<br/>
 <img width="1441" height="960" alt="image" src="https://github.com/user-attachments/assets/28562752-8cf5-49b6-8ff0-b31fb3bb6255" /><br/>
-<hr/>
-  
+
+<hr/>  
 How to test it?<br/>
 
 Step 01, make sure you publish the Copilot Agent, otherwise you will see error.<br/>
