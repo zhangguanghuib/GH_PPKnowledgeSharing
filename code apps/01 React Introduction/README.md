@@ -11,7 +11,7 @@ npm run dev
 ```
 <img width="2496" height="1664" alt="image" src="https://github.com/user-attachments/assets/0388f5cb-04c3-49b5-a65a-aede0ebb6b9e" /><br/>
 <img width="2496" height="1664" alt="image" src="https://github.com/user-attachments/assets/cea2b195-3a4c-4761-9696-5aee8d8b20ed" /><br/>
-
+<img width="1876" height="1384" alt="image" src="https://github.com/user-attachments/assets/8c34bbeb-5909-46ee-ab09-f07405fb2d43" /><br/>
 
 3. React introduction:<br/>
 <img width="872" height="664" alt="image" src="https://github.com/user-attachments/assets/1e1a64a8-b6e6-436f-aac8-0decf8dd9c21" /><br/>
