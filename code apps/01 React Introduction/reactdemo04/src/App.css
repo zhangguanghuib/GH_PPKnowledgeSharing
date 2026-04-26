@@ -1,0 +1,140 @@
+.todo-page {
+  width: 100%;
+  min-height: 100svh;
+  display: grid;
+  place-items: center;
+  padding: 32px 20px;
+  box-sizing: border-box;
+}
+
+.todo-card {
+  width: 100%;
+  max-width: 760px;
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  padding: 28px;
+  text-align: left;
+  background: color-mix(in oklab, var(--bg) 94%, var(--accent) 6%);
+  box-shadow: var(--shadow);
+}
+
+.todo-card h1 {
+  margin: 0 0 24px;
+  font-size: 34px;
+}
+
+.todo-form {
+  display: flex;
+  gap: 12px;
+  margin-bottom: 20px;
+}
+
+.todo-form input {
+  flex: 1;
+  height: 42px;
+  padding: 0 12px;
+  border-radius: 10px;
+  border: 1px solid var(--border);
+  font-size: 16px;
+  color: var(--text-h);
+  background: var(--bg);
+}
+
+.todo-form button,
+.delete-btn {
+  border: none;
+  border-radius: 10px;
+  font-size: 14px;
+  cursor: pointer;
+  transition: transform 0.15s ease;
+}
+
+.todo-form button {
+  padding: 0 16px;
+  background: var(--accent);
+  color: #fff;
+}
+
+.delete-btn {
+  padding: 6px 12px;
+  background: #fda4af;
+  color: #541b27;
+}
+
+.todo-form button:hover,
+.delete-btn:hover {
+  transform: translateY(-1px);
+}
+
+.todo-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.todo-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 12px;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  background: var(--bg);
+}
+
+.todo-item label {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  color: var(--text-h);
+}
+
+.todo-id {
+  display: inline-flex;
+  min-width: 44px;
+  padding: 2px 8px;
+  border-radius: 999px;
+  font-family: var(--mono);
+  font-size: 13px;
+  background: var(--accent-bg);
+  color: var(--text-h);
+}
+
+.done {
+  text-decoration: line-through;
+  opacity: 0.75;
+}
+
+.empty {
+  padding: 16px;
+  border: 1px dashed var(--border);
+  border-radius: 12px;
+  text-align: center;
+}
+
+@media (max-width: 768px) {
+  .todo-card {
+    padding: 20px;
+  }
+
+  .todo-card h1 {
+    font-size: 28px;
+  }
+
+  .todo-form {
+    flex-direction: column;
+  }
+
+  .todo-form button {
+    height: 42px;
+  }
+
+  .todo-item {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
