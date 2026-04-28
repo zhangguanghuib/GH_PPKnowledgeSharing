@@ -44,7 +44,6 @@ prompt<br/>
 <img width="2490" height="1445" alt="image" src="https://github.com/user-attachments/assets/d5a26913-de3b-415a-9a04-aa909b384659" /><br/>
 
 7. Extract function ToDoItem Component <br/>
-
 ```
 Can you please help refine the code with this requirement: extract the ToDo Item as a Component, and call the ToDo Item Component from App Component.
 ```
