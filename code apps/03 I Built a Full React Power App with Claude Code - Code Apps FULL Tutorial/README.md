@@ -55,3 +55,8 @@ See the App Starts<br/>
 ```
 npm run build
 ```
+
+11. run
+```
+npx power-apps push
+```
