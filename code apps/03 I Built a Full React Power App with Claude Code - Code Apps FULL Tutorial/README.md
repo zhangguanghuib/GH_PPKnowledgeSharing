@@ -49,3 +49,9 @@ npm run dev
 ```
 See the App Starts<br/>
 <img width="2264" height="1283" alt="image" src="https://github.com/user-attachments/assets/d7ec4822-692e-4c72-a729-6b86aa0f9f87" /><br/>
+
+
+10. RUn:
+```
+npm run build
+```
