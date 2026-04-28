@@ -41,4 +41,11 @@ prompt<br/>
 3. 对每一个Todo项， 可以通过button点击删除，
 4， 实现Todo项添加功能
 ```
-<img width="2490" height="1445" alt="image" src="https://github.com/user-attachments/assets/d5a26913-de3b-415a-9a04-aa909b384659" />
+<img width="2490" height="1445" alt="image" src="https://github.com/user-attachments/assets/d5a26913-de3b-415a-9a04-aa909b384659" /><br/>
+
+7. Extract function ToDoItem Component <br/>
+```
+Can you please help refine the code with this requirement: extract the ToDo Item as a Component, and call the ToDo Item Component from App Component.
+```
+<img width="1427" height="911" alt="image" src="https://github.com/user-attachments/assets/50d5eccb-5d34-4913-b629-327472397336" /><br/>
+<img width="1487" height="1129" alt="image" src="https://github.com/user-attachments/assets/c61610a2-a76f-4be5-a5e2-3525ef1ce9a9" /><br/>
