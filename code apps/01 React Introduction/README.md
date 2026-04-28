@@ -48,6 +48,6 @@ prompt<br/>
 ```
 Can you please help refine the code with this requirement: extract the ToDo Item as a Component, and call the ToDo Item Component from App Component.
 ```
-
+<br/>
 <img width="1427" height="911" alt="image" src="https://github.com/user-attachments/assets/50d5eccb-5d34-4913-b629-327472397336" /><br/>
 <img width="1487" height="1129" alt="image" src="https://github.com/user-attachments/assets/c61610a2-a76f-4be5-a5e2-3525ef1ce9a9" /><br/>
