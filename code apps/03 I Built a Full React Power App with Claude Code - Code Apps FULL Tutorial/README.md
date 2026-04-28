@@ -26,3 +26,8 @@ pac auth create
 ```
 
 <img width="1887" height="1385" alt="image" src="https://github.com/user-attachments/assets/2697b32b-5e28-4631-b1d0-db194f7653a1" />
+
+4. Run:<br/>
+```
+pac org list 
+```
