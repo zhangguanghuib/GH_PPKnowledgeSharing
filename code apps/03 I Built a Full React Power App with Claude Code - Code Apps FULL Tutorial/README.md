@@ -10,3 +10,10 @@ Input the below command<br/>
 npx degit microsoft/PowerAppsCodeApps/templates/starter [your-project-name]
 npx degit microsoft/PowerAppsCodeApps/templates/starter GH-Kanban-Board
 ```
+
+<img width="1422" height="887" alt="image" src="https://github.com/user-attachments/assets/e0a05b07-6870-4d58-8e46-409680d6883d" /><br/>
+
+Then run <br/>
+```
+npm install
+```
