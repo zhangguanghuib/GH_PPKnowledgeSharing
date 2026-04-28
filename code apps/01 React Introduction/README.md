@@ -50,3 +50,12 @@ Can you please help refine the code with this requirement: extract the ToDo Item
 <br/>
 <img width="1427" height="911" alt="image" src="https://github.com/user-attachments/assets/50d5eccb-5d34-4913-b629-327472397336" /><br/>
 <img width="1487" height="1129" alt="image" src="https://github.com/user-attachments/assets/c61610a2-a76f-4be5-a5e2-3525ef1ce9a9" /><br/>
+
+8. Extract class ToDoItem Component <br/>
+```
+Can you please help refine the code with this requirement: extract the ToDo Item as a class Component, and call the ToDo Item Component from App Component.
+```
+<br/>
+<img width="1443" height="1162" alt="image" src="https://github.com/user-attachments/assets/eb2da42b-f5b0-4fc1-a623-c0f98adbd70b" /><br/>
+<img width="1336" height="1012" alt="image" src="https://github.com/user-attachments/assets/16c63603-ed78-430f-924f-4b3e87074ec1" /><br/>
+
