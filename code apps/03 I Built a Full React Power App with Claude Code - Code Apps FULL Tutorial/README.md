@@ -37,3 +37,15 @@ pac org select --environment [environment-id]
 ```
 
 <img width="1746" height="212" alt="image" src="https://github.com/user-attachments/assets/0b94f1fd-2c04-412f-8495-dceaf5d1b839" /><br/>
+
+6. Run the command <br/>
+```
+pac code init --displayname 'GH Kanban Board'                                                         
+```
+
+7. Run command:
+```
+npm run dev
+```
+See the App Starts<br/>
+<img width="2264" height="1283" alt="image" src="https://github.com/user-attachments/assets/d7ec4822-692e-4c72-a729-6b86aa0f9f87" /><br/>
