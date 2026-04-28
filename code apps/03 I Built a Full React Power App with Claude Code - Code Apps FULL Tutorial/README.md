@@ -18,16 +18,22 @@ npx degit microsoft/PowerAppsCodeApps/templates/starter GH-Kanban-Board
 npm install
 ```
 
-<img width="1975" height="1141" alt="image" src="https://github.com/user-attachments/assets/f4391b7a-8af9-438c-b999-c09758fbeb38" />
+<img width="1975" height="1141" alt="image" src="https://github.com/user-attachments/assets/f4391b7a-8af9-438c-b999-c09758fbeb38" /><br/>
 
 3. Run:<br/>
 ```
 pac auth create
 ```
 
-<img width="1887" height="1385" alt="image" src="https://github.com/user-attachments/assets/2697b32b-5e28-4631-b1d0-db194f7653a1" />
+<img width="1887" height="1385" alt="image" src="https://github.com/user-attachments/assets/2697b32b-5e28-4631-b1d0-db194f7653a1" /><br/>
 
 4. Run:<br/>
 ```
 pac org list 
 ```
+5. Run command:<br/>
+```
+pac org select --environment [environment-id]
+```
+
+<img width="1746" height="212" alt="image" src="https://github.com/user-attachments/assets/0b94f1fd-2c04-412f-8495-dceaf5d1b839" /><br/>
