@@ -39,3 +39,30 @@ Adding Another Existing SharePoint List<br/>
    <img width="1813" height="726" alt="image" src="https://github.com/user-attachments/assets/0f8373b8-6b9c-40a4-aebe-6aabb1b793d0" /><br/>
    Issue Details Experience<br/>
    <img width="1768" height="830" alt="image" src="https://github.com/user-attachments/assets/3817832d-3954-491c-adc6-b5e947c06a14" /><br/>
+7. Adding Dashboard Experience<br/>
+    <img width="1760" height="851" alt="image" src="https://github.com/user-attachments/assets/9b941d71-43a0-454a-a437-0fcd423f696a" /><br/>
+    <img width="1731" height="887" alt="image" src="https://github.com/user-attachments/assets/3b45165d-1090-4563-af90-1eaa81d3ab49" /><br/>
+
+8. Adding "Techinicians" experience<br/>
+  <img width="1734" height="937" alt="image" src="https://github.com/user-attachments/assets/88a7fa09-0a77-4555-9f6c-f2a804ce8414" /><br/>
+  <img width="1780" height="907" alt="image" src="https://github.com/user-attachments/assets/2f9ab841-33bb-4385-a96f-1ecaf53552c3" /><br/>
+
+9. A big prompt <br/>
+  <img width="1765" height="868" alt="image" src="https://github.com/user-attachments/assets/3ddd10d0-497c-46ca-8ca1-280acec1b0b5" /><br/>
+  <img width="1089" height="747" alt="image" src="https://github.com/user-attachments/assets/8eaaf520-1333-47e0-88fe-59895f54917b" /><br/>
+  <img width="1084" height="684" alt="image" src="https://github.com/user-attachments/assets/d1efe272-cd7e-4a10-a4ec-092bb507a02b" /><br/>
+  <img width="1063" height="695" alt="image" src="https://github.com/user-attachments/assets/b12e9aa0-83ba-435c-9803-3038bee2b1b6" /><br/>
+  <img width="1770" height="872" alt="image" src="https://github.com/user-attachments/assets/cc06a854-530e-435d-b740-d860bd58d3d8" /><br/>
+ 10. Show loggged on user<br/>
+ <img width="2369" height="1300" alt="image" src="https://github.com/user-attachments/assets/7b5de4ae-2237-4cc4-b21b-6b450fabdb4d" /><br/>
+ <img width="1705" height="869" alt="image" src="https://github.com/user-attachments/assets/90fcb5db-63bb-4dde-9d12-108cdf9315c8" /><br/>
+
+11. Publish the App <br/>
+<img width="1750" height="906" alt="image" src="https://github.com/user-attachments/assets/829dcc1b-8ee5-4b18-8dd2-f0e27dc1c1c1" /><br/>
+
+12. Give user SharePoint Permission<br/>
+<img width="1757" height="832" alt="image" src="https://github.com/user-attachments/assets/8be36b74-5b4f-47bd-b71b-8f899883d04f" /><br/>
+<img width="1864" height="987" alt="image" src="https://github.com/user-attachments/assets/6c7fe97a-a0e9-4c6a-bdaf-0f35f7447dc5" /><br/>
+<img width="1785" height="918" alt="image" src="https://github.com/user-attachments/assets/de5ca4eb-8e0a-4568-8a17-b18b822e9982" /><br/>
+<img width="1789" height="964" alt="image" src="https://github.com/user-attachments/assets/5d139563-1ddc-4396-a375-30fce92c75ad" /><br/>
+
