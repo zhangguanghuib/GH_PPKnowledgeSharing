@@ -29,4 +29,13 @@ Adding Another Existing SharePoint List<br/>
 
 4. Finally the App is like <br/>
 <img width="1716" height="886" alt="image" src="https://github.com/user-attachments/assets/3b367bfb-d06d-4d51-8e26-20487fa44a1b" /><br/>
+<img width="1792" height="1017" alt="image" src="https://github.com/user-attachments/assets/d45b697b-3de3-400c-a19f-e393581e0f9a" /><br/>
+<img width="1755" height="955" alt="image" src="https://github.com/user-attachments/assets/7e62366f-303e-4e1e-bd11-7e03578073d6" /><br/>
 
+5. create new issue experience<br/>
+<img width="1798" height="935" alt="image" src="https://github.com/user-attachments/assets/99ace11e-953a-45ac-ac9b-b896ab355ba7" /><br/>
+
+6. Add more experience:<br/>
+   <img width="1813" height="726" alt="image" src="https://github.com/user-attachments/assets/0f8373b8-6b9c-40a4-aebe-6aabb1b793d0" /><br/>
+   Issue Details Experience<br/>
+   <img width="1768" height="830" alt="image" src="https://github.com/user-attachments/assets/3817832d-3954-491c-adc6-b5e947c06a14" /><br/>
