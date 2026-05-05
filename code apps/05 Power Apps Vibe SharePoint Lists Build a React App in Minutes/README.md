@@ -25,5 +25,5 @@ Adding Another Existing SharePoint List<br/>
 <img width="1765" height="890" alt="image" src="https://github.com/user-attachments/assets/35136d3f-fdb1-4518-8892-3e62ab75905c" /><br/>
 <img width="1598" height="850" alt="image" src="https://github.com/user-attachments/assets/8b68141c-1198-4dc3-9e7c-20e14d86b67a" /><br/>
 <img width="1876" height="963" alt="image" src="https://github.com/user-attachments/assets/5583e39e-e11d-41d2-a8ea-f0162566eb79" /><br/>
-<img width="599" height="222" alt="image" src="https://github.com/user-attachments/assets/da6af2ae-6aff-4a0f-b947-2b8fe4626851" /><br/>
-<img width="612" height="219" alt="image" src="https://github.com/user-attachments/assets/a8e7c5de-d98d-4013-bf47-f0aac6f16fc2" /><br/>
+<img width="589" height="341" alt="image" src="https://github.com/user-attachments/assets/76027daf-a378-4fdd-8d66-10260d8bf4f8" /><br/>
+
