@@ -55,7 +55,7 @@ ClearCollect(
 ```
 <img width="1133" height="671" alt="image" src="https://github.com/user-attachments/assets/7e3d684b-73bd-4f39-8dc0-56f0e668f1ac" /><br/>
 
-Group By Country to Cities:<br/>
+Group By Country to Cities, please notice double quote is not needed:<br/>
 ```
 ClearCollect(colGroupByCountry, GroupBy(CityPopulations,Country,Cities))
 ```
