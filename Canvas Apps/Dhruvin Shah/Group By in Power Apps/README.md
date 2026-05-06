@@ -57,7 +57,14 @@ ClearCollect(
 
 Group By Country to Cities, please notice double quote is not needed:<br/>
 ```
-ClearCollect(colGroupByCountry, GroupBy(CityPopulations,Country,Cities))
+ClearCollect(
+    colGroupByCountry,
+    GroupBy(
+        CityPopulations,
+        Country,
+        Cities
+    )
+)
 ```
 <img width="1485" height="515" alt="image" src="https://github.com/user-attachments/assets/6793f524-0102-45ee-a500-7cdcde4d7376" /><br/>
 
