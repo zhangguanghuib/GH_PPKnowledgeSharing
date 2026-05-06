@@ -87,8 +87,24 @@ Ungroup(
 <img width="1391" height="735" alt="image" src="https://github.com/user-attachments/assets/b3ec1c59-4379-48e0-9694-b7f85f3541ee" /><br/>
 
 Group by + Sum<br/>
+```
+ClearCollect(
+    colPopulation,
+    AddColumns(
+        GroupBy(
+            CityPopulations,
+            Country,
+            Cities
+        ),
+        SumofPopulation,
+        Sum(
+            Cities,
+            Population
+        )
+    )
+)
+```
 <img width="1123" height="901" alt="image" src="https://github.com/user-attachments/assets/1924452e-61f8-4c70-b1e8-dbb21b9b724a" /><br/>
-
 <img width="1284" height="734" alt="image" src="https://github.com/user-attachments/assets/15902040-84f0-48e8-9f37-05ff6cec048d" /><br/>
 
 DataTable Control<br/>
