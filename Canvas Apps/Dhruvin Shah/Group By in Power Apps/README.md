@@ -19,3 +19,6 @@ The inline table result is <br/>
 
 Ungroup:<br/>
 <img width="1081" height="394" alt="image" src="https://github.com/user-attachments/assets/bcf66a91-c71f-4fdd-ad37-89cc5f890f46" /><br/>
+
+Group by + Sum<br/>
+<img width="1123" height="901" alt="image" src="https://github.com/user-attachments/assets/1924452e-61f8-4c70-b1e8-dbb21b9b724a" /><br/>
