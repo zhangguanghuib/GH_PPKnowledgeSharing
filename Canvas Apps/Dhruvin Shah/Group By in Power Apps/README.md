@@ -78,7 +78,13 @@ The inline table result is <br/>
 <img width="842" height="623" alt="image" src="https://github.com/user-attachments/assets/389006d3-176d-4c95-a52b-d8c590982cb8" /><br/>
 
 Ungroup:<br/>
-<img width="1081" height="394" alt="image" src="https://github.com/user-attachments/assets/bcf66a91-c71f-4fdd-ad37-89cc5f890f46" /><br/>
+```
+Ungroup(
+    colGroupByCountry,
+    Cities
+);
+```
+<img width="1391" height="735" alt="image" src="https://github.com/user-attachments/assets/b3ec1c59-4379-48e0-9694-b7f85f3541ee" /><br/>
 
 Group by + Sum<br/>
 <img width="1123" height="901" alt="image" src="https://github.com/user-attachments/assets/1924452e-61f8-4c70-b1e8-dbb21b9b724a" /><br/>
