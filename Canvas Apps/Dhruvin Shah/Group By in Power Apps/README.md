@@ -3,7 +3,56 @@
 <img width="1458" height="675" alt="image" src="https://github.com/user-attachments/assets/b6925aaa-03f2-4539-9674-50d4bd1ed504" /><br/>
 Load Data:<br/>
 <img width="793" height="440" alt="image" src="https://github.com/user-attachments/assets/35f180b5-73c9-437c-afad-b07dac091fcb" /><br/>
-
+```
+ClearCollect(
+    CityPopulations,
+    {
+        City:"London",
+        Country:"United Kingdom",
+        Population:8615000
+    },
+    {
+        City:"Berlin",
+        Country:"Germany",
+        Population:3562000
+    },
+        {
+        City: "Madrid",
+        Country: "Spain",
+        Population: 3165000
+    },
+    {
+        City: "Rome",
+        Country: "Italy",
+        Population: 2874000
+    },
+    {
+        City: "Paris",
+        Country: "France",
+        Population: 2273000
+    },
+    {
+        City: "Hamburg",
+        Country: "Germany",
+        Population: 1760000
+    },
+    {
+        City: "Barcelona",
+        Country: "Spain",
+        Population: 1602000
+    },
+    {
+        City: "Munich",
+        Country: "Germany",
+        Population: 1494000
+    },
+    {
+        City: "Milan",
+        Country: "Italy",
+        Population: 1344000
+    }
+)
+```
 <img width="1133" height="671" alt="image" src="https://github.com/user-attachments/assets/7e3d684b-73bd-4f39-8dc0-56f0e668f1ac" /><br/>
 
 Group By Country to Cities:<br/>
