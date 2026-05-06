@@ -56,6 +56,9 @@ ClearCollect(
 <img width="1133" height="671" alt="image" src="https://github.com/user-attachments/assets/7e3d684b-73bd-4f39-8dc0-56f0e668f1ac" /><br/>
 
 Group By Country to Cities:<br/>
+```
+ClearCollect(colGroupByCountry, GroupBy(CityPopulations,Country,Cities))
+```
 <img width="1485" height="515" alt="image" src="https://github.com/user-attachments/assets/6793f524-0102-45ee-a500-7cdcde4d7376" /><br/>
 
 Store the Group By Result to a collection<br/>
