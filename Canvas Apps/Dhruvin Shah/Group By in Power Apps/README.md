@@ -22,3 +22,8 @@ Ungroup:<br/>
 
 Group by + Sum<br/>
 <img width="1123" height="901" alt="image" src="https://github.com/user-attachments/assets/1924452e-61f8-4c70-b1e8-dbb21b9b724a" /><br/>
+
+<img width="1284" height="734" alt="image" src="https://github.com/user-attachments/assets/15902040-84f0-48e8-9f37-05ff6cec048d" /><br/>
+
+DataTable Control<br/>
+<img width="1826" height="545" alt="image" src="https://github.com/user-attachments/assets/d8c2f784-8cab-4678-9f9d-2417e5588dc5" /><br/>
