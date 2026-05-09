@@ -23,4 +23,12 @@ Call the function from Power Apps <br/>
 3. Call it from Power Automate<br/>
 <img width="2319" height="1033" alt="image" src="https://github.com/user-attachments/assets/01f5dbbf-5e15-47f8-82b8-8f945c0a0ba5" /><br/>
 
+Adding the  dataverse action <br/>
+<img width="2246" height="1432" alt="image" src="https://github.com/user-attachments/assets/86f6b35a-dd12-4847-ab9d-9584172b7d0e" /><br/>
 
+<img width="2631" height="927" alt="image" src="https://github.com/user-attachments/assets/03acf0a4-71c4-4660-b9db-111ca5a30bab" /><br/>
+
+<img width="2658" height="1401" alt="image" src="https://github.com/user-attachments/assets/07d6865f-8762-4c1e-822f-9aa0ec9b9895" /><br/>
+
+4. Function with Business Table Data:<br/>
+<img width="2767" height="1569" alt="image" src="https://github.com/user-attachments/assets/c888f356-e979-4de2-84f4-536f8acb8d4a" /><br/>
