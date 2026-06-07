@@ -67,7 +67,7 @@ Open the Application "Insonmia"=>Add a new "Http Request" <br/>
 <img width="939" height="860" alt="image" src="https://github.com/user-attachments/assets/4f821b5c-a6dd-4cf4-b983-b00452334b22" /><br/>
 
 Set the Http Method "POST", Copy the Http trigger url as below:<br/>
-<img width="2307" height="1077" alt="image" src="https://github.com/user-attachments/assets/ab95c59b-eab7-4a8f-afde-945aa35461e9" /><br/>
+<img width="2321" height="1226" alt="image" src="https://github.com/user-attachments/assets/d120334b-4b66-4232-949c-ba5b4a728279" /><br/>
 
 Adding the http request headers<br/>
 <img width="1794" height="616" alt="image" src="https://github.com/user-attachments/assets/90024209-c38e-46eb-a2e7-846918102d81" /><br/>
