@@ -1,5 +1,5 @@
 # This topic we will talk about this option <br/>
-
+<hr/>
 Step 1:  Create a cloud flow,  add this trigger:<br/>
 <img width="1624" height="985" alt="image" src="https://github.com/user-attachments/assets/dff85a14-23a4-4307-9170-e276d0781e49" /><br/>
 <img width="1538" height="979" alt="image" src="https://github.com/user-attachments/assets/8aa3f367-59fc-43ba-8ffc-40a29419a3ee" /><br/>
@@ -16,3 +16,13 @@ And we will add this request body <br/>
     }
 }
 ```
+We can add another compose action:<br/>
+<img width="1610" height="468" alt="image" src="https://github.com/user-attachments/assets/b0cc7eb9-ba15-40df-8d57-8508f61b848a" /><br/>
+
+Save the flow to generate the Http url:<br/>
+<img width="1861" height="955" alt="image" src="https://github.com/user-attachments/assets/f99b7948-b6c0-4bb6-9f4b-769b5c51fd20" /><br/>
+The url is
+```
+https://defaultb0435f53aeb2434e9765c2548b755f.65.environment.api.powerplatform.com:443/powerautomate/automations/direct/workflows/fdfc6a2e6eed4a1796999b0b63612ac2/triggers/manual/paths/invoke?api-version=1
+```
+<hr/>
