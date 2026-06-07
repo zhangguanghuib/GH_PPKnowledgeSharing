@@ -78,15 +78,20 @@ Adding the Request Body <br/>
 
 4. Acquire the access token for "Any user in my tenant"<br/>
 Under the "Auth" tab and click "OAuth 2.0" <br/>
-<img width="1765" height="957" alt="image" src="https://github.com/user-attachments/assets/6b7e2cae-052e-45f5-9eda-d0fac47e3e45" /><br/>
+<img width="1834" height="1013" alt="image" src="https://github.com/user-attachments/assets/5d329cd4-9076-4b4d-b2de-5ff008cdd3c9" /><br/>
 
-Grant Type:  Client Credentials <br/>
-<img width="1768" height="1140" alt="image" src="https://github.com/user-attachments/assets/92c82897-cb91-43dd-b849-901c96502b2f" /><br/>
+Grant Type:  Implicit <br/>
+<img width="1850" height="1052" alt="image" src="https://github.com/user-attachments/assets/4fbb15a6-461b-4128-8414-b35ae165c989" /><br/>
 
-Get the OAuth 2.0 token endpoint (v2)<br/>
-<img width="2319" height="742" alt="image" src="https://github.com/user-attachments/assets/d038889f-2b8a-40ed-aab5-4e76cbbc0f6c" />
+Fill the below fields<br/>
+<img width="1873" height="1212" alt="image" src="https://github.com/user-attachments/assets/3b4d1436-5ddf-434f-9b19-fd770163121f" /><br/>
 
-<img width="1835" height="1328" alt="image" src="https://github.com/user-attachments/assets/f87def74-f5bd-439f-829b-82c3d30a3c59" />
+```
+Authorization URL: https://login.microsoftonline.com/common/oauth2/authorize?resource=https://service.flow.microsoft.com/
+Redirect URL: https://insomnia.rest/oauth/callback
+Scope: https://service.flow.microsoft.com//.default
+Audience:  https://service.flow.microsoft.com/
+```
 
 <hr/>
 
