@@ -59,52 +59,18 @@ Adding client secret <br/>
 Please copy and store the client secret value to some place for future use <br/>
 <img width="1997" height="1006" alt="image" src="https://github.com/user-attachments/assets/5a9a36bb-42b3-4f3f-95bb-bbb37909cd47" /><br/>
 <hr/>
+3. Trigger the flow from another flow <br/>
+<img width="2391" height="1224" alt="image" src="https://github.com/user-attachments/assets/69960a5e-6255-4358-a503-b3d982113bd6" /><br/>
 
-3. Build the HTTP Request to triger the cloud flow<br/>
+<img width="1599" height="1338" alt="image" src="https://github.com/user-attachments/assets/6d76b613-2c51-4f37-bc0c-2a784572a028" /><br/>
 
-Open the Application "Insonmia"=>Add a new "Http Request" <br/>
-<img width="939" height="860" alt="image" src="https://github.com/user-attachments/assets/4f821b5c-a6dd-4cf4-b983-b00452334b22" /><br/>
+Manually trigger this flow <br/>
+<img width="2460" height="1441" alt="image" src="https://github.com/user-attachments/assets/3112a538-49bb-4af9-b422-4a1d2bf1450d" /><br/>
+<img width="2473" height="1470" alt="image" src="https://github.com/user-attachments/assets/c4e507b8-fe48-476c-acf9-8256a9ad452e" /><br/>
+<img width="1978" height="435" alt="image" src="https://github.com/user-attachments/assets/4713394b-155d-498d-aee0-24a1a7d707b7" /><br/>
 
-Set the Http Method "POST", Copy the Http trigger url as below:<br/>
-<img width="2307" height="1077" alt="image" src="https://github.com/user-attachments/assets/ab95c59b-eab7-4a8f-afde-945aa35461e9" /><br/>
+See the flow is triggered successfully <br/>
 
-Adding the http request headers<br/>
-<img width="1794" height="616" alt="image" src="https://github.com/user-attachments/assets/90024209-c38e-46eb-a2e7-846918102d81" /><br/>
-
-Adding the Request Body <br/>
-<img width="1776" height="613" alt="image" src="https://github.com/user-attachments/assets/4c2962ee-400b-4402-bdee-815d751d2278" /><br/>
-<hr/>
-
-4. Acquire the access token for "Any user in my tenant"<br/>
-Under the "Auth" tab and click "OAuth 2.0" <br/>
-<img width="1765" height="957" alt="image" src="https://github.com/user-attachments/assets/6b7e2cae-052e-45f5-9eda-d0fac47e3e45" /><br/>
-
-Grant Type:  Client Credentials <br/>
-<img width="1768" height="1140" alt="image" src="https://github.com/user-attachments/assets/92c82897-cb91-43dd-b849-901c96502b2f" /><br/>
-
-Get the OAuth 2.0 token endpoint (v2)<br/>
-<img width="2319" height="742" alt="image" src="https://github.com/user-attachments/assets/d038889f-2b8a-40ed-aab5-4e76cbbc0f6c" />
-
-<img width="1835" height="1328" alt="image" src="https://github.com/user-attachments/assets/f87def74-f5bd-439f-829b-82c3d30a3c59" />
-
-<hr/>
-
-5. Click "Fetch Token" on the above screen-shot<br/>
-<img width="1826" height="1396" alt="image" src="https://github.com/user-attachments/assets/242e740e-b040-416b-ae20-9dc1736f5836" /><br/>
-Copy the token, paste to the header: <br/>
-<img width="1799" height="635" alt="image" src="https://github.com/user-attachments/assets/57d30a8d-f544-416f-b6fc-9410e8b5575b" /><br/>
-
-<hr/>
-6. Trigger the flow by sending HTTP Request <br/>
-Click "Send" button<br/>
-<img width="2392" height="716" alt="image" src="https://github.com/user-attachments/assets/64f3bd24-2f1f-41e6-a255-9e3e6c43639f" /><br/>
-
-See the response "202 accepted" <br/>
-<img width="2392" height="716" alt="image" src="https://github.com/user-attachments/assets/939baac6-686b-42da-9526-4f7094557c34" /><br/>
-
-Go to Power Automate flow, and found the flow is triggered successfully<br/>
-<img width="1320" height="940" alt="image" src="https://github.com/user-attachments/assets/f9f2505d-a5fb-492b-a46e-08b6f75c7e01" /><br/>
-<img width="1713" height="1175" alt="image" src="https://github.com/user-attachments/assets/d626160e-629e-4951-b9b1-439cc73d1ced" /><br/>
 <hr/>
 
 
