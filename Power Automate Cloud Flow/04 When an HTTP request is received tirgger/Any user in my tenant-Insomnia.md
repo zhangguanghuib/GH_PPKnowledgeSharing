@@ -58,6 +58,6 @@ Adding client secret <br/>
 <img width="2470" height="1398" alt="image" src="https://github.com/user-attachments/assets/8b398f38-157b-42b5-a72a-c0cd36471f7a" /><br/>
 Please copy and store the client secret value to some place for future use <br/>
 <img width="1997" height="1006" alt="image" src="https://github.com/user-attachments/assets/5a9a36bb-42b3-4f3f-95bb-bbb37909cd47" /><br/>
-hr/>
+<hr/>
 
 
