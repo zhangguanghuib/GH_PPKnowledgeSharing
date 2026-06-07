@@ -2,6 +2,7 @@
 <hr/>
 Step 1:  Create a cloud flow,  add this trigger:<br/>
 <img width="1400" height="694" alt="image" src="https://github.com/user-attachments/assets/32086842-0990-4cdb-9981-fc7de9dd8410" /><br/>
+Choose specific user in my tenant <br/> 
 <img width="1425" height="903" alt="image" src="https://github.com/user-attachments/assets/d6515eaf-800c-43a5-91be-732017efa223" /><br/>
 And we will add this request body <br/>
 ```
