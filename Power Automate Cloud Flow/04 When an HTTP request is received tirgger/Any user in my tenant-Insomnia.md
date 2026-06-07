@@ -49,4 +49,15 @@ https://insomnia.rest/oauth/callback
 ```
 And please do remember to tick "ID Tokens and Access Tokens"<br/>
 <img width="2446" height="1270" alt="image" src="https://github.com/user-attachments/assets/9a32f2fe-3bfe-40c0-9aa5-437fb034719c" /><br/>
+Click "Configure" button<br/>
+<img width="2476" height="1394" alt="image" src="https://github.com/user-attachments/assets/37a287d7-d8a8-4134-8eb8-9726f5d17938" /><br/>
+Finally it looks like <br/>
+<img width="2317" height="1040" alt="image" src="https://github.com/user-attachments/assets/13f353f9-8af3-4a64-a2c2-be1a2a51228c" /><br/>
+
+Adding client secret <br/>
+<img width="2470" height="1398" alt="image" src="https://github.com/user-attachments/assets/8b398f38-157b-42b5-a72a-c0cd36471f7a" /><br/>
+Please copy and store the client secret value to some place for future use <br/>
+<img width="1997" height="1006" alt="image" src="https://github.com/user-attachments/assets/5a9a36bb-42b3-4f3f-95bb-bbb37909cd47" /><br/>
+hr/>
+
 
