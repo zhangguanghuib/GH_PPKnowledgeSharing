@@ -25,4 +25,8 @@ The url is
 ```
 https://defaultb0435f53aeb2434e9765c2548b755f.65.environment.api.powerplatform.com:443/powerautomate/automations/direct/workflows/fdfc6a2e6eed4a1796999b0b63612ac2/triggers/manual/paths/invoke?api-version=1
 ```
+<br/>
 <hr/>
+
+Step 2:  Create an App Registraion from Azure Portal <br/>
+
