@@ -42,3 +42,11 @@ Click the button "Add Permission"<br/>
 
 Click "Grant admin consent for Contoso"<br/>
 <img width="2239" height="1300" alt="image" src="https://github.com/user-attachments/assets/4841c9d1-fd7b-4f77-a7a7-18cbf3b43692" /><br/>
+
+Add Redirect URL->Single Page Application<br/>
+```
+https://insomnia.rest/oauth/callback
+```
+And please do remember to tick "ID Tokens and Access Tokens"<br/>
+<img width="2446" height="1270" alt="image" src="https://github.com/user-attachments/assets/9a32f2fe-3bfe-40c0-9aa5-437fb034719c" /><br/>
+
