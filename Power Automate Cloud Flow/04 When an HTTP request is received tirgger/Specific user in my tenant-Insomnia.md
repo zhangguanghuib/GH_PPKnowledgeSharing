@@ -1,11 +1,9 @@
 # This topic we will talk about this option <br/>
 <hr/>
 Step 1:  Create a cloud flow,  add this trigger:<br/>
-<img width="1624" height="985" alt="image" src="https://github.com/user-attachments/assets/dff85a14-23a4-4307-9170-e276d0781e49" /><br/>
-<img width="1538" height="979" alt="image" src="https://github.com/user-attachments/assets/8aa3f367-59fc-43ba-8ffc-40a29419a3ee" /><br/>
+<img width="1400" height="694" alt="image" src="https://github.com/user-attachments/assets/32086842-0990-4cdb-9981-fc7de9dd8410" /><br/>
+<img width="1425" height="903" alt="image" src="https://github.com/user-attachments/assets/d6515eaf-800c-43a5-91be-732017efa223" /><br/>
 And we will add this request body <br/>
-<img width="1476" height="1005" alt="image" src="https://github.com/user-attachments/assets/512ab477-92f7-459a-8e1a-e71f1e4e6c4a" /><br/>
-
 ```
 {
     "type": "object",
