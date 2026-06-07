@@ -5,6 +5,7 @@ Step 1:  Create a cloud flow,  add this trigger:<br/>
 Choose specific user in my tenant <br/> 
 <img width="1425" height="903" alt="image" src="https://github.com/user-attachments/assets/d6515eaf-800c-43a5-91be-732017efa223" /><br/>
 And we will add this request body <br/>
+
 ```
 {
     "type": "object",
@@ -16,13 +17,14 @@ And we will add this request body <br/>
 }
 ```
 We can add another compose action:<br/>
-<img width="1610" height="468" alt="image" src="https://github.com/user-attachments/assets/b0cc7eb9-ba15-40df-8d57-8508f61b848a" /><br/>
+<img width="1590" height="499" alt="image" src="https://github.com/user-attachments/assets/9a96a833-fb11-4770-a1cf-b4ca4dc80b39" /><br/>
 
 Save the flow to generate the Http url:<br/>
-<img width="1861" height="955" alt="image" src="https://github.com/user-attachments/assets/f99b7948-b6c0-4bb6-9f4b-769b5c51fd20" /><br/>
+<img width="1468" height="1112" alt="image" src="https://github.com/user-attachments/assets/eb06dd14-f449-4ee9-9fec-4319925fad8c" />v
+
 The url is
 ```
-https://defaultb0435f53aeb2434e9765c2548b755f.65.environment.api.powerplatform.com:443/powerautomate/automations/direct/workflows/fdfc6a2e6eed4a1796999b0b63612ac2/triggers/manual/paths/invoke?api-version=1
+https://defaultb0435f53aeb2434e9765c2548b755f.65.environment.api.powerplatform.com:443/powerautomate/automations/direct/workflows/f9ec8111c54843b7826e603af6b8ff73/triggers/manual/paths/invoke?api-version=1
 ```
 <br/>
 <hr/>
