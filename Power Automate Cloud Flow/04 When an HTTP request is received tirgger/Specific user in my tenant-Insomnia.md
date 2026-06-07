@@ -110,15 +110,15 @@ Copy the token, paste to the header: <br/>
 
 <hr/>
 6. Trigger the flow by sending HTTP Request <br/>
-Click "Send" button<br/>
-<img width="2392" height="716" alt="image" src="https://github.com/user-attachments/assets/64f3bd24-2f1f-41e6-a255-9e3e6c43639f" /><br/>
+Copy the Token and put it to Header Authorization field <br/>
+<img width="1799" height="690" alt="image" src="https://github.com/user-attachments/assets/306ef3b9-e779-4591-819a-2cb307685297" />
 
-See the response "202 accepted" <br/>
-<img width="2392" height="716" alt="image" src="https://github.com/user-attachments/assets/939baac6-686b-42da-9526-4f7094557c34" /><br/>
+Click "Send" button, see the response "202 accepted" <br/>
+<img width="2421" height="683" alt="image" src="https://github.com/user-attachments/assets/8d6a12d0-2cd8-4c8a-a9ae-a9ad9af7b953" /><br/>
 
 Go to Power Automate flow, and found the flow is triggered successfully<br/>
-<img width="1320" height="940" alt="image" src="https://github.com/user-attachments/assets/f9f2505d-a5fb-492b-a46e-08b6f75c7e01" /><br/>
-<img width="1713" height="1175" alt="image" src="https://github.com/user-attachments/assets/d626160e-629e-4951-b9b1-439cc73d1ced" /><br/>
+<img width="1305" height="953" alt="image" src="https://github.com/user-attachments/assets/ce306356-0adc-438c-99fb-fb96519cfa50" /><br/>
+<img width="1788" height="1119" alt="image" src="https://github.com/user-attachments/assets/3a534900-eee6-472c-a41f-1deba68f0d7d" /><br/>
 <hr/>
 
 
