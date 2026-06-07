@@ -96,9 +96,17 @@ Audience:  https://service.flow.microsoft.com/
 <hr/>
 
 5. Click "Fetch Token" on the above screen-shot<br/>
-<img width="1826" height="1396" alt="image" src="https://github.com/user-attachments/assets/242e740e-b040-416b-ae20-9dc1736f5836" /><br/>
+<img width="1809" height="1414" alt="image" src="https://github.com/user-attachments/assets/dc1c2eac-34e5-4dbf-b296-db620927ac71" /><br/>
+Input user account<br/>
+<img width="1809" height="1414" alt="image" src="https://github.com/user-attachments/assets/f0429546-2ec5-4c54-a36f-201472a4a21a" /><br/>
+
+Input Password:<br/>
+<img width="1772" height="1224" alt="image" src="https://github.com/user-attachments/assets/70eea352-9f89-4df6-80de-7cfd716215be" /><br/>
+Input Verification code <br/>
+<img width="1834" height="1201" alt="image" src="https://github.com/user-attachments/assets/6b5b9eda-ea8a-4349-8e12-626eabf1e9ab" /><br/>
+
 Copy the token, paste to the header: <br/>
-<img width="1799" height="635" alt="image" src="https://github.com/user-attachments/assets/57d30a8d-f544-416f-b6fc-9410e8b5575b" /><br/>
+<img width="1836" height="1389" alt="image" src="https://github.com/user-attachments/assets/134b590e-394e-4f22-8a4a-c3ea068bd0e7" /><br/>
 
 <hr/>
 6. Trigger the flow by sending HTTP Request <br/>
