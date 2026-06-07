@@ -37,3 +37,8 @@ Click "Register" button<br/>
 Add API Permission:<br/>
 <img width="2415" height="1189" alt="image" src="https://github.com/user-attachments/assets/107e63b2-0223-4769-9f7f-23b844681f33" /><br/>
 
+Click the button "Add Permission"<br/>
+<img width="2268" height="1462" alt="image" src="https://github.com/user-attachments/assets/ef4de8e4-9c1a-471f-9c17-d686eab4dc11" /><br/>
+
+Click "Grant admin consent for Contoso"<br/>
+<img width="2239" height="1300" alt="image" src="https://github.com/user-attachments/assets/4841c9d1-fd7b-4f77-a7a7-18cbf3b43692" /><br/>
