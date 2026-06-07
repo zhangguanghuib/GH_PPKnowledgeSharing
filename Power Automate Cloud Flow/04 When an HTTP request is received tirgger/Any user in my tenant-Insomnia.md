@@ -30,3 +30,10 @@ https://defaultb0435f53aeb2434e9765c2548b755f.65.environment.api.powerplatform.c
 
 Step 2:  Create an App Registraion from Azure Portal <br/>
 
+<img width="1676" height="1529" alt="image" src="https://github.com/user-attachments/assets/1faade4b-c2ae-46f9-9f3e-ef3dea674059" /><br/>
+
+Click "Register" button<br/>
+
+Add API Permission:<br/>
+<img width="2415" height="1189" alt="image" src="https://github.com/user-attachments/assets/107e63b2-0223-4769-9f7f-23b844681f33" /><br/>
+
