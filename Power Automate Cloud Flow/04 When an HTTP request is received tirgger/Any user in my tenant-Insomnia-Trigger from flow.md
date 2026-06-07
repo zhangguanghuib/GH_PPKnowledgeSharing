@@ -70,6 +70,7 @@ Manually trigger this flow <br/>
 <img width="1978" height="435" alt="image" src="https://github.com/user-attachments/assets/4713394b-155d-498d-aee0-24a1a7d707b7" /><br/>
 
 See the flow is triggered successfully <br/>
+<img width="1965" height="1162" alt="image" src="https://github.com/user-attachments/assets/f39b1ce4-5e1a-4b4c-a48e-f592c4c2c194" /><br/>
 
 <hr/>
 
