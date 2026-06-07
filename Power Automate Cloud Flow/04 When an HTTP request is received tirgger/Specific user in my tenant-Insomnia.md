@@ -70,10 +70,10 @@ Set the Http Method "POST", Copy the Http trigger url as below:<br/>
 <img width="2321" height="1226" alt="image" src="https://github.com/user-attachments/assets/d120334b-4b66-4232-949c-ba5b4a728279" /><br/>
 
 Adding the http request headers<br/>
-<img width="1794" height="616" alt="image" src="https://github.com/user-attachments/assets/90024209-c38e-46eb-a2e7-846918102d81" /><br/>
+<img width="1873" height="632" alt="image" src="https://github.com/user-attachments/assets/15e59e42-25ba-458e-a21e-d3bac88fe425" /><br/>
 
 Adding the Request Body <br/>
-<img width="1776" height="613" alt="image" src="https://github.com/user-attachments/assets/4c2962ee-400b-4402-bdee-815d751d2278" /><br/>
+<img width="1856" height="762" alt="image" src="https://github.com/user-attachments/assets/108d7cd2-93a6-4044-83ab-684a5d838189" /><br/>
 <hr/>
 
 4. Acquire the access token for "Any user in my tenant"<br/>
