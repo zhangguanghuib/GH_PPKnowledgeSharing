@@ -109,16 +109,23 @@ Copy the token, paste to the header: <br/>
 <img width="1836" height="1389" alt="image" src="https://github.com/user-attachments/assets/134b590e-394e-4f22-8a4a-c3ea068bd0e7" /><br/>
 
 <hr/>
-6. Trigger the flow by sending HTTP Request <br/>
-Copy the Token and put it to Header Authorization field <br/>
-<img width="1799" height="690" alt="image" src="https://github.com/user-attachments/assets/306ef3b9-e779-4591-819a-2cb307685297" />
+6. Trigger the flow from another power automate flow <br/>
+Create a new fllow like this <br/>
 
-Click "Send" button, see the response "202 accepted" <br/>
-<img width="2421" height="683" alt="image" src="https://github.com/user-attachments/assets/8d6a12d0-2cd8-4c8a-a9ae-a9ad9af7b953" /><br/>
+<img width="2169" height="1586" alt="image" src="https://github.com/user-attachments/assets/ed85aa02-db59-498e-bb90-5b7b25621142" /><br/>
 
-Go to Power Automate flow, and found the flow is triggered successfully<br/>
-<img width="1305" height="953" alt="image" src="https://github.com/user-attachments/assets/ce306356-0adc-438c-99fb-fb96519cfa50" /><br/>
-<img width="1788" height="1119" alt="image" src="https://github.com/user-attachments/assets/3a534900-eee6-472c-a41f-1deba68f0d7d" /><br/>
+Copy the Token from Insonmia and pasted into the flow Bearer token<br/>
+
+<img width="2850" height="1602" alt="image" src="https://github.com/user-attachments/assets/d570623e-beec-4430-ae8f-490984713902" /><br/>
+
+Run this flow:<br/>
+
+<img width="2864" height="1244" alt="image" src="https://github.com/user-attachments/assets/fe6d461a-9b1b-4a3c-ae57-9133444f2535" /><br/>
+
+Check the flow with Trigger When Http Request is received<br/>
+<img width="2218" height="1080" alt="image" src="https://github.com/user-attachments/assets/6016a0e9-91a2-4844-8549-883341a22410" /><br/>
+<img width="2887" height="1319" alt="image" src="https://github.com/user-attachments/assets/dcfa0029-9686-4ee6-b560-61d60f02bc15" /><br/>
+
 <hr/>
 
 
