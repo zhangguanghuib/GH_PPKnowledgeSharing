@@ -1,5 +1,4 @@
 Trouble-Shooting Power Automate flow connect to Azure Databricks by Service Principal failed<br/>
-https://www.youtube.com/watch?v=WkBO5li21lo<br/>
 
 # Issue description:<br/>
 In power automate (New designer), when create connection to data bricks,  the connection seems connected successfully, but there is an error in the banner to show there was a problem with the connection, see below:<br/>
