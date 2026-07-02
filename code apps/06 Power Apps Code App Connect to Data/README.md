@@ -45,3 +45,47 @@ npm run dev
 num run build
 npx power-apps push
 ```
+Finally you can see the App is created in VS code :<br/>
+<img width="468" height="1281" alt="image" src="https://github.com/user-attachments/assets/c28f4859-3771-487c-8414-8a41260e575c" /><br/>
+<img width="2873" height="1431" alt="image" src="https://github.com/user-attachments/assets/17b074f6-152c-471d-8069-a938c8ba9b02" /><br/>
+
+<hr/>
+
+# Trouble shooting:<br/>
+
+In the first step, after you provide the environment id, you may encouter this error:<br/>
+```
+I followed all these steps. but still get the same error:  Please provide the environment ID:
+│ *************
+HTTP error status: 404 for GET https://********.19.environment.api.powerplatform.com/powerapps/environment?api-version=1&$filter=name eq '*******': {"error":{"code":"ServiceToServiceEnvironmentNotFound","message":"The environment '*****' could not be found in the tenant '****'."}}, can you please help resolve the issue
+```
+This is a cache issue because in VS code we logged on different users, you need try these command:
+```
+pac env list
+pac auth list
+pac auth create --tenant <your-tenant-id>
+# or to target a specific environment directly:
+pac auth create --environment <env-id>
+```
+then  run<br/>
+```
+npx power-apps init
+```
+If not work, please try, the reason is:  The @microsoft/power-apps CLI has its own auth system — it does not use pac CLI, Azure CLI, or .IdentityService.<br/>
+```
+# 1. Wipe the power-apps CLI's own MSAL cache + active-account pointer
+npx power-apps logout
+
+# 2. Sign in interactively, pre-filling the right account
+npx power-apps login --account guazha@dynamicsftegcr.onmicrosoft.com
+
+# 3. Confirm the active account is the dynamicsftegcr one
+npx power-apps auth-status
+
+# 4. Now run init
+npx power-apps init
+```
+
+# Reference:<br/>
+https://learn.microsoft.com/en-us/power-apps/developer/code-apps/how-to/connect-to-data <br/>
+https://learn.microsoft.com/en-us/power-apps/developer/code-apps/how-to/sharepoint-operations<br/>
