@@ -2,7 +2,7 @@ Now Power Apps Code App support to connect to SharePoint and Azure SQL, not limi
 
 You can refer to this document to connect to different datasource https://learn.microsoft.com/en-us/power-apps/developer/code-apps/how-to/connect-to-data <br/>
 
-Below are some useful commands <br/>
+# Below are some useful commands <br/>
 ```
 npx degit github:microsoft/PowerAppsCodeApps/templates/vite WorkTrackTrackList01
 npm install
@@ -15,7 +15,7 @@ npx power-apps add-data-source
 ```
 <img width="1949" height="986" alt="image" src="https://github.com/user-attachments/assets/7e20e3da-089a-4627-b109-b4ed9155ba56" /><br/>
 
-Start building App with the below prompt:<br/>
+# Start building App with the below prompt:<br/>
 ```
 The SharePoint list is already connected as a data source. read the rules from https://learn.microsoft.com/en-us/power-apps/developer/code-apps/how-to/sharepoint-operations
 ```
@@ -39,7 +39,7 @@ Add Full CRUD with a slide-over panel. Add a right-side slide-over panel with a 
 A "+ New work item" button opens the panel empty; clicking a card opens it pre-filled. On save, call create or update. Add a delete action with a confirmation dialog. Show toast notifications for success and error. Also add AssignedTo person column in CRUD forms - load the users from office365Users connector
 ```
 
-Finally we can run <br/>
+# Finally we can run <br/>
 ```
 npm run dev
 num run build
