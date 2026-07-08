@@ -28,4 +28,6 @@ X-HTTP-Method:  MERGE
 ## Run the flow, it shows successfully <br/>
 <img width="924" height="631" alt="image" src="https://github.com/user-attachments/assets/b8112549-99e4-4060-a4ab-9132637fa9be" />
 
+## Reference:
 
+https://robertheep.de/http-request-to-sharepoint-users-groups-and-permissions
