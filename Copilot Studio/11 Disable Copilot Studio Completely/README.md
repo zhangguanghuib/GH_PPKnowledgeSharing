@@ -1,3 +1,4 @@
+<h1> Disable user access Copilot Studio Portal <br/>
 # https://learn.microsoft.com/en-us/microsoft-copilot-studio/requirements-licensing
 # https://learn.microsoft.com/en-us/entra/identity/users/directory-self-service-signup
 # https://learn.microsoft.com/en-us/microsoft-copilot-studio/admin-block-viral-signups
