@@ -1,4 +1,4 @@
-<h1> Disable user access Copilot Studio Portal <br/>
+<h1> Disable user access Copilot Studio Portal </h1> <br/>
 # https://learn.microsoft.com/en-us/microsoft-copilot-studio/requirements-licensing
 # https://learn.microsoft.com/en-us/entra/identity/users/directory-self-service-signup
 # https://learn.microsoft.com/en-us/microsoft-copilot-studio/admin-block-viral-signups
@@ -47,3 +47,10 @@ Step 5 : Disable self-service purchase for a product <br/>
 ```
 Get-MSCommerceProductPolicies -PolicyId AllowSelfServicePurchase
 ```
+
+Step 6:  In Microsoft Admin Center, try this:<br/>
+
+<img width="1318" height="1303" alt="image" src="https://github.com/user-attachments/assets/9e5fc2b3-95d0-425e-a93a-55950e1b5155" /><br/>
+
+Step 7:  Check Copilot Studio Portal<br/>
+<img width="2667" height="1263" alt="image" src="https://github.com/user-attachments/assets/89c5c5d7-6d3b-47e6-8a59-5f256717d75c" /><br/>
