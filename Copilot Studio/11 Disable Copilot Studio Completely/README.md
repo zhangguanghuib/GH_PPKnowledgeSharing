@@ -46,7 +46,7 @@ Get-MSCommerceProductPolicies -PolicyId AllowSelfServicePurchase
 
 Step 5 : Disable self-service purchase for a product <br/>
 ```
-Get-MSCommerceProductPolicies -PolicyId AllowSelfServicePurchase
+Update-MSCommerceProductPolicy -PolicyId AllowSelfServicePurchase -ProductId <ProductId> -Enabled $False
 ```
 
 Step 6:  In Microsoft Admin Center, try this:<br/>
