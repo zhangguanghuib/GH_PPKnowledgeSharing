@@ -16,6 +16,31 @@ $param = @{
 }
 Update-MgPolicyAuthorizationPolicy -BodyParameter $param
 ```
+<img width="1199" height="512" alt="image" src="https://github.com/user-attachments/assets/c6dae4e8-1915-4b5a-a49b-3e8f513ffbd1" /><br/>
 
+Step 2:  Install the below Power Shell Modules<br/>
+```ps
+[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
+Install-Module PackageManagement -Force -Scope CurrentUser -AllowClobber -SkipPublisherCheck
+Install-Module PowerShellGet -Force -Scope CurrentUser -AllowClobber -SkipPublisherCheck
+Install-Module Microsoft.PowerShell.PSResourceGet -Scope CurrentUser -Force -AllowClobber -SkipPublisherCheck
+Import-Module  Microsoft.PowerShell.PSResourceGet
+```
 
+Step 3: Install Commerce related module <br/>
+```ps
+Install-PSResource -Name MSCommerce -Scope CurrentUser -Reinstall -TrustRepository
+ Import-Module MSCommerce
+```
 
+Step 4: List <br/>
+```ps
+Connect-MSCommerce
+Get-MSCommerceProductPolicies -PolicyId AllowSelfServicePurchase
+```
+<img width="1473" height="872" alt="image" src="https://github.com/user-attachments/assets/af4f6950-d947-4afb-b473-c9e0341f49fe" /><br/>
+
+Step 5 : Disable self-service purchase for a product <br/>
+```
+Get-MSCommerceProductPolicies -PolicyId AllowSelfServicePurchase
+```
