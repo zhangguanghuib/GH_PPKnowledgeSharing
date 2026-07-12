@@ -38,3 +38,10 @@ Please help analyze the data source of this App, actually there are 3 SharePoint
 ```
 What suggestions do you have to improve the app experience?
 ```
+8.  Add a new column "Admin Comments" to the sugggestions list <br/>
+
+<img width="2103" height="333" alt="image" src="https://github.com/user-attachments/assets/9da5855a-f217-446d-a241-eb07255d6f9a" />
+
+```
+I added a new column called admin comments in suggestions list. This should be what the admin can optionally add when updating the Status
+```
