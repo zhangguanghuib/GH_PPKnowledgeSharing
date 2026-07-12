@@ -12,6 +12,10 @@ Copy the url from Canvas App Studio <br/>
 ```
 https://make.powerapps.com/e/<Env ID>/canvas?action=edit&template-name=HeaderMainFooter&app-id=%2Fproviders%2FMicrosoft.PowerApps%2Fapps%2Fcbf5df01-5d94-4879-86a8-f6d53d91b31c
 ```
-Adk for confirm<br/>
+Ask for confirm<br/>
 <img width="1886" height="713" alt="image" src="https://github.com/user-attachments/assets/fb900022-abf4-4d23-a967-c622f2971bd3" /><br/>
 
+Signed in as a different account <br/>
+<img width="1917" height="583" alt="image" src="https://github.com/user-attachments/assets/31bd6c53-b274-4cd8-b72a-45b6c555d3c6" />br/>
+
+4.
