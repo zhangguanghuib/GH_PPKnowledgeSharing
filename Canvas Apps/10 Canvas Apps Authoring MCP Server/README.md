@@ -16,6 +16,10 @@ Ask for confirm<br/>
 <img width="1886" height="713" alt="image" src="https://github.com/user-attachments/assets/fb900022-abf4-4d23-a967-c622f2971bd3" /><br/>
 
 Signed in as a different account <br/>
-<img width="1917" height="583" alt="image" src="https://github.com/user-attachments/assets/31bd6c53-b274-4cd8-b72a-45b6c555d3c6" />br/>
+<img width="1917" height="583" alt="image" src="https://github.com/user-attachments/assets/31bd6c53-b274-4cd8-b72a-45b6c555d3c6" /><br/>
 
-4.
+4.Check the data source:<br/>
+<img width="1838" height="315" alt="image" src="https://github.com/user-attachments/assets/33f66699-4a80-4fb1-85fb-08c5a7e91237" /><br/>
+
+Pull the schema of each data source<br/>
+<img width="1830" height="913" alt="image" src="https://github.com/user-attachments/assets/8347a012-7627-45f0-b910-50d1bb95f291" /><br/>
