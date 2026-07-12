@@ -46,3 +46,9 @@ What suggestions do you have to improve the app experience?
 ```
 I added a new column called admin comments in suggestions list. This should be what the admin can optionally add when updating the Status
 ```
+9. Add two connectors:<br/>
+
+<img width="1999" height="1185" alt="image" src="https://github.com/user-attachments/assets/9c9f6856-9eb9-47fd-83cc-c4ffffec7c47" /><br/>
+```
+In the ideas gallery - show the created by users Image using office365Users connector - when admin changes the status - notify the idea creator via email of the status change and also include the admin comments. Make the email look visually appealing!
+```
