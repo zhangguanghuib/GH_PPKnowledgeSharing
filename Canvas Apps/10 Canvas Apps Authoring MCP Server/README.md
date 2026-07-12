@@ -1,10 +1,20 @@
-# Build Power Apps with AI | Canvas Apps Authoring MCP Server + Claude Code
+<img width="2054" height="920" alt="image" src="https://github.com/user-attachments/assets/af118e72-de2e-46d5-9c1b-467fa7351585" /># Build Power Apps with AI | Canvas Apps Authoring MCP Server + Claude Code
 Reference:<br/>
 https://www.youtube.com/watch?v=0MM2BTBiRpc&list=PLTyFh-qDKAiEIVlidnhELx5BusnzlDzkR <br/>
+https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/create-canvas-external-tools<br/>
 
-1. Create Canvas App Manually and connect to SharePoint List
-2. Enable coauthoring
-3. In Github Copilot CLI, type
+1. Create SharePoint Lists:
+  <img width="2172" height="432" alt="image" src="https://github.com/user-attachments/assets/56606372-c08f-40e5-a8bc-ac4b7970ab73" /><br/>
+  <img width="1436" height="365" alt="image" src="https://github.com/user-attachments/assets/2b1a464e-0d56-4128-8d70-1c93aae2a265" /><br/>
+  <img width="1073" height="258" alt="image" src="https://github.com/user-attachments/assets/ed9629de-62f3-437e-ac51-f749d1b0378e" /><br/>
+
+2. Create Canvas App Manually and connect to SharePoint List
+<img width="2054" height="920" alt="image" src="https://github.com/user-attachments/assets/825f40d2-b522-4617-b1fd-a960f19fb156" /><br/>
+
+3. Enable coauthoring
+<img width="1334" height="859" alt="image" src="https://github.com/user-attachments/assets/de62aa4b-05ff-444d-96e6-9ed466edfb09" /><br/>
+
+4. In Github Copilot CLI, type
 ```
 configure canvas mcp
 ```
