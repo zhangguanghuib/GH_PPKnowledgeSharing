@@ -1,4 +1,4 @@
-<img width="2054" height="920" alt="image" src="https://github.com/user-attachments/assets/af118e72-de2e-46d5-9c1b-467fa7351585" /># Build Power Apps with AI | Canvas Apps Authoring MCP Server + Claude Code
+# Build Power Apps with AI | Canvas Apps Authoring MCP Server + Claude Code
 Reference:<br/>
 https://www.youtube.com/watch?v=0MM2BTBiRpc&list=PLTyFh-qDKAiEIVlidnhELx5BusnzlDzkR <br/>
 https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/create-canvas-external-tools<br/>
