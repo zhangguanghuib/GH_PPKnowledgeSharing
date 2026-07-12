@@ -28,3 +28,9 @@ Pull the schema of each data source<br/>
 ```
 Please help analyze the data source of this App, actually there are 3 SharePoint list,  and based on these 3 SharePoint List, please plan and help build a Canvas App.
 ```
+
+6. Once the App is built successfully,  please test the App,  any issue please ask GitHub Copilot fix it:<br/>
+<img width="2494" height="1081" alt="image" src="https://github.com/user-attachments/assets/9aa3ff8d-f5d6-4441-b981-1d0a4c6e8061" /><br/>
+<img width="2495" height="948" alt="image" src="https://github.com/user-attachments/assets/f4b82268-9d0e-4c7e-92af-6fa5d4368f89" /><br/>
+<img width="2489" height="1020" alt="image" src="https://github.com/user-attachments/assets/9ca3ef7a-2a72-430e-8e1f-530c4c98a16d" /><br/>
+
