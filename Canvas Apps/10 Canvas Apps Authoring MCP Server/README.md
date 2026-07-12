@@ -34,3 +34,7 @@ Please help analyze the data source of this App, actually there are 3 SharePoint
 <img width="2495" height="948" alt="image" src="https://github.com/user-attachments/assets/f4b82268-9d0e-4c7e-92af-6fa5d4368f89" /><br/>
 <img width="2489" height="1020" alt="image" src="https://github.com/user-attachments/assets/9ca3ef7a-2a72-430e-8e1f-530c4c98a16d" /><br/>
 
+7. Request suggestion to improve the App <br/>
+```
+What suggestions do you have to improve the app experience?
+```
