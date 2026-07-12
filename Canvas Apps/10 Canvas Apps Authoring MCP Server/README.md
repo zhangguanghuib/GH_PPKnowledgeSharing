@@ -1,5 +1,6 @@
 # Build Power Apps with AI | Canvas Apps Authoring MCP Server + Claude Code
-Reference:  https://www.youtube.com/watch?v=0MM2BTBiRpc&list=PLTyFh-qDKAiEIVlidnhELx5BusnzlDzkR <br/>
+Reference:<br/>
+https://www.youtube.com/watch?v=0MM2BTBiRpc&list=PLTyFh-qDKAiEIVlidnhELx5BusnzlDzkR <br/>
 
 1. Create Canvas App Manually and connect to SharePoint List
 2. Enable coauthoring
