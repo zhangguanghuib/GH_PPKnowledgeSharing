@@ -23,3 +23,8 @@ Signed in as a different account <br/>
 
 Pull the schema of each data source<br/>
 <img width="1830" height="913" alt="image" src="https://github.com/user-attachments/assets/8347a012-7627-45f0-b910-50d1bb95f291" /><br/>
+
+5. Build the App <br/>
+```
+Please help analyze the data source of this App, actually there are 3 SharePoint list,  and based on these 3 SharePoint List, please plan and help build a Canvas App.
+```
