@@ -70,4 +70,6 @@ python server.py
 <img width="1248" height="194" alt="image" src="https://github.com/user-attachments/assets/a46019aa-f146-47b3-8485-d16387f94603" /><br/>
 
 Test the local MCP in MCP Inspector:<br/>
+<img width="2483" height="1509" alt="image" src="https://github.com/user-attachments/assets/42f46c0a-f433-491e-99d6-731a201b01a4" /><br/>
+You can see the MCP Server can be connected and tool test passed.
 
