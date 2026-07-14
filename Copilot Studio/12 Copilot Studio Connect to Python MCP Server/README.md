@@ -7,7 +7,7 @@
 5. Trigger MCP Server from Copilot Studio.
 
 # Details
-1. Create MCP Server using Python
+1. Prepare MCP development environment
    Step 1: Create a folder as below <br/>
    <img width="1013" height="258" alt="image" src="https://github.com/user-attachments/assets/037798e5-768f-4e7a-aedd-7fd4853e3e0b" /><br/>
    Open this folder with VS Code, create a txt file named requirements.txt inside the folder<br/>
@@ -35,3 +35,24 @@
     "python.defaultInterpreterPath": "C:/D/CanvasAppMCP/MCP-DEMO02/mcpdemo02/Scripts/python.exe"
 }
  ```
+<img width="2029" height="999" alt="image" src="https://github.com/user-attachments/assets/25646dc2-b694-4eee-a955-876271c758da" /><br/>
+
+2. Write the below python code
+
+```py
+from mcp.server.fastmcp import FastMCP
+
+mcp = FastMCP("demo-mcp", stateless_http=True, auth = None, host="0.0.0.0")
+
+@mcp.tool("add", description="Add two numbers")
+def add(a: int, b: int) -> int:
+    return a + b
+
+@mcp.tool("minus", description="Subtract two numbers")
+def minus(a: int, b: int) -> int:
+    return a - b
+
+if __name__ == "__main__":
+    mcp.run(transport="streamable-http")
+```
+<img width="1767" height="819" alt="image" src="https://github.com/user-attachments/assets/1cc1abb1-dd1d-4834-9f51-dff7ecef2301" /><br/>
