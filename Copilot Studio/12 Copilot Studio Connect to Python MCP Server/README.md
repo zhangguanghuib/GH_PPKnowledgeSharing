@@ -61,3 +61,13 @@ if __name__ == "__main__":
 ```
 npx  @modelcontextprotocol/inspector
 ```
+<img width="740" height="488" alt="image" src="https://github.com/user-attachments/assets/94636a94-6794-4e5e-8478-e6fd4dbf1261" /> <br/>
+
+Then launch the local MCP by run:
+```
+python server.py
+```
+<img width="1248" height="194" alt="image" src="https://github.com/user-attachments/assets/a46019aa-f146-47b3-8485-d16387f94603" /><br/>
+
+Test the local MCP in MCP Inspector:<br/>
+
