@@ -78,5 +78,8 @@ You can see the MCP Server can be connected and tool test passed.
   <img width="2388" height="1294" alt="image" src="https://github.com/user-attachments/assets/2d35c7c2-884d-4b69-9e62-4f5ae22607a2" /><br/>
   <img width="978" height="960" alt="image" src="https://github.com/user-attachments/assets/ceb95353-5e55-4689-8586-5111054836f1" /><br/>
   <img width="1337" height="1466" alt="image" src="https://github.com/user-attachments/assets/e903ce36-07e5-4c8a-8f65-3af2397653b4" /><br/>
+  Wait until the deployment is done <br/>
+  Then double check the configuration is Python 3.14 <br/>
+  <img width="1737" height="1155" alt="image" src="https://github.com/user-attachments/assets/fa29aef6-1c00-401f-bfcd-d8ea85ec0e7c" /> <br/>
 
 
