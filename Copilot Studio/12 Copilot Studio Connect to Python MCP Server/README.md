@@ -80,9 +80,10 @@ You can see the MCP Server can be connected and tool test passed.
   <img width="1337" height="1466" alt="image" src="https://github.com/user-attachments/assets/e903ce36-07e5-4c8a-8f65-3af2397653b4" /><br/>
   Wait until the deployment is done <br/>
   Then double check the configuration is Python 3.14 <br/>
-  <img width="1737" height="1155" alt="image" src="https://github.com/user-attachments/assets/fa29aef6-1c00-401f-bfcd-d8ea85ec0e7c" /> <br/>
+  <img width="1702" height="1127" alt="image" src="https://github.com/user-attachments/assets/15391222-84dc-462a-aaec-b0a35df4104c" />
+    <br/>
 
-5. Deploy MCP Server to the Web App Service<br/>
+6. Deploy MCP Server to the Web App Service<br/>
    Go back to the VS Code, and click the Azure Plugin:<br/>
    Find the newly-created App Service <br/>
    <img width="2003" height="1365" alt="image" src="https://github.com/user-attachments/assets/9e06ad7e-38b8-4f3b-90cf-14cd596c5c51" /><br/>
@@ -91,7 +92,7 @@ You can see the MCP Server can be connected and tool test passed.
    Any dialog opened just click Yest to proceed<br/>
    <img width="1694" height="972" alt="image" src="https://github.com/user-attachments/assets/f67b14a4-604e-4fe3-b39f-623e8d54279d" /><br/>
 
-6. Test the MCP in the MCP Inspector<br/>
+7. Test the MCP in the MCP Inspector<br/>
    <img width="2373" height="796" alt="image" src="https://github.com/user-attachments/assets/fddb6575-bf1d-4459-b57b-a1407135ac52" /><br/>
 
 
