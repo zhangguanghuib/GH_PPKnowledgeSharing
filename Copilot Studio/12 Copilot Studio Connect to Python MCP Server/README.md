@@ -99,6 +99,18 @@ You can see the MCP Server can be connected and tool test passed.
    You can see the MCP Server is connected<br/>
    <img width="2452" height="1376" alt="image" src="https://github.com/user-attachments/assets/16d18811-5b8e-40c1-bf17-1f563df391df" /><br/>
    Test one method: it works fine as expected<br/>
+    <img width="2484" height="1365" alt="image" src="https://github.com/user-attachments/assets/409377b4-6876-4640-92a3-94ed6a4a9197" /><br/>
+
+8. Connect the MCP  from COpilot Studio Agent<br/>
+  <img width="2340" height="1128" alt="image" src="https://github.com/user-attachments/assets/c0b38445-84d5-4283-b9db-e9d2cdfa4852" /><br/>
+
+   <img width="1181" height="969" alt="image" src="https://github.com/user-attachments/assets/aa93f48f-2916-4252-a0d8-eb69f1b55009" /><br/>
+   Click "Add" button, and the create a connection<br/>
+   <img width="1193" height="982" alt="image" src="https://github.com/user-attachments/assets/0ec58e53-cf90-4de1-b3b0-17e11344b19f" /><br/>
+  <img width="1781" height="1284" alt="image" src="https://github.com/user-attachments/assets/56f60912-b428-4e81-8089-1d1a199b19d9" /><br/>
+
+9. In the legacy Copilot Studio Agent, it looks like:<br/>
+   <img width="2445" height="1359" alt="image" src="https://github.com/user-attachments/assets/7dcf09aa-3af7-4dee-9afe-8fd34f81316e" /><br/>
 
 
 
