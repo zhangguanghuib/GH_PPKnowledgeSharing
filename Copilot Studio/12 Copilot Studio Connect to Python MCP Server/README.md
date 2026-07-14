@@ -5,6 +5,8 @@
 3. Test MCP server through MCP inspector
 4. Connector MCP Server from Copilot Studio
 5. Trigger MCP Server from Copilot Studio.
+   
+# Reference https://www.youtube.com/watch?v=EC7WM00U0J8
 
 # Details
 1. Prepare MCP development environment
