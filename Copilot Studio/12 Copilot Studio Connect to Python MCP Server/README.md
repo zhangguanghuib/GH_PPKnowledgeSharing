@@ -73,3 +73,10 @@ Test the local MCP in MCP Inspector:<br/>
 <img width="2483" height="1509" alt="image" src="https://github.com/user-attachments/assets/42f46c0a-f433-491e-99d6-731a201b01a4" /><br/>
 You can see the MCP Server can be connected and tool test passed.
 
+4. Create a Web App in Azure Portal and deploy this MCP Server to the Web App Service<br/>
+  Step 01: Find Resource Group->Create->Find "Web App":<br/>
+  <img width="2388" height="1294" alt="image" src="https://github.com/user-attachments/assets/2d35c7c2-884d-4b69-9e62-4f5ae22607a2" /><br/>
+  <img width="978" height="960" alt="image" src="https://github.com/user-attachments/assets/ceb95353-5e55-4689-8586-5111054836f1" /><br/>
+  <img width="1337" height="1466" alt="image" src="https://github.com/user-attachments/assets/e903ce36-07e5-4c8a-8f65-3af2397653b4" /><br/>
+
+
