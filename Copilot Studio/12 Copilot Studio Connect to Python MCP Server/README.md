@@ -94,6 +94,12 @@ You can see the MCP Server can be connected and tool test passed.
 
 7. Test the MCP in the MCP Inspector<br/>
    <img width="2373" height="796" alt="image" src="https://github.com/user-attachments/assets/fddb6575-bf1d-4459-b57b-a1407135ac52" /><br/>
+   Copy the Domain URL and '/mcp' and paste in MCP Inspector<br/>
+   <img width="2452" height="1376" alt="image" src="https://github.com/user-attachments/assets/555796ef-66cf-4bc8-b107-c39bbfa3f138" /><br/>
+   You can see the MCP Server is connected<br/>
+   <img width="2452" height="1376" alt="image" src="https://github.com/user-attachments/assets/16d18811-5b8e-40c1-bf17-1f563df391df" /><br/>
+   Test one method: it works fine as expected<br/>
+
 
 
 
