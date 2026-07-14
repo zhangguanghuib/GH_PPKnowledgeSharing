@@ -22,3 +22,16 @@
    .\mcpdemo02\Scripts\activate
    ```
   <img width="1131" height="310" alt="image" src="https://github.com/user-attachments/assets/9b130669-e3f1-49de-807f-eb4a1687a532" /><br/>
+
+  Step 03:  Install mcp[cli] package<br/>
+  ```
+  uv pip install -r requirements.txt
+  ```
+ <img width="1606" height="1564" alt="image" src="https://github.com/user-attachments/assets/8d7579ef-ffa2-423c-bc7f-7827f6d3c578" /><br/>
+
+ Step 04: Set the default Python Interpreter
+ ```
+{
+    "python.defaultInterpreterPath": "C:/D/CanvasAppMCP/MCP-DEMO02/mcpdemo02/Scripts/python.exe"
+}
+ ```
