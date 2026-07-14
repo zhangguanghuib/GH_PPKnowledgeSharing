@@ -56,3 +56,8 @@ if __name__ == "__main__":
     mcp.run(transport="streamable-http")
 ```
 <img width="1767" height="819" alt="image" src="https://github.com/user-attachments/assets/1cc1abb1-dd1d-4834-9f51-dff7ecef2301" /><br/>
+
+3. Install MCP Inspector and debug the local MCP
+```
+npx  @modelcontextprotocol/inspector
+```
