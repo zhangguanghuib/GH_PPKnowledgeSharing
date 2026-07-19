@@ -34,3 +34,6 @@ uv venv
 
 Create .env file:<br/>
 <img width="1588" height="638" alt="image" src="https://github.com/user-attachments/assets/98832507-8aaf-4a0f-b9c2-2b0fe89ad2fa" /><br/>
+
+Create requirements.txt<br/>
+<img width="1744" height="802" alt="image" src="https://github.com/user-attachments/assets/7f64bd01-a68f-432e-a98c-afc2f011bcf7" /><br/>
