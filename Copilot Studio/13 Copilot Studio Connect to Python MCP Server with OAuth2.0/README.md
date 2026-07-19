@@ -42,6 +42,11 @@ Create .env file:<br/>
 
 Create requirements.txt<br/>
 <img width="1744" height="802" alt="image" src="https://github.com/user-attachments/assets/7f64bd01-a68f-432e-a98c-afc2f011bcf7" /><br/>
+
+Create server.py<br/>
+
+<img width="2116" height="1174" alt="image" src="https://github.com/user-attachments/assets/9914bb55-37fa-4f93-b54b-486b49bdc69d" /><br/>
+
 Install Python Package in the requirements.txt
 ```
 uv pip install -r requirements.txt
