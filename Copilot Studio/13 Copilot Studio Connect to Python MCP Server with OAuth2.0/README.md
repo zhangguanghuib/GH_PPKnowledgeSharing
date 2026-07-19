@@ -21,10 +21,12 @@ Copy the secret value:<br/>
 API Permission, grant admin consent:<br/>
 <img width="2182" height="1079" alt="image" src="https://github.com/user-attachments/assets/b9a5f974-85b8-47e7-9c96-be01b263af81" /><br/>
 ## Go back to the MCP Server App
-<img width="2205" height="1292" alt="image" src="https://github.com/user-attachments/assets/a002851b-a473-4c8e-aad2-5216989e99d4" />
+<img width="2205" height="1292" alt="image" src="https://github.com/user-attachments/assets/a002851b-a473-4c8e-aad2-5216989e99d4" /><br/>
 Add the Client Id:<br/>
 
-<img width="2146" height="1443" alt="image" src="https://github.com/user-attachments/assets/f645876a-0d16-46ec-aec9-ebf2c7bee8ed" />
+<img width="2146" height="1443" alt="image" src="https://github.com/user-attachments/assets/f645876a-0d16-46ec-aec9-ebf2c7bee8ed" /><br/>
+
+<img width="1913" height="1146" alt="image" src="https://github.com/user-attachments/assets/c43b016b-6a0f-4204-8c91-f6d50ff53a9b" /><br/>
 
 ## Step 04  Develop MCP Server using FastMCP
 Create an empty folder and open it in Visual Studio Code<br/>
