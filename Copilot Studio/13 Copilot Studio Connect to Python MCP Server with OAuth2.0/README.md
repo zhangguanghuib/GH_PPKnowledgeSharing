@@ -69,5 +69,21 @@ Update .env file and deploy<br/>
 <img width="1734" height="1185" alt="image" src="https://github.com/user-attachments/assets/3d2b8cab-3a37-4023-85fe-25023218084e" /><br/>
 <img width="1903" height="1066" alt="image" src="https://github.com/user-attachments/assets/a0c8f7c5-b0b7-40d0-b2bb-f4a09d8303e4" /><br/>
 
+## Step 07  Connect MCP Server from COpilot Studio
+<img width="1932" height="1221" alt="image" src="https://github.com/user-attachments/assets/c07e3fb2-316f-47f4-9626-64f3f4af472d" /><br/>
+<img width="1529" height="1102" alt="image" src="https://github.com/user-attachments/assets/0239b69a-7b77-4924-868b-955b2e93316a" /><br/>
+```
+MCP Demo14
+MCP Demo14 with OAuth2.0 for testing purpose
+*********(Copilot Client Id)
+*******(Client Secret Value)
+
+https://login.microsoftonline.com/<tenant id>/oauth2/v2.0/authorize
+https://login.microsoftonline.com/<tenant id>/oauth2/v2.0/token
+https://login.microsoftonline.com/<tenant id>/oauth2/v2.0/token
+api://<MCP Server App Id>/mcp.invoke
+```
+<img width="1411" height="985" alt="image" src="https://github.com/user-attachments/assets/c0342138-40f3-4a72-8c6d-2c3c369ee939" /><br/>
+
 
 
