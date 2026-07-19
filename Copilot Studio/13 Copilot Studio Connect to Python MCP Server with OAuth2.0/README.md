@@ -8,7 +8,7 @@ Expose an API->Add a scope <br/>
 Manifest:<br/>
 <img width="1622" height="1292" alt="image" src="https://github.com/user-attachments/assets/2f859a53-c81c-48c6-8ce3-8b8964ccab3c" /><br/>
 
-## Step 01  Create App Registration for Copilot Client
+## Step 02  Create App Registration for Copilot Client
 <img width="1381" height="1378" alt="image" src="https://github.com/user-attachments/assets/1d7072c1-4bda-4e3c-9c5f-644938dd9d80" /><br/>
 Add an API Permission, choose the App Id created in the step 01, that is MCP Server App<br/>
 <img width="2471" height="1076" alt="image" src="https://github.com/user-attachments/assets/5a88072a-a1c0-4074-bdc6-de8f5cc58901" /><br/>
@@ -21,3 +21,13 @@ Copy the secret value:<br/>
 API Permission, grant admin consent:<br/>
 <img width="2182" height="1079" alt="image" src="https://github.com/user-attachments/assets/b9a5f974-85b8-47e7-9c96-be01b263af81" /><br/>
 
+## Step 03  Develop MCP Server using FastMCP
+Create an empty folder and open it in Visual Studio Code<br/>
+<img width="2006" height="1146" alt="image" src="https://github.com/user-attachments/assets/b827d5c9-daf9-49b5-8aaa-513600404752" /><br/>
+Create a Python Virtual environment with uv<br/>
+```
+uv init
+uv venv
+.venv\Scripts\activate
+```
+<img width="1963" height="1233" alt="image" src="https://github.com/user-attachments/assets/bfd71e78-5b9e-4671-994c-a32e641dfeb8" />
