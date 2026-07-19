@@ -47,6 +47,9 @@ Create server.py<br/>
 
 <img width="2116" height="1174" alt="image" src="https://github.com/user-attachments/assets/9914bb55-37fa-4f93-b54b-486b49bdc69d" /><br/>
 
+## Create Web App in Azure Portal to deploy the MCP Server
+
+
 Install Python Package in the requirements.txt
 ```
 uv pip install -r requirements.txt
