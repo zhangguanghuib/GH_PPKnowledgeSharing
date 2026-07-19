@@ -85,5 +85,17 @@ api://<MCP Server App Id>/mcp.invoke
 ```
 <img width="1411" height="985" alt="image" src="https://github.com/user-attachments/assets/c0342138-40f3-4a72-8c6d-2c3c369ee939" /><br/>
 
+## Step 08,  update the reply URL for the Copilot MCP Client:
+Click "Create" button<br/>
+Then copy the generated reply URL<br/>
+<img width="1535" height="1107" alt="image" src="https://github.com/user-attachments/assets/7ab587a2-29d0-491f-904f-9087a1147475" /><br/>
+<img width="2362" height="1108" alt="image" src="https://github.com/user-attachments/assets/8aa4c4f5-83f6-47bf-b6ba-e2ccbf2a50dd" /><br/>
+<img width="1974" height="996" alt="image" src="https://github.com/user-attachments/assets/5067ace6-44a6-4bfa-b0d2-c4685025022b" /><br/>
+
+Create Connection:<br/>
+<img width="1546" height="1126" alt="image" src="https://github.com/user-attachments/assets/a2fdf62e-7285-48ad-a201-af2a4fa947b4" /><br/>
+<img width="1563" height="1132" alt="image" src="https://github.com/user-attachments/assets/5ac001a1-3d4b-4c06-9d20-a767a77e0bef" /><br/>
+<img width="1534" height="1126" alt="image" src="https://github.com/user-attachments/assets/1812d0af-cbbf-4fff-ac39-722fe47ac138" /><br/>
+
 
 
