@@ -20,8 +20,13 @@ Copy the secret value:<br/>
 <img width="1987" height="1008" alt="image" src="https://github.com/user-attachments/assets/397d3f2c-db86-4e32-a6f1-5747b637bccc" /><br/>
 API Permission, grant admin consent:<br/>
 <img width="2182" height="1079" alt="image" src="https://github.com/user-attachments/assets/b9a5f974-85b8-47e7-9c96-be01b263af81" /><br/>
+## Go back to the MCP Server App
+<img width="2205" height="1292" alt="image" src="https://github.com/user-attachments/assets/a002851b-a473-4c8e-aad2-5216989e99d4" />
+Add the Client Id:<br/>
 
-## Step 03  Develop MCP Server using FastMCP
+<img width="2146" height="1443" alt="image" src="https://github.com/user-attachments/assets/f645876a-0d16-46ec-aec9-ebf2c7bee8ed" />
+
+## Step 04  Develop MCP Server using FastMCP
 Create an empty folder and open it in Visual Studio Code<br/>
 <img width="2006" height="1146" alt="image" src="https://github.com/user-attachments/assets/b827d5c9-daf9-49b5-8aaa-513600404752" /><br/>
 Create a Python Virtual environment with uv<br/>
@@ -37,3 +42,8 @@ Create .env file:<br/>
 
 Create requirements.txt<br/>
 <img width="1744" height="802" alt="image" src="https://github.com/user-attachments/assets/7f64bd01-a68f-432e-a98c-afc2f011bcf7" /><br/>
+Install Python Package in the requirements.txt
+```
+uv pip install -r requirements.txt
+```
+<img width="2111" height="1573" alt="image" src="https://github.com/user-attachments/assets/725f6c4a-d8e1-47fa-968f-8be2f46bf8a1" /><br/>
