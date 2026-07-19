@@ -42,16 +42,16 @@ Create .env file:<br/>
 
 Create requirements.txt<br/>
 <img width="1744" height="802" alt="image" src="https://github.com/user-attachments/assets/7f64bd01-a68f-432e-a98c-afc2f011bcf7" /><br/>
-
-Create server.py<br/>
-
-<img width="2116" height="1174" alt="image" src="https://github.com/user-attachments/assets/9914bb55-37fa-4f93-b54b-486b49bdc69d" /><br/>
-
-## Create Web App in Azure Portal to deploy the MCP Server
-
-
 Install Python Package in the requirements.txt
 ```
 uv pip install -r requirements.txt
 ```
 <img width="2111" height="1573" alt="image" src="https://github.com/user-attachments/assets/725f6c4a-d8e1-47fa-968f-8be2f46bf8a1" /><br/>
+Create server.py<br/>
+
+<img width="2116" height="1174" alt="image" src="https://github.com/user-attachments/assets/9914bb55-37fa-4f93-b54b-486b49bdc69d" /><br/>
+
+## Step 05 Create Web App in Azure Portal to deploy the MCP Server
+
+
+
