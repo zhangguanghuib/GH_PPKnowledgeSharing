@@ -14,3 +14,10 @@ Add an API Permission, choose the App Id created in the step 01, that is MCP Ser
 <img width="2471" height="1076" alt="image" src="https://github.com/user-attachments/assets/5a88072a-a1c0-4074-bdc6-de8f5cc58901" /><br/>
 Choose the mcp.invoke, and then click "Add permission"<br/>
 <img width="2467" height="1447" alt="image" src="https://github.com/user-attachments/assets/b3f24476-38cd-4c27-bb0b-aaf0bbb2c030" /><br/>
+Create client secret<br/>
+<img width="1647" height="965" alt="image" src="https://github.com/user-attachments/assets/aebc0dbe-9df8-4bfe-822b-d6884dbad992" /><br/>
+Copy the secret value:<br/>
+<img width="1987" height="1008" alt="image" src="https://github.com/user-attachments/assets/397d3f2c-db86-4e32-a6f1-5747b637bccc" /><br/>
+API Permission, grant admin consent:<br/>
+<img width="2182" height="1079" alt="image" src="https://github.com/user-attachments/assets/b9a5f974-85b8-47e7-9c96-be01b263af81" /><br/>
+
