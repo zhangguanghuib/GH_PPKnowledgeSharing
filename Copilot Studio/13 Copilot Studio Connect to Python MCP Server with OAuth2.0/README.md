@@ -20,7 +20,7 @@ Copy the secret value:<br/>
 <img width="1987" height="1008" alt="image" src="https://github.com/user-attachments/assets/397d3f2c-db86-4e32-a6f1-5747b637bccc" /><br/>
 API Permission, grant admin consent:<br/>
 <img width="2182" height="1079" alt="image" src="https://github.com/user-attachments/assets/b9a5f974-85b8-47e7-9c96-be01b263af81" /><br/>
-## Step 02  Go back to the MCP Server App, update the MCP Server App
+## Step 03  Go back to the MCP Server App, update the MCP Server App
 <img width="2205" height="1292" alt="image" src="https://github.com/user-attachments/assets/a002851b-a473-4c8e-aad2-5216989e99d4" /><br/>
 Add the Client Id:<br/>
 
