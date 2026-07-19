@@ -63,6 +63,9 @@ pip install -r requirements.txt && python server.py
 ```
 <img width="1796" height="1194" alt="image" src="https://github.com/user-attachments/assets/ea360cc9-2204-4168-9022-c73e37192fbe" /><br/>
 
+## Step 06 Deploy the code to Web App Service
+<img width="1734" height="1185" alt="image" src="https://github.com/user-attachments/assets/3d2b8cab-3a37-4023-85fe-25023218084e" /><br/>
+<img width="1903" height="1066" alt="image" src="https://github.com/user-attachments/assets/a0c8f7c5-b0b7-40d0-b2bb-f4a09d8303e4" /><br/>
 
 
 
