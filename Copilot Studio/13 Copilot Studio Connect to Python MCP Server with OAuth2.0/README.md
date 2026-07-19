@@ -83,7 +83,7 @@ https://login.microsoftonline.com/<tenant id>/oauth2/v2.0/token
 https://login.microsoftonline.com/<tenant id>/oauth2/v2.0/token
 api://<MCP Server App Id>/mcp.invoke
 ```
-<img width="1411" height="985" alt="image" src="https://github.com/user-attachments/assets/c0342138-40f3-4a72-8c6d-2c3c369ee939" /><br/>
+<img width="1050" height="947" alt="image" src="https://github.com/user-attachments/assets/07742495-9038-4203-9a25-d3c3231363a2" /><br/>
 
 ## Step 08,  update the reply URL for the Copilot MCP Client:
 Click "Create" button<br/>
