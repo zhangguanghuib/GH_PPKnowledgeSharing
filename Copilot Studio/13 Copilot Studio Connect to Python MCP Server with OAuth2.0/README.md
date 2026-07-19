@@ -6,7 +6,7 @@ Click "Register" to create the App for Copilot Studio MCP Server<br/>
 Expose an API->Add a scope <br/>
 <img width="2144" height="1438" alt="image" src="https://github.com/user-attachments/assets/0c89d193-2466-49a6-9f29-5bc537873d06" /><br/>
 Manifest:<br/>
-<img width="1622" height="1292" alt="image" src="https://github.com/user-attachments/assets/2f859a53-c81c-48c6-8ce3-8b8964ccab3c" /><br/>
+<img width="2400" height="1291" alt="image" src="https://github.com/user-attachments/assets/da344c21-f303-4771-8726-4deaed96aac6" />
 
 ## Step 02  Create App Registration for Copilot Client
 <img width="1381" height="1378" alt="image" src="https://github.com/user-attachments/assets/1d7072c1-4bda-4e3c-9c5f-644938dd9d80" /><br/>
