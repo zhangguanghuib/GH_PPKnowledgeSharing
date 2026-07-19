@@ -57,6 +57,11 @@ Create server.py<br/>
 Create Web App<br/>
 <img width="987" height="1003" alt="image" src="https://github.com/user-attachments/assets/912f9ae3-2591-4d7b-834e-dd8e9e7808c6" /><br/>
 <img width="1226" height="1382" alt="image" src="https://github.com/user-attachments/assets/624bdbb8-2c87-46ee-bed7-23bb1403aaac" /><br/>
+Once deployment is done:<br/>
+```
+pip install -r requirements.txt && python server.py
+```
+<img width="1796" height="1194" alt="image" src="https://github.com/user-attachments/assets/ea360cc9-2204-4168-9022-c73e37192fbe" /><br/>
 
 
 
