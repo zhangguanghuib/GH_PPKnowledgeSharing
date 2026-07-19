@@ -54,6 +54,10 @@ Create server.py<br/>
 <img width="2116" height="1174" alt="image" src="https://github.com/user-attachments/assets/9914bb55-37fa-4f93-b54b-486b49bdc69d" /><br/>
 
 ## Step 05 Create Web App in Azure Portal to deploy the MCP Server
+Create Web App<br/>
+<img width="987" height="1003" alt="image" src="https://github.com/user-attachments/assets/912f9ae3-2591-4d7b-834e-dd8e9e7808c6" /><br/>
+<img width="1226" height="1382" alt="image" src="https://github.com/user-attachments/assets/624bdbb8-2c87-46ee-bed7-23bb1403aaac" /><br/>
+
 
 
 
