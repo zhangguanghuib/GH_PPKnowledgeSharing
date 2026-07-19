@@ -1,6 +1,6 @@
 # Copilot Studio Connect to Python MCP Server with OAuth2.0
 
-## Step 01  Create App Registration for MCp Server
+## Step 01  Create App Registration for MCP Server
 <img width="1331" height="1452" alt="image" src="https://github.com/user-attachments/assets/c18369eb-3fda-48c0-b780-558d66cd8897" /><br/>
 Click "Register" to create the App for Copilot Studio MCP Server<br/>
 Expose an API->Add a scope <br/>
@@ -8,7 +8,7 @@ Expose an API->Add a scope <br/>
 Manifest:<br/>
 <img width="2400" height="1291" alt="image" src="https://github.com/user-attachments/assets/da344c21-f303-4771-8726-4deaed96aac6" />
 
-## Step 02  Create App Registration for Copilot Client
+## Step 02  Create App Registration for MCP Client
 <img width="1381" height="1378" alt="image" src="https://github.com/user-attachments/assets/1d7072c1-4bda-4e3c-9c5f-644938dd9d80" /><br/>
 Add an API Permission, choose the App Id created in the step 01, that is MCP Server App<br/>
 <img width="2471" height="1076" alt="image" src="https://github.com/user-attachments/assets/5a88072a-a1c0-4074-bdc6-de8f5cc58901" /><br/>
@@ -20,7 +20,7 @@ Copy the secret value:<br/>
 <img width="1987" height="1008" alt="image" src="https://github.com/user-attachments/assets/397d3f2c-db86-4e32-a6f1-5747b637bccc" /><br/>
 API Permission, grant admin consent:<br/>
 <img width="2182" height="1079" alt="image" src="https://github.com/user-attachments/assets/b9a5f974-85b8-47e7-9c96-be01b263af81" /><br/>
-## Go back to the MCP Server App
+## Step 02  Go back to the MCP Server App, update the MCP Server App
 <img width="2205" height="1292" alt="image" src="https://github.com/user-attachments/assets/a002851b-a473-4c8e-aad2-5216989e99d4" /><br/>
 Add the Client Id:<br/>
 
@@ -96,6 +96,18 @@ Create Connection:<br/>
 <img width="1546" height="1126" alt="image" src="https://github.com/user-attachments/assets/a2fdf62e-7285-48ad-a201-af2a4fa947b4" /><br/>
 <img width="1563" height="1132" alt="image" src="https://github.com/user-attachments/assets/5ac001a1-3d4b-4c06-9d20-a767a77e0bef" /><br/>
 <img width="1534" height="1126" alt="image" src="https://github.com/user-attachments/assets/1812d0af-cbbf-4fff-ac39-722fe47ac138" /><br/>
+
+You can see the MCP is loaded successfully<br/>
+<img width="1494" height="1275" alt="image" src="https://github.com/user-attachments/assets/c728b4c7-700b-41f0-9d5a-c3a31e3f9c66" /><br/>
+
+## Step 09, test the MCP tool in Copilot Studio<br/>
+```
+Please help add two numbers 9 and 8 with the tool 'MCP Demo 16'
+```
+<img width="2386" height="1104" alt="image" src="https://github.com/user-attachments/assets/30ad7eea-2168-4252-b4a6-470ab2249c7c" /><br/>
+
+Check the App Service Logs, and confirm the MCP Server is called successfully<br/>
+<img width="2409" height="1281" alt="image" src="https://github.com/user-attachments/assets/a1b41fe2-7512-4427-a7a5-bd770e734a6e" /><br/>
 
 
 
