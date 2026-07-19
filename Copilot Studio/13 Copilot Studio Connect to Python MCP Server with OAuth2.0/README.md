@@ -30,4 +30,7 @@ uv init
 uv venv
 .venv\Scripts\activate
 ```
-<img width="1963" height="1233" alt="image" src="https://github.com/user-attachments/assets/bfd71e78-5b9e-4671-994c-a32e641dfeb8" />
+<img width="1963" height="1233" alt="image" src="https://github.com/user-attachments/assets/bfd71e78-5b9e-4671-994c-a32e641dfeb8" /><br/>
+
+Create .env file:<br/>
+<img width="1588" height="638" alt="image" src="https://github.com/user-attachments/assets/98832507-8aaf-4a0f-b9c2-2b0fe89ad2fa" /><br/>
