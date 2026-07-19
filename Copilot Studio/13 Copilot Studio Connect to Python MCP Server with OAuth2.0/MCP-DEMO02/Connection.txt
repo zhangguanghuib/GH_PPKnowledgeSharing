@@ -1,0 +1,10 @@
+MCP Demo16
+MCP Demo16 with OAuth2.0 for testing purpose
+(Copilot Client Id)
+(Client Secret Value)
+https://copilotstudio-python-mcpserver-*****.australiaeast-01.azurewebsites.net/mcp
+https://login.microsoftonline.com/<Tenant Id>/oauth2/v2.0/authorize
+https://login.microsoftonline.com/<Tenant Id>/oauth2/v2.0/token
+https://login.microsoftonline.com/<Tenant Id>/oauth2/v2.0/token
+api://<MCP Server App Id>/mcp.invoke
+MCP Demo16 with OAuth2.0 Connection (Connection name)
