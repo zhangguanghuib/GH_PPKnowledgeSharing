@@ -1,5 +1,6 @@
 # Power Automate Server MCP Server
 
+1. Check the document and install Power Automate MCP Server
 https://github.com/microsoft/power-platform-skills/tree/main/plugins/power-automate <br/>
 
 Open GitHub CLI and install the Power Automate MCP Server<br/>
@@ -19,3 +20,5 @@ power automate mcp server
 ```
 You can see the CLI is asking what you are going to do:<br/>
 <img width="1004" height="575" alt="image" src="https://github.com/user-attachments/assets/0744cdf7-2c1d-42d1-889d-37af2a2c4a4e" /><br/>
+
+2. Logon to the current Power Platform environment<br/>
