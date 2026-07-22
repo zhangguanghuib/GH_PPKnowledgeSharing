@@ -28,7 +28,7 @@ You can see the CLI is asking what you are going to do:<br/>
 <img width="473" height="517" alt="image" src="https://github.com/user-attachments/assets/a3578257-f956-4136-8cf4-03d122cb2b00" /><br/>
 
 3. Logon to the current Power Platform environment<br/>
-If you faced the GitHub CLI Sessions logged on two other tenant like MACAPS tenant, you can input these prompt to let the session switch to your desired tenant + environment:
+If you faced the GitHub CLI Sessions logged on to other tenant like MACAPS tenant, you can input these prompt to let the session switch to your desired tenant + environment:
 ```
 please switch to this tenant <Your tenant Id>, power platform environment : <Your Power Platform Environment Id>, account: xxxx@<your domain name>.onmicrosoft.com
 ```
