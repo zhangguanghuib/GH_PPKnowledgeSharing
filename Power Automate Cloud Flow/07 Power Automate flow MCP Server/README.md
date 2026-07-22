@@ -21,4 +21,14 @@ power automate mcp server
 You can see the CLI is asking what you are going to do:<br/>
 <img width="1004" height="575" alt="image" src="https://github.com/user-attachments/assets/0744cdf7-2c1d-42d1-889d-37af2a2c4a4e" /><br/>
 
-2. Logon to the current Power Platform environment<br/>
+2. Double check the Power Automate MCP Server is installed<br/>
+```
+/mcp list
+```
+<img width="473" height="517" alt="image" src="https://github.com/user-attachments/assets/a3578257-f956-4136-8cf4-03d122cb2b00" /><br/>
+
+3. Logon to the current Power Platform environment<br/>
+If you faced the GitHub CLI Sessions logged on two other tenant like MACAPS tenant, you can input these prompt to let the session switch to your desired tenant + environment:
+```
+
+```
