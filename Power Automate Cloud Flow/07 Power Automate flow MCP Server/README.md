@@ -66,8 +66,8 @@ Microsoft Entra ID resource URI: https://service.powerapps.com/
    Power Automate Management connector to:
    <ul>
       <li>Get a flow: <li>
-      <li> Cancel a flow <li>
-      <li> Resubmit a flow <li>
+      <li>Cancel a flow <li>
+      <li>Resubmit a flow <li>
    </ul>
    
   <img width="961" height="996" alt="image" src="https://github.com/user-attachments/assets/44f3a04f-ca34-43f0-b7a2-7bf809e4bf45" />
