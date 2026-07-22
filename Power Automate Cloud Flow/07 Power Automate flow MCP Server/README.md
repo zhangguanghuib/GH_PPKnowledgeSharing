@@ -52,7 +52,7 @@ Check the original flow, and confirm its long running flow runs got cancelled<br
 <img width="2165" height="1541" alt="image" src="https://github.com/user-attachments/assets/89b3bfc4-500c-4494-ab58-ea422f73df53" /><br/>
 
 6. Some points we may be careful:<br/>
-
+Please check more details of this connectors<br/>
 We need create this connection when send HTTP request to retreive flow run status:<br/>
 <img width="1388" height="186" alt="image" src="https://github.com/user-attachments/assets/c4994bc7-e1bb-43b9-abb7-129191e640ee" /><br/>
 ```
@@ -61,7 +61,15 @@ Microsoft Entra ID resource URI: https://service.powerapps.com/
 ```
 <img width="1524" height="1130" alt="image" src="https://github.com/user-attachments/assets/de93bb72-b888-4c6a-a6e2-859f0a199972" /><br/>
 
+7.  For cancel a flow run, we can use the existing connectors<br/>
 
+   Power Automate Management connector to:
+  . Get a flow:
+  . Cancel a flow。
+  . Resubmit a flow
+   
+  <img width="961" height="996" alt="image" src="https://github.com/user-attachments/assets/44f3a04f-ca34-43f0-b7a2-7bf809e4bf45" />
+  
 
 
 
