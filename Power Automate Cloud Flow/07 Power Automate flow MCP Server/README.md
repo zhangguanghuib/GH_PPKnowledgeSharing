@@ -73,6 +73,8 @@ Microsoft Entra ID resource URI: https://service.powerapps.com/
   <img width="961" height="996" alt="image" src="https://github.com/user-attachments/assets/44f3a04f-ca34-43f0-b7a2-7bf809e4bf45" />
   
  And don't need build the full url for flow run cancellation and resubmit<br/>
+ <img width="1324" height="1155" alt="image" src="https://github.com/user-attachments/assets/93a70552-8ee9-4180-bd5b-b047070c68a8" /><br/>
+
  
 
 
