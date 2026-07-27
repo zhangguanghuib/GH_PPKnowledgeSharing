@@ -9,4 +9,15 @@ There are 3 ways to get active users for Power Automate Premium License(Because 
 
 ## 2.  Run Power Shell Script:
 
-
+```ps
+# One-time install
+Install-Module Microsoft.Graph -Scope CurrentUser
+# Connect with least-privilege scopes
+Connect-MgGraph -Scopes "User.Read.All","Directory.Read.All"
+# --- 1) Which SKUs are present in this tenant? --
+Get-MgSubscribedSku -All |
+    Select-Object SkuPartNumber, SkuId,
+                  ConsumedUnits,
+                  @{n='Enabled'; e={$_.PrepaidUnits.Enabled}} |
+    Sort-Object SkuPartNumber
+```
