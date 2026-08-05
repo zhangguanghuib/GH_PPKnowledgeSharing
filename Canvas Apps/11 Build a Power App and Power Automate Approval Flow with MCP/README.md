@@ -43,3 +43,8 @@ Build the app based on the 'Office Visits' SharePoint list.
 
 Check the code of "Book Visit", it looks like this: <br/>
 <img width="2441" height="1291" alt="image" src="https://github.com/user-attachments/assets/0918dcf6-e5c0-4e9b-a09f-b4ba2026f7e4" /><br/>
+
+### 7, Set the Status with default value pending <br/>
+```
+default the status to Pending for all new bookings
+```
