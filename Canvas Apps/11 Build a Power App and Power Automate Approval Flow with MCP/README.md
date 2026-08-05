@@ -48,5 +48,10 @@ Check the code of "Book Visit", it looks like this: <br/>
 ```
 default the status to Pending for all new bookings
 ```
+### 8. Support the Location Column
+```
+I found the "Location" column is missing in the Canvas App, could you please add this column to the App?
+```
+
 <br/><img width="1619" height="1101" alt="image" src="https://github.com/user-attachments/assets/194c362a-d746-4496-884f-55400e0cf36e" /><br/>
 
