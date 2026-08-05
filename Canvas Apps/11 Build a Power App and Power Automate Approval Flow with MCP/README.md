@@ -60,6 +60,9 @@ But I found when "book I found the "Location" column is missing in the Canvas Ap
 ```
 Please see the screenshot, [image: copilot-image-65ac60.png],  the Location is still not in there when book a new visit?
 ```
+```
+Now the location is visible, but the Title is invisible, can you please help fix it?
+```
 
 
 
