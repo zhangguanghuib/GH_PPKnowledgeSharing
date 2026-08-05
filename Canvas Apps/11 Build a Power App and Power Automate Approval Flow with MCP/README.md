@@ -69,5 +69,7 @@ Create a cloud flow with a Power Apps trigger that accepts visit title, date, an
 ```
 If the agent asked the SharePoint URL, just provide it.<br/>
 Finally you can see the Power Automate Cloud flow is created<br/>
+<img width="1300" height="316" alt="image" src="https://github.com/user-attachments/assets/5ea659d9-99b2-4520-bffa-f61d815ef456" /><br/>
+
 <img width="1942" height="1257" alt="image" src="https://github.com/user-attachments/assets/502a0b18-06b8-4623-b780-0c2eeead63c3" /><br/>
 
