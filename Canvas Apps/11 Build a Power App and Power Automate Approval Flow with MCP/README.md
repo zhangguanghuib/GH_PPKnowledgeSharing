@@ -63,6 +63,8 @@ Please see the screenshot, [image: copilot-image-65ac60.png],  the Location is s
 ```
 Now the location is visible, but the Title is invisible, can you please help fix it?
 ```
+### 9. The location field is still not working when submit the form<br/>
+<img width="2303" height="1066" alt="image" src="https://github.com/user-attachments/assets/98c94f49-8576-4eda-8486-a34ad652d934" /><br/>
 
 
 
