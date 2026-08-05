@@ -26,3 +26,7 @@ https://github.com/microsoft/power-platform-skills/tree/main
 ```
 canvas app mcp https://make.powerapps.com/e/5e61b5c4-120e-e1fb-9fee-3073d48f0e86/canvas?action=edit&form-factor=tablet&app-id=%2Fproviders%2FMicrosoft.PowerApps%2Fapps%2Fd3d539b8-621a-4aa7-8956-6aa556a4bb67
 ```
+Then
+```
+Build the app based on the 'Office Visits' SharePoint list. One screen: a gallery showing my upcoming visits sorted by date, and a form to book a new visit. Modern controls.
+```
