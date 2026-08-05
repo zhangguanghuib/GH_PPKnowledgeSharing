@@ -57,6 +57,9 @@ I found the "Location" column is missing in the Canvas App, could you please add
 ```
 But I found when "book I found the "Location" column is missing in the Canvas App, could you please add this column to the App
 ```
+```
+Please see the screenshot, [image: copilot-image-65ac60.png],  the Location is still not in there when book a new visit?
+```
 
 
 
