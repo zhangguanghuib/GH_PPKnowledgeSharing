@@ -34,3 +34,6 @@ Build the app based on the 'Office Visits' SharePoint list.
  and a form to book a new visit. Modern controls.
 ```
 <img width="1613" height="599" alt="image" src="https://github.com/user-attachments/assets/637a9179-fe38-4f9f-8288-f106e3201478" /><br/>
+
+#### 5.  The App content is lost, using the below prompt to push the code again
+<img width="1562" height="144" alt="image" src="https://github.com/user-attachments/assets/22d18015-a3ed-40c8-a589-4f6c67194aac" /><br/>
