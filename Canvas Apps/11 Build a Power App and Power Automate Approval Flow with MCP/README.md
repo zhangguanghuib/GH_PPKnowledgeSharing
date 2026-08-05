@@ -56,7 +56,18 @@ I have update the SharePoint List, make the Location column as a Choice Column, 
 ```
 Now the App Works:<br/>
 <img width="2415" height="1366" alt="image" src="https://github.com/user-attachments/assets/8322ddf3-7285-457d-ad20-d029785edddd" /><br/>
+```
+For each item in the gallery, please show its Status, like Pending, Confirmed, Declined
+```
+```
+Can you please double confirm if you have added Status to the Gallery item?  I did not see the Status for each gallery item
+```
 
-
-
+### 9, Build the flow:
+```
+Create a cloud flow with a Power Apps trigger that accepts visit title, date, and location. Send an approval to mailto:guazha@dynamicsftegcr.onmicrosoft.com. If approved, update the item's Status to Confirmed; if rejected, set Declined. Notify the requester by email either way.
+```
+If the agent asked the SharePoint URL, just provide it.<br/>
+Finally you can see the Power Automate Cloud flow is created<br/>
+<img width="1942" height="1257" alt="image" src="https://github.com/user-attachments/assets/502a0b18-06b8-4623-b780-0c2eeead63c3" /><br/>
 
