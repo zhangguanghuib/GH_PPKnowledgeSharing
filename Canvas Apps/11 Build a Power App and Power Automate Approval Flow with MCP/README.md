@@ -9,3 +9,6 @@
 | Office Location | Location |
 | Visitor | Person or Group |
 | Status | Choice |
+
+### 2. Create a new Canvas App and enable the Co-Authoring
+<img width="2076" height="1274" alt="image" src="https://github.com/user-attachments/assets/8df6bd2b-4532-427c-bf29-15008eb6cc91" />
