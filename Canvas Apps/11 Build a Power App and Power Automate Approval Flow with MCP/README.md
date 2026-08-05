@@ -37,3 +37,6 @@ Build the app based on the 'Office Visits' SharePoint list.
 
 #### 5.  The App content is lost, using the below prompt to push the code again
 <img width="1562" height="144" alt="image" src="https://github.com/user-attachments/assets/22d18015-a3ed-40c8-a589-4f6c67194aac" /><br/>
+
+#### 6. Finally we got this app built <br/>
+<img width="2463" height="1452" alt="image" src="https://github.com/user-attachments/assets/8c69d79b-a066-4735-bf59-951e2eab5e52" /><br/>
