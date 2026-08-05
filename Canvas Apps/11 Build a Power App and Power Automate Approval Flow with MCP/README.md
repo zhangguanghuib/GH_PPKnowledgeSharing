@@ -15,3 +15,8 @@
 
 Create connections and add to this App <br/>
 <img width="2441" height="849" alt="image" src="https://github.com/user-attachments/assets/e834ee90-dd6b-4edb-a46c-40a649037f9c" /><br/>
+
+### 3. Check and install these plugin and skills
+```
+https://github.com/microsoft/power-platform-skills/tree/main
+```
