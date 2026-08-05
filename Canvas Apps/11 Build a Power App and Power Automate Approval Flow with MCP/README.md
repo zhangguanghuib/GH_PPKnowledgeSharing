@@ -40,3 +40,6 @@ Build the app based on the 'Office Visits' SharePoint list.
 
 #### 6. Finally we got this app built <br/>
 <img width="2463" height="1452" alt="image" src="https://github.com/user-attachments/assets/8c69d79b-a066-4735-bf59-951e2eab5e52" /><br/>
+
+Check the code of "Book Visit", it looks like this: <br/>
+<img width="2441" height="1291" alt="image" src="https://github.com/user-attachments/assets/0918dcf6-e5c0-4e9b-a09f-b4ba2026f7e4" /><br/>
