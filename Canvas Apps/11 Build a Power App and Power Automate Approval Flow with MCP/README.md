@@ -48,5 +48,5 @@ Check the code of "Book Visit", it looks like this: <br/>
 ```
 default the status to Pending for all new bookings
 ```
-<img width="1619" height="1101" alt="image" src="https://github.com/user-attachments/assets/194c362a-d746-4496-884f-55400e0cf36e" /><br/>
+<br/><img width="1619" height="1101" alt="image" src="https://github.com/user-attachments/assets/194c362a-d746-4496-884f-55400e0cf36e" /><br/>
 
