@@ -54,7 +54,8 @@ default the status to Pending for all new bookings
 ```
 I have update the SharePoint List, make the Location column as a Choice Column, can you please update the Canvas App based on the new schema of the SharePoint List?
 ```
-
+Now the App Works:<br/>
+![Uploading image.png…]()
 
 
 
