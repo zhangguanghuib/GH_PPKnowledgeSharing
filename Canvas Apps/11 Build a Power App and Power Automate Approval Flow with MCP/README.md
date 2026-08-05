@@ -20,3 +20,9 @@ Create connections and add to this App <br/>
 ```
 https://github.com/microsoft/power-platform-skills/tree/main
 ```
+<img width="2490" height="1047" alt="image" src="https://github.com/user-attachments/assets/768365d0-59a4-452a-8349-f30830aa3097" /><br/>
+
+### 4.  Use GitHub Copilot to build Canvas App
+```
+canvas app mcp https://make.powerapps.com/e/5e61b5c4-120e-e1fb-9fee-3073d48f0e86/canvas?action=edit&form-factor=tablet&app-id=%2Fproviders%2FMicrosoft.PowerApps%2Fapps%2Fd3d539b8-621a-4aa7-8956-6aa556a4bb67
+```
