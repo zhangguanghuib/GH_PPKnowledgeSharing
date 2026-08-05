@@ -52,19 +52,9 @@ default the status to Pending for all new bookings
 
 ### 8. Support the Location Column
 ```
-I found the "Location" column is missing in the Canvas App, could you please add this column to the App?
+I have update the SharePoint List, make the Location column as a Choice Column, can you please update the Canvas App based on the new schema of the SharePoint List?
 ```
-```
-But I found when "book I found the "Location" column is missing in the Canvas App, could you please add this column to the App
-```
-```
-Please see the screenshot, [image: copilot-image-65ac60.png],  the Location is still not in there when book a new visit?
-```
-```
-Now the location is visible, but the Title is invisible, can you please help fix it?
-```
-### 9. The location field is still not working when submit the form<br/>
-<img width="2303" height="1066" alt="image" src="https://github.com/user-attachments/assets/98c94f49-8576-4eda-8486-a34ad652d934" /><br/>
+
 
 
 
