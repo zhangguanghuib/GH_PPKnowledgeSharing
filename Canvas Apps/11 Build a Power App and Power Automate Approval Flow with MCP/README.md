@@ -77,4 +77,80 @@ Finally you can see the Power Automate Cloud flow is created<br/>
 ```
 I have added the Power Automate flow to the Canvas App, and please call Power Automate flow from the OnSelect of button "Book visit", and pass the "Visit Title", "Location", "Visit date", and Item Id to the Power Automate Flow, Item Id can be from Patch function returned result, and in the meanwhile the Power Automate Flow trigger parameters should add a new parameter that is the Item Id.
 ```
+```
+After the Power Automate Flow is called, please send user an notification to show the Approval has been sent out, and for the Canvas App,  don't need wait until the flow run returned.
+```
+Finally you can see the code in Canvas App
+```
+Set(varBookingSuccess, false);
+Set(varBookingError, "");
+If(
+    IsBlank(Trim(inpVisitTitleV3.Text)),
+    Set(varBookingError, "Enter a title for your visit."),
+    IsBlank(drpVisitLocationV4.Selected.Value),
+    Set(varBookingError, "Enter a location for your visit."),
+    IsBlank(dteVisitDateV3.SelectedDate) ||
+        dteVisitDateV3.SelectedDate < Today(),
+    Set(varBookingError, "Choose today or a future date."),
+    Set(varIsSubmitting, true);
+    IfError(
+        Set(
+            varNewVisit,
+            Patch(
+                'Office Visits',
+                Defaults('Office Visits'),
+                {
+                    Title: Trim(inpVisitTitleV3.Text),
+                    Location: drpVisitLocationV4.Selected,
+                    VisitDate: dteVisitDateV3.SelectedDate,
+                    Status: {Value: "Pending"},
+                    Visitor: {
+                        Claims: "i:0#.f|membership|" & Lower(User().Email),
+                        Department: "",
+                        DisplayName: User().FullName,
+                        Email: User().Email,
+                        JobTitle: "",
+                        Picture: ""
+                    }
+                }
+            )
+        );
+        OfficeVisitApprovalfromPowerApps.Run(
+            Trim(inpVisitTitleV3.Text),
+            Text(dteVisitDateV3.SelectedDate, "yyyy-mm-dd"),
+            drpVisitLocationV4.Selected.Value,
+            varNewVisit.ID
+        );
+        Notify(
+            "Your visit was booked and the approval request has been sent.",
+            NotificationType.Success,
+            5000
+        ),
+        Set(varBookingError, FirstError.Message);
+        Set(varIsSubmitting, false),
+        Refresh('Office Visits');
+        Reset(inpVisitTitleV3);
+        Reset(drpVisitLocationV4);
+        Reset(dteVisitDateV3);
+        Set(varIsSubmitting, false);
+        Set(varBookingSuccess, true)
+    )
+)
+```
+And the Power Automate flow is like:<br/>
+<img width="1928" height="1165" alt="image" src="https://github.com/user-attachments/assets/ec2fe7c6-776b-4342-a593-6adc0b050601" /><br/>
+
+### 10, Test the App
+<img width="2450" height="1445" alt="image" src="https://github.com/user-attachments/assets/5d55f83b-52d2-4876-86aa-96e310e616fc" /><br/>
+
+Received the approval:<br/>
+
+See the cloud flow is executed successfully<br/>
+<img width="1320" height="1158" alt="image" src="https://github.com/user-attachments/assets/21c2b9bc-ac09-40c8-978a-4d390c62e9ba" /><br/>
+
+Go Back to check the SharePoint List<br/>
+<img width="1536" height="778" alt="image" src="https://github.com/user-attachments/assets/26b2463b-e721-4da4-8281-c7ae23af21fc" /><br/>
+
+Everything looks good.
+
 
