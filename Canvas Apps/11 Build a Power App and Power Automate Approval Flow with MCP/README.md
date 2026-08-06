@@ -73,3 +73,8 @@ Finally you can see the Power Automate Cloud flow is created<br/>
 
 <img width="1942" height="1257" alt="image" src="https://github.com/user-attachments/assets/502a0b18-06b8-4623-b780-0c2eeead63c3" /><br/>
 
+### 10, Add the Power Automate flow to Power App
+```
+I have added the Power Automate flow to the Canvas App, and please call Power Automate flow from the OnSelect of button "Book visit", and pass the "Visit Title", "Location", "Visit date", and Item Id to the Power Automate Flow, Item Id can be from Patch function returned result, and in the meanwhile the Power Automate Flow trigger parameters should add a new parameter that is the Item Id.
+```
+
