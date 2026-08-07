@@ -63,7 +63,7 @@ For each item in the gallery, please show its Status, like Pending, Confirmed, D
 Can you please double confirm if you have added Status to the Gallery item?  I did not see the Status for each gallery item
 ```
 
-### 9, Build the flow:
+### 9. Build the flow:
 ```
 Create a cloud flow with a Power Apps trigger that accepts visit title, date, and location. Send an approval to mailto:guazha@dynamicsftegcr.onmicrosoft.com. If approved, update the item's Status to Confirmed; if rejected, set Declined. Notify the requester by email either way.
 ```
@@ -73,7 +73,7 @@ Finally you can see the Power Automate Cloud flow is created<br/>
 
 <img width="1942" height="1257" alt="image" src="https://github.com/user-attachments/assets/502a0b18-06b8-4623-b780-0c2eeead63c3" /><br/>
 
-### 10, Add the Power Automate flow to Power App
+### 10. Add the Power Automate flow to Power App
 
 This step you many need manually add the Power Automate flow to the Canvas App<br/>
 <img width="2444" height="1209" alt="image" src="https://github.com/user-attachments/assets/5df8c6d2-1230-446e-8181-d4958470192d" />
@@ -145,7 +145,7 @@ If(
 And the Power Automate flow is like:<br/>
 <img width="1928" height="1165" alt="image" src="https://github.com/user-attachments/assets/ec2fe7c6-776b-4342-a593-6adc0b050601" /><br/>
 
-### 10, Test the App
+### 11. Test the App
 <img width="2450" height="1445" alt="image" src="https://github.com/user-attachments/assets/5d55f83b-52d2-4876-86aa-96e310e616fc" /><br/>
 
 Received the approval:<br/>
@@ -158,7 +158,7 @@ Go Back to check the SharePoint List<br/>
 
 Everything looks good.
 
-### 11, Add a refresh button <br/>
+### 12. Add a refresh button <br/>
 ```text
 For the Canvas App in the Studio, please add a button,when click the "Refresh" button, the data in the galley will be
 refreshed, the Canvas App is in this Studio: https://make.powerapps.com/e/5e61b5c4-120e-e1fb-9fee-3073d48f0e86/canvas/?action=edit&app-id=%2Fproviders%2FMicrosoft.PowerApps%2Fapps%2Fd3d539b8-621a-4aa7-8956-6aa556a4bb67
