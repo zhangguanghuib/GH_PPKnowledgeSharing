@@ -158,4 +158,8 @@ Go Back to check the SharePoint List<br/>
 
 Everything looks good.
 
-
+### 11, Add a refresh button <br/>
+```text
+For the Canvas App in the Studio, please add a button,when click the "Refresh" button, the data in the galley will be
+refreshed
+```
