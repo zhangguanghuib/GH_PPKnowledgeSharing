@@ -161,5 +161,5 @@ Everything looks good.
 ### 11, Add a refresh button <br/>
 ```text
 For the Canvas App in the Studio, please add a button,when click the "Refresh" button, the data in the galley will be
-refreshed
+refreshed, the Canvas App is in this Studio: https://make.powerapps.com/e/5e61b5c4-120e-e1fb-9fee-3073d48f0e86/canvas/?action=edit&app-id=%2Fproviders%2FMicrosoft.PowerApps%2Fapps%2Fd3d539b8-621a-4aa7-8956-6aa556a4bb67
 ```
