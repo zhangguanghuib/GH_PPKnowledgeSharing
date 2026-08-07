@@ -163,3 +163,10 @@ Everything looks good.
 For the Canvas App in the Studio, please add a button,when click the "Refresh" button, the data in the galley will be
 refreshed, the Canvas App is in this Studio: https://make.powerapps.com/e/5e61b5c4-120e-e1fb-9fee-3073d48f0e86/canvas/?action=edit&app-id=%2Fproviders%2FMicrosoft.PowerApps%2Fapps%2Fd3d539b8-621a-4aa7-8956-6aa556a4bb67
 ```
+<img width="2326" height="1347" alt="image" src="https://github.com/user-attachments/assets/37d4c127-14e6-4a9d-bc5a-f4f9501be0ca" /> <br/>
+
+### 13. Some time the MCP claimed the code has been updated, but when you refresh the App you will find the changes did not take place, or you want to manually add some control and code, you can ask agent like bellow:
+```text
+I add an icon on the screen, could you please show me the code if the Icon is clicked, the btnButton.OnSelect will be called?
+```
+<img width="1262" height="281" alt="image" src="https://github.com/user-attachments/assets/8af4babc-d3dc-4503-bf33-28b7984dd455" />
