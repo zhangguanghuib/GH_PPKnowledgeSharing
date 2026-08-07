@@ -1,4 +1,6 @@
 
+# Sample of Developing Canvas App and Power Automate Cloud flow with Canvas App MCP and Power Automate MCP
+
 ### 1. Build a SharePoint List as below
 
 <img width="1930" height="482" alt="image" src="https://github.com/user-attachments/assets/1c17985c-3eff-4bee-98af-bcf38ef1cee4" />
