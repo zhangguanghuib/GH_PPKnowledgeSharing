@@ -15,7 +15,7 @@ Paste the Token Endpoint to the html page, the placeholder as:<br/>
 
 3. Test the bot inside the webpage<br/>
 Click the bot icon<br/>
-<img width="2478" height="1487" alt="image" src="https://github.com/user-attachments/assets/b0e0c555-0693-4161-80c0-0726a1652828" /><br/>
+<img width="1899" height="1138" alt="image" src="https://github.com/user-attachments/assets/f5201ac3-c0b1-480f-86b3-44a56a279eef" /><br/>
 You can see the bot work properly:<br/>
 <img width="2473" height="1367" alt="image" src="https://github.com/user-attachments/assets/1cc62c3b-9471-4a38-8e72-7d3820b62d66" /><br/>
 
