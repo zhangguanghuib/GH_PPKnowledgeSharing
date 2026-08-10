@@ -48,6 +48,9 @@ Copy the code:<br/>
 Paste the code to the chatbot<br/>
 <img width="777" height="1206" alt="image" src="https://github.com/user-attachments/assets/063392b9-3d71-4afe-bfb4-1f31b069cd30" /><br/>
 Then click send<br/>
+You can see the bot work properly:<br/>
+<img width="2446" height="1411" alt="image" src="https://github.com/user-attachments/assets/3f9f9b7c-a2a9-4626-8000-8df3c9cf07f0" />
+<br/>
 
 ## Reference:
 1. All the code can be found from:
@@ -58,6 +61,4 @@ Then click send<br/>
    https://github.com/zhangguanghuib/GH_PPKnowledgeSharing/tree/main/Copilot%20Studio/09%20Copilot%20Studio%20SSO
 3. If the Copilot Agent is public, i.e no authentication, its knowledge source should be public access like public website, otherwise you will get error during conversation with Copilot Agent.
 
-You can see the bot work properly:<br/>
-<img width="2446" height="1411" alt="image" src="https://github.com/user-attachments/assets/3f9f9b7c-a2a9-4626-8000-8df3c9cf07f0" />
-<br/>
+
