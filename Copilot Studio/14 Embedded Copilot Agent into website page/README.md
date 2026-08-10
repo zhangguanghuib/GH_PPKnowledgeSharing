@@ -26,12 +26,12 @@ You can see the bot work properly:<br/>
 <img width="1727" height="1396" alt="image" src="https://github.com/user-attachments/assets/d63b2a3e-358d-4fd2-bf02-643a175890f1" />
 
 2. In the same Copilot Studio Agent =>Channels => Direct
-<img width="1629" height="1232" alt="image" src="https://github.com/user-attachments/assets/dd1c6b0c-a52e-452e-ace1-6897a8162ba0" /><br/>
+<img width="2428" height="1167" alt="image" src="https://github.com/user-attachments/assets/c5e07429-bbd1-4526-b3de-d1ed54919fc8" /><br/>
 Copy the "Token Endpoint":<br/>
-<img width="2424" height="975" alt="image" src="https://github.com/user-attachments/assets/81326106-98fa-4b0a-9723-be890f1e4cfc" /><br/>
+<img width="2477" height="1401" alt="image" src="https://github.com/user-attachments/assets/56077f9d-5c34-4108-aeb3-46749b7b8325" /><br/>
 
 Paste the Token Endpoint to the html page, the placeholder as:<br/>
-<img width="2409" height="1229" alt="image" src="https://github.com/user-attachments/assets/9c30d2e9-98f7-4e51-8ebb-f368c8f4fb93" /><br/>
+<img width="2371" height="1415" alt="image" src="https://github.com/user-attachments/assets/a814fcd9-8d62-471d-a64a-99e57d2156df" /><br/>
 
 3. Test the bot inside the webpage<br/>
 Click the bot icon<br/>
