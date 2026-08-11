@@ -35,3 +35,7 @@ Double check public access is enabled<br/>
 You can see the files can be uploaded successfully<br/>
 <img width="2419" height="517" alt="image" src="https://github.com/user-attachments/assets/7ed459b9-ea15-4204-aa6e-956d9c2791ed" /><br/>
 
+## Additional information
+
+This is the vNet I created, nothing special:<br/>
+<img width="2076" height="1155" alt="image" src="https://github.com/user-attachments/assets/056cb9f9-06c6-416b-b03c-5efbb2ec6cf4" />
