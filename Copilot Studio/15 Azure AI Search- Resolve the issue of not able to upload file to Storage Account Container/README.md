@@ -30,3 +30,8 @@ Double check public access is enabled<br/>
    Select users<br/>
    <img width="1934" height="1385" alt="image" src="https://github.com/user-attachments/assets/f813851a-e66c-4b34-bc08-d5e523538eae" /><br/>
    Click next until "Review and Assign"<br/>
+## Verify
+<img width="2481" height="1302" alt="image" src="https://github.com/user-attachments/assets/47af7748-6063-4d9b-852d-d5b357eeb8b8" /><br/>
+You can see the files can be uploaded successfully<br/>
+<img width="2419" height="517" alt="image" src="https://github.com/user-attachments/assets/7ed459b9-ea15-4204-aa6e-956d9c2791ed" /><br/>
+
