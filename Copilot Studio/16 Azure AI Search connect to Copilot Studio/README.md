@@ -69,6 +69,7 @@ Choose all models, and then text-embedding-3-large<br/>
 <img width="2421" height="1335" alt="image" src="https://github.com/user-attachments/assets/cac03839-52cd-4374-a521-1962dae4da47" /><br/>
 
 <img width="2476" height="1204" alt="image" src="https://github.com/user-attachments/assets/3275f8eb-69b9-4edf-aa58-85df7ee7a135" /><br/>
+<img width="2470" height="1323" alt="image" src="https://github.com/user-attachments/assets/42bed868-45e6-4d8a-8d76-501e89a44670" /><br/>
 
 
 
