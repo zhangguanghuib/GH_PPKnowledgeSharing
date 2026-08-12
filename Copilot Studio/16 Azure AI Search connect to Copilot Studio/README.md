@@ -94,7 +94,11 @@ See the model is deployed succesfully.
    Find the ai search resource we just created<br/>
    <img width="2472" height="1130" alt="image" src="https://github.com/user-attachments/assets/9c0360a1-6e70-4faf-9b43-007e63398cce" /><br/>
    <img width="1388" height="1140" alt="image" src="https://github.com/user-attachments/assets/68637be0-14f5-4bf5-9962-c08a968c2bd6" /><br/>
-
+   Go back to Azure AI Search, now it worked:
+   <img width="1697" height="1412" alt="image" src="https://github.com/user-attachments/assets/e2a58629-57dd-4207-8ef9-6f1945112a11" /><br/>
+   Find the Foundry Project and the deployed model<br/>
+   <img width="1815" height="1398" alt="image" src="https://github.com/user-attachments/assets/a45b9260-352c-40ab-9bc3-eb1c8f3fa0e4" /><br/>
+   <img width="1874" height="1435" alt="image" src="https://github.com/user-attachments/assets/a8b2a2ac-3dd4-4e04-83ea-f97b3ec711bd" /><br/>
 
 
 
