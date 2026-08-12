@@ -91,7 +91,8 @@ See the model is deployed succesfully.
     Storage Blob Data Reader
    ```
    <img width="2385" height="602" alt="image" src="https://github.com/user-attachments/assets/85d31444-09cb-418c-8e88-ecaf1425db77" /><br/>
-
+   Find the ai search resource we just created<br/>
+   <img width="2472" height="1130" alt="image" src="https://github.com/user-attachments/assets/9c0360a1-6e70-4faf-9b43-007e63398cce" /><br/>
 
 
 
