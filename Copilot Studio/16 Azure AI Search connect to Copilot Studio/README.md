@@ -42,8 +42,14 @@ Add the two IP Addresses into :<br/>
 <img width="1607" height="1124" alt="image" src="https://github.com/user-attachments/assets/26c9afbb-0323-4b5b-a230-b55edca45192" /><br/>
 
 Then you will be able open the container and upload the file<br/>
-<img width="2416" height="560" alt="image" src="https://github.com/user-attachments/assets/a71ea3ed-67ae-4611-86aa-444203195703" />
+<img width="2416" height="560" alt="image" src="https://github.com/user-attachments/assets/a71ea3ed-67ae-4611-86aa-444203195703" /><br/>
 
-## 2.  Create Azure Open AI 
+## 2.  Create Azure AI Search
+Inside the same resource group, create Azure AI Search<br/>
+<img width="747" height="685" alt="image" src="https://github.com/user-attachments/assets/da4a5615-3f7f-46eb-8103-5de8bc386c87" /><br/>
+
+<img width="1393" height="947" alt="image" src="https://github.com/user-attachments/assets/4fe07beb-93e5-46da-926d-a7fc4aa8f669" /><br/>
+
+Click "Create" button<br/>
 
 
