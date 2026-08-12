@@ -71,7 +71,9 @@ Choose all models, and then text-embedding-3-large<br/>
 <img width="2476" height="1204" alt="image" src="https://github.com/user-attachments/assets/3275f8eb-69b9-4edf-aa58-85df7ee7a135" /><br/>
 <img width="2470" height="1323" alt="image" src="https://github.com/user-attachments/assets/42bed868-45e6-4d8a-8d76-501e89a44670" /><br/>
 
-See the model is deployed succesfully.
+See the model is deployed succesfully.<br/>
+<img width="2250" height="725" alt="image" src="https://github.com/user-attachments/assets/7f27d939-23da-4524-b3a0-cae4fc88674f" /><br/>
+
 
 ## 4 Import Document to Azure AI Search
 1. Go back to azure ai search, import data:<br/>
