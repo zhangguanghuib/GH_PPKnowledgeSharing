@@ -64,9 +64,13 @@ Click "New Foundry"<br/>
 <img width="2278" height="1341" alt="image" src="https://github.com/user-attachments/assets/8c5dccc3-9518-44d3-8c10-91952077d6f6" /><br/>
 
 Click deploy a base model<br/>
-<img width="2458" height="945" alt="image" src="https://github.com/user-attachments/assets/26a79486-c85f-4a35-a1ab-24c62fe2a3e8" /><br/>、
+<img width="2458" height="945" alt="image" src="https://github.com/user-attachments/assets/26a79486-c85f-4a35-a1ab-24c62fe2a3e8" /><br/>
 Choose all models, and then text-embedding-3-large<br/>
-![Uploading image.png…]()
+<img width="2421" height="1335" alt="image" src="https://github.com/user-attachments/assets/cac03839-52cd-4374-a521-1962dae4da47" /><br/>
+
+<img width="2476" height="1204" alt="image" src="https://github.com/user-attachments/assets/3275f8eb-69b9-4edf-aa58-85df7ee7a135" /><br/>
+
+
 
 
 
