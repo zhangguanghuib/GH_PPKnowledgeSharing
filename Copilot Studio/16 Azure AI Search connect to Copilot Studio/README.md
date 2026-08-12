@@ -52,7 +52,7 @@ Inside the same resource group, create Azure AI Search<br/>
 
 Click "Create" button<br/>
 
-# 3. Create Azure Open AI
+## 3. Create Azure Open AI
 Create Azure Open AI Resource:<br/>
 <img width="789" height="654" alt="image" src="https://github.com/user-attachments/assets/44413d71-88b2-4087-a29f-d6a9f3a4a055" /><br/>
 <img width="1129" height="1093" alt="image" src="https://github.com/user-attachments/assets/4002d566-5023-4efb-a889-6ad969a54bc3" /><br/>
@@ -71,6 +71,14 @@ Choose all models, and then text-embedding-3-large<br/>
 <img width="2476" height="1204" alt="image" src="https://github.com/user-attachments/assets/3275f8eb-69b9-4edf-aa58-85df7ee7a135" /><br/>
 <img width="2470" height="1323" alt="image" src="https://github.com/user-attachments/assets/42bed868-45e6-4d8a-8d76-501e89a44670" /><br/>
 
+See the model is deployed succesfully.
+
+## 4 Import Document to Azure AI Search
+1. Go back to azure ai search, import data:<br/>
+<img width="2127" height="1234" alt="image" src="https://github.com/user-attachments/assets/dc5cd1cc-2c67-4cd6-8e95-9f44619ba864" /><br/>
+<img width="2242" height="582" alt="image" src="https://github.com/user-attachments/assets/37dba257-bcfa-44d5-a1f2-051963e19b4e" /><br/>
+<img width="1286" height="340" alt="image" src="https://github.com/user-attachments/assets/b9dbc193-fa37-48cd-89ad-c4b82125544e" /><br/>
+<img width="1526" height="728" alt="image" src="https://github.com/user-attachments/assets/2c6757ad-525d-44ed-b5d3-d5d958c97937" /><br/>
 
 
 
