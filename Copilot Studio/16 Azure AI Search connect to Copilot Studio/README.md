@@ -52,4 +52,24 @@ Inside the same resource group, create Azure AI Search<br/>
 
 Click "Create" button<br/>
 
+# 3. Create Azure Open AI
+Create Azure Open AI Resource:<br/>
+<img width="789" height="654" alt="image" src="https://github.com/user-attachments/assets/44413d71-88b2-4087-a29f-d6a9f3a4a055" /><br/>
+<img width="1129" height="1093" alt="image" src="https://github.com/user-attachments/assets/4002d566-5023-4efb-a889-6ad969a54bc3" /><br/>
+<img width="876" height="664" alt="image" src="https://github.com/user-attachments/assets/1284c621-cf31-4094-a1f8-c8d35427a80a" /><br/>
+Wait until the deployment is done<br/>
+<img width="1864" height="1205" alt="image" src="https://github.com/user-attachments/assets/2d01f032-8750-4118-892a-fdf40c34b120" /><br/>
+Click go to foundry portal <br/>
+Click "New Foundry"<br/>
+<img width="2278" height="1341" alt="image" src="https://github.com/user-attachments/assets/8c5dccc3-9518-44d3-8c10-91952077d6f6" /><br/>
+
+Click deploy a base model<br/>
+<img width="2458" height="945" alt="image" src="https://github.com/user-attachments/assets/26a79486-c85f-4a35-a1ab-24c62fe2a3e8" /><br/>、
+Choose all models, and then text-embedding-3-large<br/>
+![Uploading image.png…]()
+
+
+
+
+
 
