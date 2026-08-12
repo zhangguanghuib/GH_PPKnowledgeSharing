@@ -1,4 +1,7 @@
-<img width="2398" height="791" alt="image" src="https://github.com/user-attachments/assets/6326db64-67dd-417c-96d8-c8575861d4a7" /><img width="2451" height="810" alt="image" src="https://github.com/user-attachments/assets/efbf06e9-2064-45ef-aca0-12c4151f6ffc" /><img width="1322" height="608" alt="image" src="https://github.com/user-attachments/assets/2ed40b94-58fb-4090-8f6b-3a02e21f7518" /># Azure AI Search connected to Copilot Studio
+# Azure AI Search connected to Copilot Studio
+<img width="2398" height="791" alt="image" src="https://github.com/user-attachments/assets/6326db64-67dd-417c-96d8-c8575861d4a7" />
+<img width="2451" height="810" alt="image" src="https://github.com/user-attachments/assets/efbf06e9-2064-45ef-aca0-12c4151f6ffc" />
+<img width="1322" height="608" alt="image" src="https://github.com/user-attachments/assets/2ed40b94-58fb-4090-8f6b-3a02e21f7518" />
 
 ## 0.  Create Resource Group:
 <img width="931" height="499" alt="image" src="https://github.com/user-attachments/assets/22ac00fb-b724-4e7c-9b08-e1b01519d805" /><br/>
@@ -133,3 +136,37 @@ Cognitive Services OpenAI User
 <img width="2491" height="913" alt="image" src="https://github.com/user-attachments/assets/b278b574-f461-4dc5-8d46-9a08ed85b308" /><br/>
 Find the Azure AI Search Resource, complete assignment<br/>
 <img width="2460" height="1441" alt="image" src="https://github.com/user-attachments/assets/f2e2d741-1920-49b3-aaf8-362010a3b6d7" /><br/>
+Reset and Rerun the Index, you can see it can be successful<br/>
+<img width="2417" height="744" alt="image" src="https://github.com/user-attachments/assets/0d9c7e52-f48a-46b7-b634-953c55eee670" /><br/>
+
+6. Go to search explorer again:
+   <img width="2222" height="1249" alt="image" src="https://github.com/user-attachments/assets/d0a73b12-a6e2-4bf6-920f-0514c47ea3ff" /><br/>
+   Ask the same question, but got the same error:<br/>
+   <img width="1682" height="1036" alt="image" src="https://github.com/user-attachments/assets/b93ebf7c-de48-4290-8c9d-6e2d3a808207" /><br/>
+   Trouble shooting<br/>
+   As per document, we should wait around 20 -30 mins, then the issue auto-resolved<br/>
+   <img width="1390" height="1412" alt="image" src="https://github.com/user-attachments/assets/78238a9e-63d6-448e-83ff-43172856ebdb" /><br/>
+
+## 5 Connect Azure AI Search to Copilot Studio
+1. Get the Azure AI Search url from:
+   <img width="2215" height="909" alt="image" src="https://github.com/user-attachments/assets/d1005d22-e635-4f05-8042-34f5e8951464" /><br/>
+
+2. Get the API Key from:
+   <img width="1342" height="1173" alt="image" src="https://github.com/user-attachments/assets/37c30a7d-4e70-4bbb-9a0b-e3498b9d917d" /><br/>
+
+3. Create a Copilot Studio Agent, add "Knowledge Source", then click "Azure AI Search"
+   <img width="1952" height="1286" alt="image" src="https://github.com/user-attachments/assets/05b8cc37-5b59-4071-aa9e-93039cd2950d" /><br/>
+   <img width="1979" height="1322" alt="image" src="https://github.com/user-attachments/assets/af1470f2-812f-4c21-94ff-6bee7e0e2acd" /><br/>
+   <img width="1936" height="1278" alt="image" src="https://github.com/user-attachments/assets/7821b903-b0e8-4255-afb0-7d8c0af12968" /><br/>
+   <img width="2147" height="1234" alt="image" src="https://github.com/user-attachments/assets/0a1c6812-ec6e-46fb-a9ee-dba7cfc2cfe9" /><br/>
+
+4. Ask the Copilot Studio Agent with the same question:
+   ```
+   what is the maternity leave policy for new dads?
+   ```
+   See it worked<br/>
+   <img width="2320" height="1321" alt="image" src="https://github.com/user-attachments/assets/fe36bb4c-b0fb-49ab-8c70-cdea88869f84" /><br/>
+
+
+
+
