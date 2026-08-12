@@ -1,4 +1,4 @@
-<img width="1322" height="608" alt="image" src="https://github.com/user-attachments/assets/2ed40b94-58fb-4090-8f6b-3a02e21f7518" /># Azure AI Search connected to Copilot Studio
+<img width="2398" height="791" alt="image" src="https://github.com/user-attachments/assets/6326db64-67dd-417c-96d8-c8575861d4a7" /><img width="2451" height="810" alt="image" src="https://github.com/user-attachments/assets/efbf06e9-2064-45ef-aca0-12c4151f6ffc" /><img width="1322" height="608" alt="image" src="https://github.com/user-attachments/assets/2ed40b94-58fb-4090-8f6b-3a02e21f7518" /># Azure AI Search connected to Copilot Studio
 
 ## 0.  Create Resource Group:
 <img width="931" height="499" alt="image" src="https://github.com/user-attachments/assets/22ac00fb-b724-4e7c-9b08-e1b01519d805" /><br/>
@@ -100,6 +100,36 @@ See the model is deployed succesfully.
    <img width="1815" height="1398" alt="image" src="https://github.com/user-attachments/assets/a45b9260-352c-40ab-9bc3-eb1c8f3fa0e4" /><br/>
    <img width="1874" height="1435" alt="image" src="https://github.com/user-attachments/assets/a8b2a2ac-3dd4-4e04-83ea-f97b3ec711bd" /><br/>
 
+3. Verify search with this question:<br/>
+```
+what is the maternity leave policy for new dads?
+```
+But got this error:
+<img width="1564" height="1043" alt="image" src="https://github.com/user-attachments/assets/16b98658-765d-4b77-b668-12d0655cd4c0" /><br/>
 
+4. Trouble shooting:
+ Go to resource group, find the foundry project resource<br/>
+ <img width="1791" height="959" alt="image" src="https://github.com/user-attachments/assets/b4e40e9f-a5dc-484d-8424-e6b213f3b8cd" /><br/>
+ Open the Role Assignment:<br/>
+ Search this role<br/>
+ ```
+ Cognitive Services OpenAI User
+ ```
+<img width="2483" height="1022" alt="image" src="https://github.com/user-attachments/assets/4e1b07df-09ce-4a7c-b2f4-353a7cbf2499" /><br/>
 
+Go back to the Azure AI Search Resource, find the Indexer:<br/>
+<img width="2018" height="1246" alt="image" src="https://github.com/user-attachments/assets/c79dc731-f38b-4af4-a499-3f0de8994e96" /><br/>
 
+5. Reset and rerun the index<br/>
+But got the different error:<br/>
+<img width="2440" height="873" alt="image" src="https://github.com/user-attachments/assets/afb6d29d-8119-494e-b8f3-893c224c8ff5" /><br/>
+
+Go to Resource group, find the Foundry resource, not "Foundry Project":<br/>
+<img width="1792" height="850" alt="image" src="https://github.com/user-attachments/assets/f129f10e-6f92-4aac-af6e-59f550d21edd" /><br/>
+And a role assignment, find this role<br/>
+```
+Cognitive Services OpenAI User
+```
+<img width="2491" height="913" alt="image" src="https://github.com/user-attachments/assets/b278b574-f461-4dc5-8d46-9a08ed85b308" /><br/>
+Find the Azure AI Search Resource, complete assignment<br/>
+<img width="2460" height="1441" alt="image" src="https://github.com/user-attachments/assets/f2e2d741-1920-49b3-aaf8-362010a3b6d7" /><br/>
