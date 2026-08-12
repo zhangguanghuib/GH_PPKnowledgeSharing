@@ -44,5 +44,6 @@ Add the two IP Addresses into :<br/>
 Then you will be able open the container and upload the file<br/>
 <img width="2416" height="560" alt="image" src="https://github.com/user-attachments/assets/a71ea3ed-67ae-4611-86aa-444203195703" />
 
+## 2.  Create Azure Open AI 
 
 
