@@ -1,7 +1,4 @@
 # Azure AI Search connected to Copilot Studio
-<img width="2398" height="791" alt="image" src="https://github.com/user-attachments/assets/6326db64-67dd-417c-96d8-c8575861d4a7" />
-<img width="2451" height="810" alt="image" src="https://github.com/user-attachments/assets/efbf06e9-2064-45ef-aca0-12c4151f6ffc" />
-<img width="1322" height="608" alt="image" src="https://github.com/user-attachments/assets/2ed40b94-58fb-4090-8f6b-3a02e21f7518" />
 
 ## 0.  Create Resource Group:
 <img width="931" height="499" alt="image" src="https://github.com/user-attachments/assets/22ac00fb-b724-4e7c-9b08-e1b01519d805" /><br/>
