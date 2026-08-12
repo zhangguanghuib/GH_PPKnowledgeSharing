@@ -1,4 +1,4 @@
-# Azure AI Search connected to Copilot Studio
+<img width="1322" height="608" alt="image" src="https://github.com/user-attachments/assets/2ed40b94-58fb-4090-8f6b-3a02e21f7518" /># Azure AI Search connected to Copilot Studio
 
 ## 0.  Create Resource Group:
 <img width="931" height="499" alt="image" src="https://github.com/user-attachments/assets/22ac00fb-b724-4e7c-9b08-e1b01519d805" /><br/>
@@ -80,6 +80,17 @@ See the model is deployed succesfully.
 <img width="1286" height="340" alt="image" src="https://github.com/user-attachments/assets/b9dbc193-fa37-48cd-89ad-c4b82125544e" /><br/>
 <img width="1526" height="728" alt="image" src="https://github.com/user-attachments/assets/2c6757ad-525d-44ed-b5d3-d5d958c97937" /><br/>
 
+2. Trouble shooting, you may see this error:
+   <img width="1759" height="957" alt="image" src="https://github.com/user-attachments/assets/dcb358e0-8513-45b0-90c4-51a983926080" /><br/>
+   Firstly, find the ai search resource->Identity<br/>
+   Set “System Assigned ” = On, click save<br/>
+   <img width="1387" height="702" alt="image" src="https://github.com/user-attachments/assets/b30e5c98-ca14-4b15-8531-589e9168dabb" /><br/>
+
+   Go back to the storage account, add a role assignment, find the role:<br/>
+   ```
+    Storage Blob Data Reader
+   ```
+   <img width="2385" height="602" alt="image" src="https://github.com/user-attachments/assets/85d31444-09cb-418c-8e88-ecaf1425db77" /><br/>
 
 
 
