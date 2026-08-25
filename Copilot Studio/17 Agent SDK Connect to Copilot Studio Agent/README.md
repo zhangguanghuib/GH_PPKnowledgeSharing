@@ -16,6 +16,7 @@
 # Create Python Environment
 ```
 uv venv venvAgentSDK
- .\venvAgentSDK\Scripts\activate
-.\venvAgentSDK\Scripts\python.exe -m ensurepip --upgrade 
+.\venvAgentSDK\Scripts\activate
+.\venvAgentSDK\Scripts\python.exe -m ensurepip --upgrade
+.\venvAgentSDK\Scripts\python.exe -m pip install -r .\requirements.txt
 ```
