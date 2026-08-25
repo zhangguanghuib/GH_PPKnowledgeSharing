@@ -1,6 +1,6 @@
-# Reference
+# 0. Reference
 https://github.com/microsoft/Agents/blob/main/samples/python/copilotstudio-client/README.md
-# Create App
+# 1. Create App
 <img width="1290" height="763" alt="image" src="https://github.com/user-attachments/assets/9873866b-e8f5-4f28-bb7f-d3d857bc1b97" /><br/>
 
 <img width="2283" height="714" alt="image" src="https://github.com/user-attachments/assets/ccfe0b17-cd29-4872-91fa-78c327ec0990" /><br/>
@@ -15,10 +15,12 @@ https://github.com/microsoft/Agents/blob/main/samples/python/copilotstudio-clien
 
 <img width="1804" height="886" alt="image" src="https://github.com/user-attachments/assets/d08d7e97-0664-49b4-8384-2e8f50731312" /><br/>
 
-# Create Python Environment
+# 2. Create Python Environment
 ```
 uv venv venvAgentSDK
 .\venvAgentSDK\Scripts\activate
 .\venvAgentSDK\Scripts\python.exe -m ensurepip --upgrade
 .\venvAgentSDK\Scripts\python.exe -m pip install -r .\requirements.txt
 ```
+# 3. Run main.py
+<img width="1922" height="1363" alt="image" src="https://github.com/user-attachments/assets/8cf67651-7ae7-4c47-a491-cd688c8461d4" />
