@@ -12,3 +12,10 @@
 <img width="2364" height="1196" alt="image" src="https://github.com/user-attachments/assets/bfa3c301-a11c-489f-ab1e-60ee2fe236d5" /><br/>
 
 <img width="1804" height="886" alt="image" src="https://github.com/user-attachments/assets/d08d7e97-0664-49b4-8384-2e8f50731312" /><br/>
+
+# Create Python Environment
+```
+uv venv venvAgentSDK
+ .\venvAgentSDK\Scripts\activate
+.\venvAgentSDK\Scripts\python.exe -m ensurepip --upgrade 
+```
