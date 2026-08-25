@@ -22,5 +22,8 @@ uv venv venvAgentSDK
 .\venvAgentSDK\Scripts\python.exe -m ensurepip --upgrade
 .\venvAgentSDK\Scripts\python.exe -m pip install -r .\requirements.txt
 ```
-# 3. Run main.py
+# 3. Configure these parameters:
+<img width="1187" height="488" alt="image" src="https://github.com/user-attachments/assets/3d2d2454-7082-4f5b-b496-d9a2e3240c5b" />
+
+# 4. Run main.py
 <img width="1922" height="1363" alt="image" src="https://github.com/user-attachments/assets/8cf67651-7ae7-4c47-a491-cd688c8461d4" />
