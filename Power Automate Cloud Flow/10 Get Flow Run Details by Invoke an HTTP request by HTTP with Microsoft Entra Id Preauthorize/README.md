@@ -16,3 +16,21 @@ The complete flow run design is as below:<br/>
 
 3. Apply to each:
    <img width="1590" height="1357" alt="image" src="https://github.com/user-attachments/assets/158730c0-d5d8-4ee9-af6d-74f9f139ae35" /><br/>
+
+4. Get Flow Run Id:
+   <img width="1459" height="1240" alt="image" src="https://github.com/user-attachments/assets/ef845e44-4857-4d2b-9e01-2288c347b7a9" /><br/>
+
+5. Get Flow Run Name:
+   <img width="1680" height="1304" alt="image" src="https://github.com/user-attachments/assets/55d05a2f-6cbf-48cb-99a0-3e322e38e10b" /><br/>
+
+6. Get one flow run details
+   <img width="1803" height="1312" alt="image" src="https://github.com/user-attachments/assets/0cfa5102-790d-43a2-b4da-dd135afe95f4" /><br/>
+
+## Step 03, how to create two connections:
+1. For getting run history of a flow, you can get he request url from:<br/>
+  <img width="2362" height="1025" alt="image" src="https://github.com/user-attachments/assets/3e9ed548-be44-45ee-8b2f-a6efadd48f69" /><br/>
+  
+  ```
+   In power automate flow, if I want to create a connection for connector "HTTP with Microsoft Entra ID (preauthorized)" to call this below request, can you please show me how can I create the connection especially how to set the two values for Base Resource URL and Microsoft Entra ID Resource URI (Application ID URI) ? 
+  ```
+  <img width="1016" height="395" alt="image" src="https://github.com/user-attachments/assets/4fe28fcf-ac0d-4284-9e07-fed17c0b883e" /><br/>
