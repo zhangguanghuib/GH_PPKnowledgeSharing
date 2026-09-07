@@ -34,3 +34,7 @@ The complete flow run design is as below:<br/>
    In power automate flow, if I want to create a connection for connector "HTTP with Microsoft Entra ID (preauthorized)" to call this below request, can you please show me how can I create the connection especially how to set the two values for Base Resource URL and Microsoft Entra ID Resource URI (Application ID URI) ? 
   ```
   <img width="1016" height="395" alt="image" src="https://github.com/user-attachments/assets/4fe28fcf-ac0d-4284-9e07-fed17c0b883e" /><br/>
+
+  2. For one single flow run details, you can try:
+     <img width="1078" height="451" alt="image" src="https://github.com/user-attachments/assets/1faaf682-8f1a-418f-ac90-2950560374b5" /><br/>
+
