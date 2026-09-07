@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Connect to Microsoft Dataverse and run the WhoAmI Web API function." />
+    <title>Dataverse Web API Quickstart</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&amp;family=Manrope:wght@400;500;600;700&amp;display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles/style.css" />
+  </head>
+  <body>
+    <div class="shell">
+      <header class="app-header">
+        <div class="brand-lockup">
+          <span class="brand-mark" aria-hidden="true">DV</span>
+          <div>
+            <p class="eyebrow">Microsoft Dataverse</p>
+            <h1>Web API console</h1>
+          </div>
+        </div>
+        <div class="session-actions">
+          <span id="connectionStatus" class="status" data-state="offline">
+            <span class="status-dot" aria-hidden="true"></span>
+            <span id="connectionStatusText">Not connected</span>
+          </span>
+          <button id="loginButton" class="button button-primary" type="button">Sign in</button>
+          <button id="logoutButton" class="button button-secondary hidden" type="button">Sign out</button>
+        </div>
+      </header>
+
+      <main>
+        <section class="workspace" aria-labelledby="workspaceTitle">
+          <div class="workspace-copy">
+            <p class="section-index">01 / Identity</p>
+            <h2 id="workspaceTitle">Confirm the current Dataverse user</h2>
+            <p class="lede">Run the unbound <code>WhoAmI</code> function against the connected environment.</p>
+            <dl class="environment-details">
+              <div>
+                <dt>Environment</dt>
+                <dd id="environmentName">org5efadec2</dd>
+              </div>
+              <div>
+                <dt>API version</dt>
+                <dd>v9.2</dd>
+              </div>
+              <div>
+                <dt>Authentication</dt>
+                <dd>Microsoft Entra ID</dd>
+              </div>
+            </dl>
+          </div>
+
+          <div class="request-panel">
+            <div class="request-heading">
+              <div>
+                <p class="request-method">GET</p>
+                <code>/api/data/v9.2/WhoAmI</code>
+              </div>
+              <nav id="buttonContainer" class="disabled" aria-label="Dataverse actions">
+                <button id="whoAmIButton" class="button button-run" type="button">Run request</button>
+              </nav>
+            </div>
+            <div id="container" class="response" aria-live="polite">
+              <p class="response-label">Response</p>
+              <p class="response-placeholder">Sign in to make the request.</p>
+            </div>
+          </div>
+        </section>
+      </main>
+    </div>
+
+    <script type="module" src="scripts/index.js"></script>
+  </body>
+</html>
