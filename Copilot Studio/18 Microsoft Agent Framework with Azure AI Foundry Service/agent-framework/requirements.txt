@@ -1,0 +1,14 @@
+python-dotenv
+aiohttp
+pydantic
+azure-identity
+agent-framework-core
+agent-framework-openai
+microsoft-agents-activity
+microsoft-agents-hosting-core
+microsoft-agents-hosting-aiohttp
+microsoft-agents-authentication-msal
+pdfplumber
+pymupdf
+pypdf
+reportlab
