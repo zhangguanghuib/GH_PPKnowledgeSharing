@@ -1,0 +1,72 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Debug bulk availability (account)",
+      "type": "coreclr",
+      "request": "launch",
+      "preLaunchTask": "build SearchforDataverserecords",
+      "program": "${workspaceFolder}/SearchforDataverserecords/bin/Debug/net8.0/SearchforDataverserecords.dll",
+      "cwd": "${workspaceFolder}/SearchforDataverserecords",
+      "args": [
+        "bulk-availability",
+        "account"
+      ],
+      "console": "integratedTerminal",
+      "stopAtEntry": true
+    },
+    {
+      "name": "Debug deleted accounts (FetchXML)",
+      "type": "coreclr",
+      "request": "launch",
+      "preLaunchTask": "build SearchforDataverserecords",
+      "program": "${workspaceFolder}/SearchforDataverserecords/bin/Debug/net8.0/SearchforDataverserecords.dll",
+      "cwd": "${workspaceFolder}/SearchforDataverserecords",
+      "args": [
+        "deleted-list-fetchxml",
+        "3"
+      ],
+      "console": "integratedTerminal",
+      "stopAtEntry": true
+    },
+    {
+      "name": "Debug deleted-record enabled tables",
+      "type": "coreclr",
+      "request": "launch",
+      "preLaunchTask": "build SearchforDataverserecords",
+      "program": "${workspaceFolder}/SearchforDataverserecords/bin/Debug/net8.0/SearchforDataverserecords.dll",
+      "cwd": "${workspaceFolder}/SearchforDataverserecords",
+      "args": [
+        "deleted-enabled-tables"
+      ],
+      "console": "integratedTerminal",
+      "stopAtEntry": true
+    },
+    {
+      "name": "Debug primary image columns",
+      "type": "coreclr",
+      "request": "launch",
+      "preLaunchTask": "build SearchforDataverserecords",
+      "program": "${workspaceFolder}/SearchforDataverserecords/bin/Debug/net8.0/SearchforDataverserecords.dll",
+      "cwd": "${workspaceFolder}/SearchforDataverserecords",
+      "args": [
+        "image-primary-columns"
+      ],
+      "console": "integratedTerminal",
+      "stopAtEntry": true
+    },
+    {
+      "name": "Debug attachment max size",
+      "type": "coreclr",
+      "request": "launch",
+      "preLaunchTask": "build SearchforDataverserecords",
+      "program": "${workspaceFolder}/SearchforDataverserecords/bin/Debug/net8.0/SearchforDataverserecords.dll",
+      "cwd": "${workspaceFolder}/SearchforDataverserecords",
+      "args": [
+        "attachment-max"
+      ],
+      "console": "integratedTerminal",
+      "stopAtEntry": true
+    }
+  ]
+}
