@@ -28,3 +28,7 @@ https://<TenantId Split by last two chars>.tenant.api.powerplatform.com/licensin
     "resourceConsumption": 95.92
 }
 ```
+
+## Step 2:  Create Power Automate flow to set Agents Credit Limit<br/>
+<img width="518" height="781" alt="image" src="https://github.com/user-attachments/assets/925b7759-7f2e-4fa3-a070-db86e9f46b43" /><br/>
+
