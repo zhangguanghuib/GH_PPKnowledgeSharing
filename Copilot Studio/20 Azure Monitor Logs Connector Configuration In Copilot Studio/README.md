@@ -35,5 +35,7 @@ Click "Create" <br/>
    Search "Microsoft 365" <br/>
    <img width="2491" height="1464" alt="image" src="https://github.com/user-attachments/assets/2338d523-e737-4521-b9c9-ab4b51dc90d0" /><br/>
    Select this connector, and then click "Install" <br/>
-   
+   Once Installation is done, and then click "Manage" button <br/>
+   <img width="2469" height="1392" alt="image" src="https://github.com/user-attachments/assets/537a161a-ce07-4d55-a073-61d64065a82d" /><br/>
+
 
