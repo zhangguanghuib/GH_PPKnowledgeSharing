@@ -26,3 +26,14 @@ Click "Create" <br/>
    <img width="1509" height="302" alt="image" src="https://github.com/user-attachments/assets/7b72d7f1-4458-46d3-848a-804d602bba91" /><br/>
    Select the workspace created before, and then click Add button<br/>
    <img width="1422" height="1378" alt="image" src="https://github.com/user-attachments/assets/fbebf06d-fe47-42b7-82e2-c173ccca5e04" /><br/>
+
+5. Configure the Data Connectors:<br/>
+   <img width="1909" height="1383" alt="image" src="https://github.com/user-attachments/assets/fbd82b88-a181-4a1e-bb63-4b3aced3ded9" /><br/>
+   You can see currently there is only 7 connectors.
+   Click "Content Hub":<br/>
+   <img width="1856" height="1279" alt="image" src="https://github.com/user-attachments/assets/ee5a0537-4994-470d-a935-029ac05c941d" /><br/>
+   Search "Microsoft 365" <br/>
+   <img width="2491" height="1464" alt="image" src="https://github.com/user-attachments/assets/2338d523-e737-4521-b9c9-ab4b51dc90d0" /><br/>
+   Select this connector, and then click "Install" <br/>
+   
+
