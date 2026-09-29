@@ -40,7 +40,7 @@ Click "Create" <br/>
 
 ## 6. Open Connector Page 
    <img width="2050" height="1398" alt="image" src="https://github.com/user-attachments/assets/204fc8f7-465e-442a-908f-9a838b332da5" /><br/>
-   <img width="2438" height="1424" alt="image" src="https://github.com/user-attachments/assets/18873bc7-71ec-48ae-b9ab-301405a07a7a" />
+   <img width="2438" height="1424" alt="image" src="https://github.com/user-attachments/assets/18873bc7-71ec-48ae-b9ab-301405a07a7a" /><br/>
    Checked:<br/>
    <ul>
    <li>Exchange</li>
@@ -48,4 +48,9 @@ Click "Create" <br/>
    <li>Teams</li>
    </ul>
    Then click "Apply Changes" <br/>
-   
+
+## 7.  Test to query logs
+ <img width="2032" height="1058" alt="image" src="https://github.com/user-attachments/assets/b32ed657-7ccc-4ba6-8cfd-8f8f6fab0dad" /><br/>
+
+## 8.  Connect Microsoft Sentinel-enabled Log Analytics workspaces by using "Azure Monitor Logs Connector " in Copilot Studio
+<img width="2377" height="1463" alt="image" src="https://github.com/user-attachments/assets/93252a37-410a-4596-8566-720c64fa9c8f" /><br/>
