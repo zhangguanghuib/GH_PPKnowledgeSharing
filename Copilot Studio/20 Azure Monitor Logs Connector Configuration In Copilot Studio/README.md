@@ -12,14 +12,14 @@ Open the Resource Groups<br/>
 <img width="2460" height="772" alt="image" src="https://github.com/user-attachments/assets/ada5571b-86d5-42a1-9df0-a69568225e7a" /><br/>
 Click "Create" <br/>
 
-3. Create "Log Analytics workspaces"<br/>
+## 3. Create "Log Analytics workspaces"<br/>
    <img width="1324" height="887" alt="image" src="https://github.com/user-attachments/assets/4b5ece05-edea-414c-b313-2b1e3670c4fd" /><br/>
    Give it a name:<br/>
    <img width="1260" height="1388" alt="image" src="https://github.com/user-attachments/assets/fa929b64-7c62-4e3d-b152-629d2d54259e" /><br/>
    Once the deployment is done, you can open the workspace<br/>
    <img width="2450" height="797" alt="image" src="https://github.com/user-attachments/assets/da8715b9-fe46-418c-bec9-68ffce502732" /><br/>
 
-4. Create "Microsoft Sentinel "
+## 4. Create "Microsoft Sentinel "
 
    <img width="1858" height="428" alt="image" src="https://github.com/user-attachments/assets/bc74b160-2c37-4d12-b87f-d6f60e6562fd" /><br/>
    Click "Create" <br/>
@@ -27,7 +27,7 @@ Click "Create" <br/>
    Select the workspace created before, and then click Add button<br/>
    <img width="1422" height="1378" alt="image" src="https://github.com/user-attachments/assets/fbebf06d-fe47-42b7-82e2-c173ccca5e04" /><br/>
 
-5. Configure the Data Connectors:<br/>
+## 5. Configure the Data Connectors:<br/>
    <img width="1909" height="1383" alt="image" src="https://github.com/user-attachments/assets/fbd82b88-a181-4a1e-bb63-4b3aced3ded9" /><br/>
    You can see currently there is only 7 connectors.
    Click "Content Hub":<br/>
@@ -38,4 +38,14 @@ Click "Create" <br/>
    Once Installation is done, and then click "Manage" button <br/>
    <img width="2469" height="1392" alt="image" src="https://github.com/user-attachments/assets/537a161a-ce07-4d55-a073-61d64065a82d" /><br/>
 
-
+## 6. Open Connector Page 
+   <img width="2050" height="1398" alt="image" src="https://github.com/user-attachments/assets/204fc8f7-465e-442a-908f-9a838b332da5" /><br/>
+   <img width="2438" height="1424" alt="image" src="https://github.com/user-attachments/assets/18873bc7-71ec-48ae-b9ab-301405a07a7a" />
+   Checked:<br/>
+   <ul>
+   <li>Exchange</li>
+   <li>SharePoint</li>
+   <li>Teams</li>
+   </ul>
+   Then click "Apply Changes" <br/>
+   
