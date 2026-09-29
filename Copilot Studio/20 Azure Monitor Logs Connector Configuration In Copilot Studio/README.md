@@ -54,3 +54,9 @@ Click "Create" <br/>
 
 ## 8.  Connect Microsoft Sentinel-enabled Log Analytics workspaces by using "Azure Monitor Logs Connector " in Copilot Studio
 <img width="2377" height="1463" alt="image" src="https://github.com/user-attachments/assets/93252a37-410a-4596-8566-720c64fa9c8f" /><br/>
+
+## 9.  Test it in Copilot Studio
+<img width="2111" height="564" alt="image" src="https://github.com/user-attachments/assets/d8ab0539-7a93-4e4f-91da-64a87ee26c05" /><br/>
+<img width="1580" height="1019" alt="image" src="https://github.com/user-attachments/assets/c526e939-a4ca-4e95-8ada-c4246adb9257" /><br/>
+
+
