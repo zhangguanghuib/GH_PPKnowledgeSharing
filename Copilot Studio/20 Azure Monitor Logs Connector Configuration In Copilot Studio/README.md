@@ -19,3 +19,10 @@ Click "Create" <br/>
    Once the deployment is done, you can open the workspace<br/>
    <img width="2450" height="797" alt="image" src="https://github.com/user-attachments/assets/da8715b9-fe46-418c-bec9-68ffce502732" /><br/>
 
+4. Create "Microsoft Sentinel "
+
+   <img width="1858" height="428" alt="image" src="https://github.com/user-attachments/assets/bc74b160-2c37-4d12-b87f-d6f60e6562fd" /><br/>
+   Click "Create" <br/>
+   <img width="1509" height="302" alt="image" src="https://github.com/user-attachments/assets/7b72d7f1-4458-46d3-848a-804d602bba91" /><br/>
+   Select the workspace created before, and then click Add button<br/>
+   <img width="1422" height="1378" alt="image" src="https://github.com/user-attachments/assets/fbebf06d-fe47-42b7-82e2-c173ccca5e04" /><br/>
