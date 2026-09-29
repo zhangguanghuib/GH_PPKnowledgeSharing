@@ -16,4 +16,6 @@ Click "Create" <br/>
    <img width="1324" height="887" alt="image" src="https://github.com/user-attachments/assets/4b5ece05-edea-414c-b313-2b1e3670c4fd" /><br/>
    Give it a name:<br/>
    <img width="1260" height="1388" alt="image" src="https://github.com/user-attachments/assets/fa929b64-7c62-4e3d-b152-629d2d54259e" /><br/>
+   Once the deployment is done, you can open the workspace<br/>
+   <img width="2450" height="797" alt="image" src="https://github.com/user-attachments/assets/da8715b9-fe46-418c-bec9-68ffce502732" /><br/>
 
