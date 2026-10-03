@@ -1,0 +1,39 @@
+// Source:
+// https://learn.microsoft.com/power-apps/developer/data-platform/xrm-tooling/use-xrm-tooling-common-login-control-client-applications
+//
+// This code belongs in a .NET Framework 4.8 WPF project that includes the
+// Microsoft.CrmSdk.XrmTooling.WpfControls package and the official LoginUX files.
+// It is retained here because the consolidated runnable project is a .NET 8 console app.
+
+using PowerApps.Samples.LoginUX;
+
+private void Button_Click(object sender, RoutedEventArgs e)
+{
+    ExampleLoginForm ctrl = new ExampleLoginForm();
+    ctrl.ConnectionToCrmCompleted += ctrl_ConnectionToCrmCompleted;
+    ctrl.ShowDialog();
+
+    if (ctrl.CrmConnectionMgr != null &&
+        ctrl.CrmConnectionMgr.CrmSvc != null &&
+        ctrl.CrmConnectionMgr.CrmSvc.IsReady)
+    {
+        MessageBox.Show(
+            "Connected to Dataverse version: " +
+            ctrl.CrmConnectionMgr.CrmSvc.ConnectedOrgVersion +
+            " Organization: " +
+            ctrl.CrmConnectionMgr.CrmSvc.ConnectedOrgUniqueName,
+            "Connection Status");
+    }
+    else
+    {
+        MessageBox.Show("Cannot connect; try again!", "Connection Status");
+    }
+}
+
+private void ctrl_ConnectionToCrmCompleted(object sender, EventArgs e)
+{
+    if (sender is ExampleLoginForm)
+    {
+        Dispatcher.Invoke(() => ((ExampleLoginForm)sender).Close());
+    }
+}

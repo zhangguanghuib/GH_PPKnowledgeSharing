@@ -1,0 +1,35 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Debug XRM learning sample",
+      "type": "coreclr",
+      "request": "launch",
+      "preLaunchTask": "build-xrm-learning",
+      "program": "${workspaceFolder}\\bin\\Debug\\net8.0\\XrmToolsLearning.dll",
+      "args": ["${input:sampleName}"],
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal",
+      "stopAtEntry": true,
+      "justMyCode": true
+    }
+  ],
+  "inputs": [
+    {
+      "id": "sampleName",
+      "type": "pickString",
+      "description": "Select an XRM learning sample (connection and retrieve are read-only)",
+      "options": [
+        "all",
+        "connection",
+        "retrieve",
+        "crud",
+        "messages",
+        "association",
+        "webapi",
+        "parallel"
+      ],
+      "default": "all"
+    }
+  ]
+}
