@@ -6,6 +6,7 @@ Steps:
       <img width="2415" height="1213" alt="image" src="https://github.com/user-attachments/assets/ad86c985-1d5f-4c9a-b546-bca73ba5edfc" /><br/>
       <li> Presence.Read.All </li>
       <li> User.Read</li>
+      These two permissions are mandatory for this connector
     <li>Create a new Client Secret<br/></li>
       <img width="1682" height="790" alt="image" src="https://github.com/user-attachments/assets/c404480a-5d8b-466c-92e5-1633d4397699" /><br/>
    <li> Redirect URI: Leave it empty and provided during Custom Connector Creation<br/></li>
