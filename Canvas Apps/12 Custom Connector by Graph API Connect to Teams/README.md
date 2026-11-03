@@ -36,7 +36,7 @@ Steps:
 ```
 
 Click "Create Custom Connector", and then go back to Security Table and find and copy the Redirect URL:<br/>
-<img width="1150" height="426" alt="image" src="https://github.com/user-attachments/assets/95f81ca5-2c2c-483a-9aec-3b1ca3615af2" /><br/>
+<img width="1518" height="576" alt="image" src="https://github.com/user-attachments/assets/99c77fe4-d644-4aca-b1ae-4ca0bc4de14e" /><br/>
 Fill the Redirect URl back to the App Registration<br/>
 <img width="2062" height="962" alt="image" src="https://github.com/user-attachments/assets/13f6b342-23f2-4bdd-99fc-b03d686d6c8d" /><br/>
 
@@ -47,3 +47,60 @@ Input this:
 {"ids":["f********************"]}
 ```
 <img width="1036" height="1002" alt="image" src="https://github.com/user-attachments/assets/d1fe9074-7cc2-4e84-85c6-b4099d1da066" /><br/>
+
+# 4. Create Canvas App
+
+In the main screen's OnVisible method, add these code:
+
+```
+ClearCollect(
+    colPeople,
+    ForAll(
+        [
+            "user1@domain1.onmicrosoft.com",
+            "user2@domain1.onmicrosoft.com",
+            "user3@domain1.onmicrosoft.com"
+        ] As e,
+        With(
+            {
+                p: IfError(
+                    Office365Users.UserProfileV2(e.Value),
+                    Blank()
+                )
+            },
+            {
+                Id: p.id,
+                DisplayName: p.displayName,
+                Mail: p.mail,
+                UserPrincipalName: p.userPrincipalName,
+                JobTitle: p.jobTitle
+            }
+        )
+    )
+);
+// 去掉查不到的邮箱（拼写错误、离职等）
+RemoveIf(
+    colPeople,
+    IsBlank(Id)
+);
+
+If(
+    CountRows(colPeople) > 0,
+    ClearCollect(
+        colPresence,
+        TeamsConnector.GetPresences(
+            {
+                ids: ForAll(
+                    colPeople,
+                    ThisRecord.Id
+                )
+            }
+        ).value
+    )
+);
+Notify(
+    "Screen1.OnVisible",
+    NotificationType.Information,
+    3000
+);
+```
