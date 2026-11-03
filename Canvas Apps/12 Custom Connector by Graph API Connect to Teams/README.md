@@ -13,6 +13,6 @@ Steps:
       <img width="2039" height="971" alt="image" src="https://github.com/user-attachments/assets/cd300eb7-94e4-44f8-9cd7-61c0ffe3ac70" /><br/>
 
 # 2. Create Custom Connector
-    ## Step 1. Create Custom Connector from Blank
+    Step 1. Create Custom Connector from Blank<br/>
 
-    <img width="1795" height="378" alt="image" src="https://github.com/user-attachments/assets/d2981845-e5a6-4b2a-9c1a-e0c025553f80" />
+    <img width="1795" height="378" alt="image" src="https://github.com/user-attachments/assets/d2981845-e5a6-4b2a-9c1a-e0c025553f80" /><br/>
