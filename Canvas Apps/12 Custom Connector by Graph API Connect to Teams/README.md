@@ -25,6 +25,7 @@ Steps:
 
 <li>Create a new Operation<li>
 <img width="2495" height="1394" alt="image" src="https://github.com/user-attachments/assets/66232396-5fc8-4c72-b8ec-a1888b25343c" /><br/>
+
 ```
 {
    "value":
@@ -33,6 +34,7 @@ Steps:
          ]
 }
 ```
+
 Click "Create Custom Connector", and then go back to Security Table and find and copy the Redirect URL:<br/>
 <img width="1150" height="426" alt="image" src="https://github.com/user-attachments/assets/95f81ca5-2c2c-483a-9aec-3b1ca3615af2" /><br/>
 Fill the Redirect URl back to the App Registration<br/>
