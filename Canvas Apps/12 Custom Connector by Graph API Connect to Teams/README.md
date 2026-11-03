@@ -104,3 +104,36 @@ Notify(
     3000
 );
 ```
+
+Add a Vertical Gallery into Screen, and set its Items as
+
+```
+AddColumns(
+    colPeople,
+    Presence,
+    Coalesce(
+        LookUp(
+            colPresence,
+            id = Id,
+            availability
+        ),
+        "PresenceUnknown"
+    )
+)
+```
+
+Set the 3 fields in the Gallery as:<br/>
+<img width="1463" height="456" alt="image" src="https://github.com/user-attachments/assets/85a6e774-a392-49f5-a924-8d4eeb6c93b6" /><br/>
+
+Status Column:<br/>
+```
+ThisItem.Presence
+```
+
+Chat Button=>OnSelect
+```
+Launch(
+    "https://teams.microsoft.com/l/chat/0/0",
+    {users: ThisItem.UserPrincipalName}
+)
+```
