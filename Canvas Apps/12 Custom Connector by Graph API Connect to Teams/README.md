@@ -36,7 +36,7 @@ Steps:
 ```
 
 Click "Create Custom Connector", and then go back to Security Table and find and copy the Redirect URL:<br/>
-<img width="1518" height="576" alt="image" src="https://github.com/user-attachments/assets/99c77fe4-d644-4aca-b1ae-4ca0bc4de14e" /><br/>
+<img width="1361" height="557" alt="image" src="https://github.com/user-attachments/assets/ee207bba-e511-4455-be46-1ef6ab881380" /><br/>
 Fill the Redirect URl back to the App Registration<br/>
 <img width="2062" height="962" alt="image" src="https://github.com/user-attachments/assets/13f6b342-23f2-4bdd-99fc-b03d686d6c8d" /><br/>
 
