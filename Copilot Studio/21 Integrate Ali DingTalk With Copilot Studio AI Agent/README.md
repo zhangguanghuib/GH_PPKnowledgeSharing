@@ -37,13 +37,16 @@ Then get the Direct Line API Endpoint<br/>
    (venvLangGraph) PS  cd .\dingTalk1.0\          
    (venvLangGraph) PS  python.exe .\dingtalk_copilot_relay.py  
    ```
-5. Send message from DingTalk to Copilot Agent and get answer from Copilot Agent:
+5. Search the name we created in the https://open-dev.dingtalk.com from DingTalk Client:
+   <img width="825" height="384" alt="image" src="https://github.com/user-attachments/assets/f7635aca-451e-4b79-b226-080c847c41fc" />
+
+7. Send message from DingTalk to Copilot Agent and get answer from Copilot Agent:
    <img width="1997" height="707" alt="image" src="https://github.com/user-attachments/assets/6ad86597-313b-44aa-8f87-bfa10b1248d1" /><br/>
 
    From the Console log we can see the message can be sent from DingTalk to Copilot Agent and also DingTalk can get response from Copilot Agent<br/>
   <img width="1711" height="526" alt="image" src="https://github.com/user-attachments/assets/9f349b8d-cb46-45ba-8804-ee7ea4937676" /><br/>
 
-  6. Attach the Source code for your reference
+  8. Attach the Source code for your reference
      ```py
      """
       DingTalk (钉钉) <-> Microsoft Copilot Studio relay (sample, not production-hardened).
@@ -298,5 +301,5 @@ Then get the Direct Line API Endpoint<br/>
           main()
      ```
 
-  7. Please be noted, for test purpose the Python code can be running in our local computer, but for production the Python code need be deployed to Azure or other cloud.
+  9. Please be noted, for test purpose the Python code can be running in our local computer, but for production the Python code need be deployed to Azure or other cloud.
 
