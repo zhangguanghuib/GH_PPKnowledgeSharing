@@ -37,6 +37,9 @@ Then get the Direct Line API Endpoint<br/>
    (venvLangGraph) PS  cd .\dingTalk1.0\          
    (venvLangGraph) PS  python.exe .\dingtalk_copilot_relay.py  
    ```
+5. Send message from DingTalk to Copilot Agent and get answer from Copilot Agent:
+   <img width="1997" height="707" alt="image" src="https://github.com/user-attachments/assets/6ad86597-313b-44aa-8f87-bfa10b1248d1" /><br/>
+
    From the Console log we can see the message can be sent from DingTalk to Copilot Agent and also DingTalk can get response from Copilot Agent<br/>
   <img width="1711" height="526" alt="image" src="https://github.com/user-attachments/assets/9f349b8d-cb46-45ba-8804-ee7ea4937676" /><br/>
 
