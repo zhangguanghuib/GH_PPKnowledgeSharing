@@ -298,5 +298,5 @@ Then get the Direct Line API Endpoint<br/>
           main()
      ```
 
-
+  7. Please be noted, for test purpose the Python code can be running in our local computer, but for production the Python code need be deployed to Azure or other cloud.
 
