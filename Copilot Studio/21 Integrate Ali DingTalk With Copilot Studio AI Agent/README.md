@@ -17,14 +17,28 @@ Then get the Direct Line API Endpoint<br/>
    <img width="1921" height="1073" alt="image" src="https://github.com/user-attachments/assets/c1d51268-2026-4b4c-9fc0-2bea9fc73d23" /><br/>
 
 3. Write the below code:
+   Parameters<br/>
    ```
-   DINGTALK_CLIENT_ID=
-   DINGTALK_CLIENT_SECRET=
+   DINGTALK_CLIENT_ID= DingTalk Robot Client Id from https://open-dev.dingtalk.com
+   DINGTALK_CLIENT_SECRET=  DingTalk Robot Client Secret from https://open-dev.dingtalk.com
    # Set DIRECTLINE_SECRET or COPILOT_TOKEN_ENDPOINT; the secret takes priority.
-   DIRECTLINE_SECRET=
-    COPILOT_TOKEN_ENDPOINT=
+   DIRECTLINE_SECRET= Secret from Copilot Studio(See Step #1)
+   COPILOT_TOKEN_ENDPOINT= Direct Line API Endpoint (See Step #1)
    ```
-
+   Python Package Dependencies<br/>
+   ```
+   dingtalk-stream
+   requests
+    python-dotenv
+   ```
+4. Launch the Python Code
+   ```ps
+   .\venvLangGraph\Scripts\activate
+   (venvLangGraph) PS  cd .\dingTalk1.0\          
+   (venvLangGraph) PS  python.exe .\dingtalk_copilot_relay.py  
+   ```
+   From the Console log we can see the message can be sent from DingTalk to Copilot Agent and also DingTalk can get response from Copilot Agent<br/>
+  <img width="1711" height="526" alt="image" src="https://github.com/user-attachments/assets/9f349b8d-cb46-45ba-8804-ee7ea4937676" /><br/>
 
 
 
