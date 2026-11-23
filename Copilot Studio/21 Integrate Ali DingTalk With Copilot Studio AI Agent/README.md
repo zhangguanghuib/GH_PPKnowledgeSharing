@@ -14,7 +14,16 @@ Then get the Direct Line API Endpoint<br/>
    Configure the mode of message receive<br/>
    <img width="1771" height="1467" alt="image" src="https://github.com/user-attachments/assets/6fdc356e-23fb-4463-9fab-e1ac4ed14a5f" /><br/>
    Copy "Client Id" and "Client Secret Id" for future use:<br/>
-   <img width="1921" height="1073" alt="image" src="https://github.com/user-attachments/assets/c1d51268-2026-4b4c-9fc0-2bea9fc73d23" />
+   <img width="1921" height="1073" alt="image" src="https://github.com/user-attachments/assets/c1d51268-2026-4b4c-9fc0-2bea9fc73d23" /><br/>
+
+3. Write the below code:
+   ```
+   DINGTALK_CLIENT_ID=
+   DINGTALK_CLIENT_SECRET=
+   # Set DIRECTLINE_SECRET or COPILOT_TOKEN_ENDPOINT; the secret takes priority.
+   DIRECTLINE_SECRET=
+    COPILOT_TOKEN_ENDPOINT=
+   ```
 
 
 
