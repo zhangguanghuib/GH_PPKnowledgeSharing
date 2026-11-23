@@ -1,0 +1,3 @@
+dingtalk-stream
+requests
+python-dotenv
