@@ -13,6 +13,8 @@ Then get the Direct Line API Endpoint<br/>
    <img width="2452" height="837" alt="image" src="https://github.com/user-attachments/assets/67647007-00c8-4e22-9167-6efc679f5198" /><br/>
    Configure the mode of message receive<br/>
    <img width="1771" height="1467" alt="image" src="https://github.com/user-attachments/assets/6fdc356e-23fb-4463-9fab-e1ac4ed14a5f" /><br/>
+   Copy "Client Id" and "Client Secret Id" for future use:<br/>
+   <img width="1921" height="1073" alt="image" src="https://github.com/user-attachments/assets/c1d51268-2026-4b4c-9fc0-2bea9fc73d23" />
 
 
 
